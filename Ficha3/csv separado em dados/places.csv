@@ -1,0 +1,2915 @@
+city;state;id
+Shelton;WA;0
+Aloha;OR;1
+Wichita;KS;2
+San Francisco;CA;3
+Evans;CO;4
+Guthrie;OK;5
+Chandler;AZ;6
+Assaria;KS;7
+Burlington;IA;8
+Knoxville;PA;9
+Stockton;CA;10
+Freeport;TX;11
+Columbus;OH;12
+Des Moines;IA;13
+New Orleans;LA;14
+Huntley;MT;15
+Salt Lake City;UT;16
+Strong;AR;17
+Syracuse;UT;18
+England;AR;19
+El Paso;TX;20
+Arcola;IL;21
+South Gate;CA;22
+North Las Vegas;NV;23
+Albuquerque;NM;24
+Jourdanton;TX;25
+St. Paul;MN;26
+Franklin County;MO;27
+Chesapeake;VA;28
+Old Bridge;NJ;29
+Lake Jackson;TX;30
+Draper;UT;31
+Indianapolis;IN;32
+Aurora;CO;33
+Bloomington;MN;34
+Fairfield;CA;35
+Evangeline Parish;LA;36
+Mabank;TX;37
+Fremont;CA;38
+Muskogee;OK;39
+Los Angeles;CA;40
+Fort Worth;TX;41
+Maricopa;AZ;42
+Gunlock;KY;43
+Weymouth;MA;44
+Scottsdale;AZ;45
+Hemet;CA;46
+Chapeno;TX;47
+St. Louis;MO;48
+Derry;NH;49
+Sierra Blanca;TX;50
+Longview;TX;51
+Fort Lauderdale;FL;52
+Levelland;TX;53
+Austin;TX;54
+Rexburg;ID;55
+Baltimore;MD;56
+Pueblo;CO;57
+Winslow;NJ;58
+Denver;CO;59
+New Hope;MN;60
+Tahoka;TX;61
+Wasco;CA;62
+Omaha;NE;63
+Phoenix;AZ;64
+Morenci;AZ;65
+Sunset;TX;66
+Rosenberg;TX;67
+Wyoming;MI;68
+Stillwater;OK;69
+Billings;MT;70
+Houston;TX;71
+Randallstown;MD;72
+Hummelstown;PA;73
+Apple Valley;CA;74
+Bay City;MI;75
+Emeryville;CA;76
+Antioch;CA;77
+Douglas;GA;78
+Tallahassee;FL;79
+Orlando;FL;80
+Tempe;AZ;81
+Lorena;TX;82
+Memphis;TN;83
+Chino;CA;84
+Oklahoma City;OK;85
+Calimesa;CA;86
+Gastonia;NC;87
+Anchorage;AK;88
+New City;NY;89
+Orange County;FL;90
+Nocona;TX;91
+Smyrna;ME;92
+Dallas;TX;93
+Whitehaven;TN;94
+New Castle;CO;95
+Pasco;WA;96
+San Jose;CA;97
+Dadeville;AL;98
+San Bernardino;CA;99
+Kansas City;KS;100
+Reading;PA;101
+McLemoresville;TN;102
+San Manuel;AZ;103
+Essex;MD;104
+Laredo;TX;105
+Iuka;MS;106
+Colton;OR;107
+Miami Gardens;FL;108
+Marana;AZ;109
+Boise;ID;110
+Provo;UT;111
+Gaston County;NC;112
+Springfield;MO;113
+Eaton Rapids Township;MI;114
+Tewksbury;MA;115
+Del Rio;TX;116
+Charlotte;NC;117
+Euless;TX;118
+Homewood;AL;119
+Birmingham;AL;120
+Ruidoso;NM;121
+Palm Bay;FL;122
+Denham Springs;LA;123
+Powder Springs;GA;124
+Clarkesville;GA;125
+Millbrook;AL;126
+Allentown;PA;127
+Green Bay;WI;128
+Las Vegas;NV;129
+Lakeland;FL;130
+Gulfport;MS;131
+Sylvester;GA;132
+Terre Haute;IN;133
+Santa Ana;CA;134
+Pelzer;SC;135
+St Louis;MO;136
+Tucson;AZ;137
+Columbia;MO;138
+Tarboro;NC;139
+La Paz County;AZ;140
+Roxand Township;MI;141
+Barton;MS;142
+Joilet;IL;143
+Salisbury;MD;144
+Deltona;FL;145
+Milwaukee;WI;146
+Burbank;CA;147
+Lincoln;NE;148
+Madison;WI;149
+Putnam Hall;FL;150
+Anaheim;CA;151
+Claymont;DE;152
+Atlanta;GA;153
+Brevard;NC;154
+Dinosaur;CO;155
+Cocoa;FL;156
+Cleveland;OH;157
+Baton Rouge;LA;158
+Port Wentworth;GA;159
+Ontario;CA;160
+Elkton;MD;161
+Kingman;AZ;162
+Bay Minette;AL;163
+Hoover;AL;164
+Washington;DC;165
+Napa;CA;166
+Kansas City;MO;167
+Fontana;CA;168
+Walnut Creek;CA;169
+Follansbee;WV;170
+Kenosha;WI;171
+San Antonio;TX;172
+Ruth;MS;173
+Medford;OR;174
+Dublin;NC;175
+Onalaska;TX;176
+Sacramento;CA;177
+Glendale;AZ;178
+Bakersfield;CA;179
+Lawrence County;AL;180
+Middleton;ID;181
+Jacksonville;FL;182
+Sumas;WA;183
+Coal County;OK;184
+Red Valley;AZ;185
+Cottonwood;AZ;186
+Clarendon;NY;187
+Harmony;IN;188
+Vallejo;CA;189
+Portland;OR;190
+Islip;NY;191
+Santa Clara;CA;192
+Portsmouth;VA;193
+Fond du Lac;WI;194
+Smyrna;GA;195
+Johnsonville;SC;196
+South Los Angeles;CA;197
+Gardner;KS;198
+Wilmington;CA;199
+Oxnard;CA;200
+Fort Ashby;WV;201
+Boston;MA;202
+Encinitas;CA;203
+Fort Pierce;FL;204
+Webster;MA;205
+Elizabethtown;KY;206
+Jasper;OH;207
+Boulder City;NV;208
+Eugene;OR;209
+Carollwood;FL;210
+Baytown;TX;211
+Fort Meade;MD;212
+Hawthorne;CA;213
+Hamilton;NJ;214
+Rock Island;IL;215
+Tulsa;OK;216
+Pineville;LA;217
+Metropolis;IL;218
+Winchester;VA;219
+Zion;IL;220
+Orange;CA;221
+Edgewood;NM;222
+North Charleston;SC;223
+Tehachapi;CA;224
+Harvey;LA;225
+Jefferson County;ID;226
+Pottawatomie County;OK;227
+Valdosta;GA;228
+Sunnyvale;CA;229
+Navarre;FL;230
+Monon;IN;231
+Straban Township;PA;232
+Boiling Springs;SC;233
+Kellyville;OK;234
+Corning;CA;235
+Topeka;KS;236
+Sand Springs;OK;237
+Salemburg;NC;238
+Alton;IL;239
+DeSoto;TX;240
+Jonesboro;AR;241
+Miami;FL;242
+Spartanburg;SC;243
+Canon City;CO;244
+Montclair;CA;245
+Shafter;CA;246
+Chicago;IL;247
+Jennings;MO;248
+Panama City;FL;249
+Wilmore;KY;250
+Sidney;NE;251
+Mission;TX;252
+Lakewood;WA;253
+Irmo;SC;254
+Trenton;NJ;255
+Bisbee;AZ;256
+Queens;NY;257
+Eldorado Springs;CO;258
+Sylmar;CA;259
+Rufe;OK;260
+Long Beach;CA;261
+Windsor;CA;262
+Miami;OK;263
+Trinidad;CO;264
+Victoria;TX;265
+New York;NY;266
+Clermont;FL;267
+Bunch;OK;268
+Kings County;CA;269
+Fountain Valley;CA;270
+Detroit;MI;271
+Mansfield;OH;272
+Marion;IL;273
+Chickasha;OK;274
+Mesa;AZ;275
+Elk Grove;CA;276
+Emporia;VA;277
+Nashville;TN;278
+San Diego;CA;279
+Smyrna;DE;280
+Roosevelt;UT;281
+Garland;TX;282
+Chavies;KY;283
+Kennewick;WA;284
+Venice;CA;285
+South El Monte;CA;286
+Pulaski;VA;287
+Wake Forest;NC;288
+Lawrenceville;GA;289
+Beacon;NY;290
+Cerritos;CA;291
+Kearny;AZ;292
+Constantia;NY;293
+Fridley;MN;294
+Tacoma;WA;295
+Landover;MD;296
+St. Augustine;FL;297
+Rancho Santa Margarita;CA;298
+Honolulu;HI;299
+Portage;MI;300
+Rockford;IL;301
+Harvey;IL;302
+St. Petersburg;FL;303
+Arlington;VA;304
+Cabot;AR;305
+Grand Junction;CO;306
+Lancaster;PA;307
+Owensboro;KY;308
+Green;OH;309
+Gillette;WY;310
+Ft. Lauderdale;FL;311
+Hackensack;NJ;312
+Charleston;SC;313
+Somerset;PA;314
+Sedalia;MO;315
+Eagar;AZ;316
+Huntsville;AL;317
+Bossier City;LA;318
+Snohomish;WA;319
+Ideal Beach;NJ;320
+Edmond;OK;321
+Rockville;GA;322
+Alpine;CA;323
+Lancaster;SC;324
+Northglenn;CO;325
+Carrollton;GA;326
+Trenton;MI;327
+Lyndhurst;NJ;328
+Okmulgee County;OK;329
+Wilderville;OR;330
+Palestine;TX;331
+Greece;NY;332
+Roslindale;MA;333
+Azle;TX;334
+Ellis County;TX;335
+Fuqua;TX;336
+Byram;NJ;337
+Delano;CA;338
+Los Lunas;NM;339
+Santa Maria;CA;340
+Morgantown;WV;341
+North Port;FL;342
+Watsonsville;CA;343
+Midland;TX;344
+Strasburg;CO;345
+Oakland;CA;346
+Melbourne;FL;347
+Woodland;WA;348
+Beech Grove;IN;349
+Sun City;AZ;350
+Findlay;OH;351
+Tomball;TX;352
+Cincinnati;OH;353
+Bronx;NY;354
+Pompano Beach;FL;355
+Columbia;TN;356
+Bexar County;TX;357
+Kokomo;IN;358
+Fort Wayne;IN;359
+Louisville;KY;360
+Hutchins;TX;361
+South Lake Tahoe;CA;362
+Visalia;CA;363
+Wood Lake;ND;364
+Clanton;AL;365
+Hobbs;NM;366
+Coney Island;NY;367
+Greeley;CO;368
+Azusa;CA;369
+Ronda;NC;370
+Citrus Heights;CA;371
+Augusta;GA;372
+Pittsburgh;PA;373
+Hutchinson;KS;374
+Weatherford;TX;375
+York County;VA;376
+Owings Mills;MD;377
+Fresno;CA;378
+Malone;NY;379
+Tahlequah;OK;380
+Edinburg;NY;381
+Franklin;NC;382
+McMinnville;OR;383
+Josephine County;OR;384
+Brockton;MA;385
+Meadow Bridge;WV;386
+Lancaster;CA;387
+Camden;NJ;388
+Miami Beach;FL;389
+West Covina;CA;390
+Morristown;TN;391
+Newport News;VA;392
+Henderson;NV;393
+Pleasanton;CA;394
+Hawaiian Gardens;CA;395
+Bath;NH;396
+Atwater;CA;397
+Lakewood;CA;398
+Edinburg;TX;399
+Atlantic City;NJ;400
+Sugar Creek;MO;401
+Beaverton;OR;402
+Ashe County;NC;403
+Parowan;UT;404
+Boulder Creek;CA;405
+Covington;GA;406
+Olivehurst;CA;407
+River Forest;IL;408
+Casper;WY;409
+Plantation;FL;410
+Stone Mountain;GA;411
+Dunsmuir;CA;412
+Lynn;MA;413
+Mascotte;FL;414
+Southington;OH;415
+Marion;MI;416
+Wauwatosa;WI;417
+Homestead;FL;418
+Chattanooga;TN;419
+Cheyenne;WY;420
+Opp;AL;421
+Moreno Valley;CA;422
+Seattle;WA;423
+Needles;CA;424
+Brownsville;TX;425
+Fort Collins;CO;426
+Colby;KS;427
+Mt. Auburn;OH;428
+Winnie;TX;429
+White;GA;430
+Oakland Park;FL;431
+Jesup;GA;432
+Monroe;WI;433
+Philadelphia;PA;434
+Dayton;OH;435
+Myrtle Beach;SC;436
+Douglas;WY;437
+Meadow Vista;CA;438
+Plymouth;MN;439
+Studio City;CA;440
+Pinnacle;NC;441
+Decatur;GA;442
+Micanopy;FL;443
+Shreveport;LA;444
+Seneca;SC;445
+Houma;LA;446
+Boulder;CO;447
+Manila;AR;448
+Las Cruces;NM;449
+Logan;UT;450
+Gardnerville Ranchos;NV;451
+Whittier;CA;452
+Roswell;NM;453
+Nitro;WV;454
+Campbelltown;PA;455
+Powhatan County;VA;456
+Muncie;IN;457
+San Diego County;CA;458
+Rantoul;IL;459
+Greenfield;WI;460
+Maui;HI;461
+Richmond;VA;462
+Antioch;TN;463
+Elsmere;KY;464
+Arlington;TX;465
+Superior;MT;466
+Greenville;NC;467
+Brookshire;TX;468
+Summerville;SC;469
+Spokane;WA;470
+Ardmore;OK;471
+Pittston;PA;472
+Gilbert;AZ;473
+Sandpoint;ID;474
+Waco;TX;475
+Odessa;TX;476
+Toledo;OH;477
+Staten Island;NY;478
+Boerne;TX;479
+District Heights;MD;480
+Bolton;CT;481
+Inyokern;CA;482
+Carson City;NV;483
+Hanover;IN;484
+Kerrville;TX;485
+Bloomfield Township;MI;486
+Hunters;WA;487
+Canton;NC;488
+Beverly;OH;489
+Tuscaloosa;AL;490
+Grapeview;WA;491
+North East;MD;492
+Cohasset;MN;493
+King George;VA;494
+Troy;NY;495
+Arab;AL;496
+Brick Township;NJ;497
+Archdale;NC;498
+Santa Fe;NM;499
+West Chester;PA;500
+Thonotosassa;FL;501
+Hendersonville;TN;502
+West Jordan;UT;503
+Spanish Fork;UT;504
+Mount Vernon;NY;505
+Cushing;OK;506
+Loveland;CO;507
+Bluefield;WV;508
+Twinsburg;OH;509
+Artesia;NM;510
+Prescott;AZ;511
+Mitchell;SD;512
+Weitchpec;CA;513
+Springtown;TX;514
+Merrimack;NH;515
+French Lick;IN;516
+Durham;NC;517
+Virginia Beach;VA;518
+Little Havana;FL;519
+Fairbanks;AK;520
+Ashwaubenon;WI;521
+El Monte;CA;522
+Potsdam;NY;523
+Lodi;CA;524
+Downey;CA;525
+Chester;PA;526
+Broomfield;CO;527
+Sylacauga;AL;528
+West Knox;TN;529
+Wellman;IA;530
+McAlester;OK;531
+Clute;TX;532
+Princeton;KY;533
+Barstow;CA;534
+Chalmette;LA;535
+Panorama City;CA;536
+Alexandria;LA;537
+Lead;SD;538
+Beaverton;MI;539
+Brodhead;KY;540
+Dickson;TN;541
+Slidell;LA;542
+Washington County;AL;543
+Harrisonburg;VA;544
+Shelbyville;IN;545
+Sand City;CA;546
+Barberville;FL;547
+Auburndale;FL;548
+Paris;TX;549
+Niceville;FL;550
+Happy Valley;CA;551
+McKinney;TX;552
+Reisterstown;MD;553
+Grayson County;VA;554
+Wilmington;DE;555
+Fountain;CO;556
+Akron;OH;557
+Wilhoit;AZ;558
+Lovington;NM;559
+Rossville;GA;560
+Ponder;TX;561
+San Ysidro;CA;562
+Rapid City;SD;563
+Mora;MN;564
+Beckley;WV;565
+Sierra Vista;AZ;566
+Amarillo;TX;567
+Rialto;CA;568
+Van Nuys;CA;569
+Muscle Shoals;AL;570
+Hurst;TX;571
+Woodbridge;NJ;572
+Midwest City;OK;573
+Monterey;CA;574
+West Palm Beach;FL;575
+Columbia;MD;576
+Aguanga;CA;577
+Beverly;MA;578
+Old Saybrook;CT;579
+Pinion Hills;CA;580
+Cato Township;MI;581
+Lisle;IL;582
+Lakes Charles;LA;583
+Taylors;SC;584
+West Odessa;TX;585
+Lawton;OK;586
+Brookhaven;MS;587
+Cartersville;GA;588
+Naples;FL;589
+Indio;CA;590
+Seaside;CA;591
+Monroeville;AL;592
+Parma;OH;593
+Kirkland;WA;594
+Valinda;CA;595
+Barrow County;GA;596
+Columbus;MS;597
+Modesto;CA;598
+York;PA;599
+Palm Beach Gardens;FL;600
+Truth or Consequences;NM;601
+Mandeville;LA;602
+Cedar Rapids;IA;603
+Calexico;CA;604
+West Goshen;CA;605
+Kentwood;MI;606
+Carmichael;CA;607
+Pine Top;KY;608
+Highgrove;CA;609
+Cape Coral;FL;610
+Cathedral City;CA;611
+Zanesville;OH;612
+Paddock Lake;WI;613
+Kenai Peninsula;AK;614
+New Paltz;NY;615
+Talking Rock;GA;616
+Frederick;MD;617
+Tampa;FL;618
+Savannah;GA;619
+Point Loma;CA;620
+Smithville;MS;621
+Salem;OR;622
+Hohenwald;TN;623
+Burkesville;KY;624
+Mesquite;TX;625
+Norwood;OK;626
+Old Town;FL;627
+Colorado Springs;CO;628
+Opelika;AL;629
+Hutchinson;MN;630
+Eureka;CA;631
+Council;ID;632
+Marksville;LA;633
+Merced;CA;634
+Pacific Beach;CA;635
+Hominy;OK;636
+Lakeshire;MO;637
+Goose Creek;SC;638
+Wadesboro;NC;639
+North Laredo;TX;640
+Braxton County;WV;641
+Chico;CA;642
+Brighton;CO;643
+Dillon;MT;644
+Aiken;SC;645
+Gibson County;TN;646
+Jurupa Valley;CA;647
+Eden;GA;648
+Germantown;PA;649
+Minneapolis;MN;650
+Spring Lake;NC;651
+Whitfield County;GA;652
+Leon County;TX;653
+Cayce;SC;654
+Arlington;GA;655
+Little Egg Harbor;NJ;656
+Opa-Locka;FL;657
+Benton Township;MI;658
+Manatee;FL;659
+Paulding County;GA;660
+Colbert;OK;661
+Reno;NV;662
+Corpus Christi;TX;663
+Columbia Heights;MN;664
+Ozark;MO;665
+Lampe;MO;666
+Seagoville;TX;667
+Celina;OH;668
+Maysville;MO;669
+Wink;TX;670
+Bangor;ME;671
+Norwalk;CA;672
+Deming;NM;673
+Big Springs;NE;674
+Mount Washington;PA;675
+Irving;TX;676
+Neenah;WI;677
+Richmond Heights;OH;678
+Laramie;WY;679
+Yonkers;NY;680
+Leitchfield;KY;681
+Pryor;OK;682
+Marina;CA;683
+Lynwood;CA;684
+Healdton;OK;685
+East Stroudsburg;PA;686
+Denton;TX;687
+Thurston County;WA;688
+Mountain View;CO;689
+Humboldt;TN;690
+Gilroy;CA;691
+Mount Hope;WV;692
+Middle River;MD;693
+Dallas;NC;694
+Camarillo;CA;695
+Kent;OH;696
+Northwood;OH;697
+Knoxville;TN;698
+Taos;NM;699
+Concord;VA;700
+Palmdale;CA;701
+Douglasville;GA;702
+Breaux Bridge;LA;703
+Canaan Township;PA;704
+Smartsville;CA;705
+Ludlow;KY;706
+Burlington;VT;707
+Brooksville;FL;708
+Dearborn;MI;709
+Winnsboro;LA;710
+Pride;LA;711
+Lansing;MI;712
+Porterville;CA;713
+Palo Alto;CA;714
+Homedale;ID;715
+Lucedale;MS;716
+Franklin;LA;717
+Suffolk;VA;718
+Santa Nella;CA;719
+Rosemead;CA;720
+Rawlins;WY;721
+Maryneal;TX;722
+Sioux Falls;SD;723
+Livingston;MT;724
+Ragley;LA;725
+Olympia;WA;726
+Johnson City;TN;727
+Redding;CA;728
+Ceres;CA;729
+Upper Darby;PA;730
+Carrizozo;NM;731
+Daviess County;KY;732
+Geneva;WI;733
+Acworth;GA;734
+Kelso;WA;735
+Rising Sun;MD;736
+San Fernando;CA;737
+Penn Township;PA;738
+Spenard;AK;739
+Norfolk;VA;740
+Sevierville;TN;741
+Cle Elum;WA;742
+Hurst;IL;743
+Santa Clarita;CA;744
+Elkins;WV;745
+Southfield;MI;746
+Hollywood Hills;CA;747
+El Cajon;CA;748
+Petroleum;WV;749
+Belle Glade;FL;750
+North Hills;CA;751
+Rainbow City;AL;752
+Union City;CA;753
+Statesville;NC;754
+Port Barre;LA;755
+Meridianville;AL;756
+Eufaula;OK;757
+Burns;OR;758
+Mountain Pine;AR;759
+Latta;SC;760
+Lenoir City;TN;761
+Mansfield;TX;762
+Cobb County;GA;763
+Clackamas County;OR;764
+Phenix City;AL;765
+Immokalee;FL;766
+Newark;CA;767
+Wilkinsburg;PA;768
+Saginaw;TX;769
+Rancho Cordova;CA;770
+Schulter;OK;771
+Ocala;FL;772
+Rosebud;SD;773
+Perry Township;OH;774
+Hilo;HI;775
+Milton;FL;776
+Union Grove;NC;777
+Seaside;OR;778
+Austin;AR;779
+Manchester;NJ;780
+Abingdon;MD;781
+Barrow;AK;782
+Roseville;MN;783
+Henderson County;TX;784
+Maiden;NC;785
+Syracuse;NY;786
+Beckville;TX;787
+Arvonia;VA;788
+Urbandale;IA;789
+Bradenton;FL;790
+Yorba Linda;CA;791
+Jal;NM;792
+Fairfield;CT;793
+Republic;MO;794
+Mena;AR;795
+Reno;TX;796
+Commerce;GA;797
+Ogden;UT;798
+Elizabethton;TN;799
+Inglewood;CA;800
+Houston;AK;801
+Fairborn;OH;802
+Ripon;CA;803
+Blue Springs;MO;804
+Bailey;CO;805
+East Troy;WI;806
+Montgomery;AL;807
+Silver Springs;NV;808
+Hesston;KS;809
+Roanoke;VA;810
+Rapid Valley;SD;811
+Ashville;AL;812
+Raleigh;NC;813
+Gautier;MS;814
+Bel Air;MD;815
+Johnstown;PA;816
+Sims;AR;817
+East Bernstadt;KY;818
+Cheektowaga;NY;819
+Beaumont;TX;820
+Bismarck;ND;821
+Rochester;NY;822
+Carlsbad;NM;823
+Biloxi;MS;824
+Colorado City;CO;825
+Rosalia;KS;826
+Clinton;IL;827
+Greensboro;NC;828
+Glendale;CA;829
+Addison;TX;830
+Piedmont;AL;831
+Vancouver;WA;832
+Russellville;KY;833
+Evansville;IN;834
+Florence;CA;835
+Anson County;NC;836
+Burnsville;MN;837
+Byron;CA;838
+Idaho Falls;ID;839
+Covington;LA;840
+White Plains;KY;841
+Hopewell;VA;842
+Fort Littleton;PA;843
+Gainesville;FL;844
+Stamford;CT;845
+South Greensburg;PA;846
+Fredericksburg;VA;847
+Thornton;CO;848
+Raleigh;TN;849
+Braintree;MA;850
+Pawtucket;RI;851
+Redlands;CA;852
+Pueblo of Laguna;NM;853
+Lowell;MA;854
+Grundy;VA;855
+Lee's Summit;MO;856
+Winslow;AZ;857
+Kinston;NC;858
+Splendora;TX;859
+Piedmont;SC;860
+Aitkin;MN;861
+Clearlake Park;CA;862
+Jackson;GA;863
+Lockhart;TX;864
+Macon County;AL;865
+Eau Claire;WI;866
+Raceland;LA;867
+West Springfield;MA;868
+Oak Hill;OH;869
+Gallatin;TN;870
+Lake Hallie;WI;871
+New Brunswick;NJ;872
+Rotterdam;NY;873
+Benton;IL;874
+Noma;FL;875
+Llano;TX;876
+Sparta;TN;877
+McPherson;KS;878
+Lake Elsinore;CA;879
+Cache;OK;880
+Antioch;IL;881
+Vineland;NJ;882
+Greenbelt;MD;883
+Mableton;GA;884
+Brooksville;AL;885
+Perryville;AR;886
+Everett;MA;887
+Berne;NY;888
+Antigo;WI;889
+Fayetteville;AR;890
+East Flat Rock;NC;891
+Lakewood;CO;892
+Kingsbury;TX;893
+Westminster;CO;894
+Milcreek;UT;895
+Jackson;MO;896
+Wausau;WI;897
+Florence;AZ;898
+Alamo;TN;899
+Greenville;SC;900
+Burien;WA;901
+Temecula;CA;902
+Buffalo;MO;903
+Gretna;LA;904
+Weirton;WV;905
+Lake Stevens;WA;906
+Presque Isle;ME;907
+St. Martin;MS;908
+Hog Valley;FL;909
+Nacogdoches;TX;910
+Taunton;MA;911
+Byng;OK;912
+Boyle Heights;CA;913
+Jacksonsville;FL;914
+Osteen;FL;915
+Stockbridge;GA;916
+Shawnee National Forest;IL;917
+Riverdale;GA;918
+Siskiyou County;CA;919
+Sullivan;MO;920
+Fisty;KY;921
+Chesterfield County;SC;922
+Oregon City;OR;923
+Flagstaff;AZ;924
+Hallandale Beach;FL;925
+Oxford;MA;926
+Gresham;OR;927
+Harrisonville;MO;928
+Lansing;IL;929
+Washington Park;IL;930
+Solvang;CA;931
+Sneads;FL;932
+Socorro;NM;933
+Eastaboga;AL;934
+Deland;FL;935
+Clinton;NC;936
+Stoneville;NC;937
+Tualatin;OR;938
+Bend;OR;939
+Newnan;GA;940
+Berea;KY;941
+Wasilla;AK;942
+Parker;AZ;943
+Yreka;CA;944
+Eufaula;AL;945
+Wagoner;OK;946
+Turlock;CA;947
+Norman;VA;948
+Port Arthur;TX;949
+Ishpeming Township;MI;950
+Somerton;AZ;951
+Iredell County;NC;952
+Yakima;WA;953
+Tupelo;MS;954
+Maywood;CA;955
+Eagle Mountain;UT;956
+Hiseville;KY;957
+Schenectady;NY;958
+Mobile;AL;959
+Tiverton;RI;960
+Odessa;MO;961
+Chula Vista;CA;962
+Pembine;WI;963
+Butte;MT;964
+Montpelier;OH;965
+Fort Walton Beach;FL;966
+Hardeeville;SC;967
+Lake Havasu City;AZ;968
+Peterborough;NH;969
+Lawndale;NC;970
+Wellington;FL;971
+Walls;MS;972
+Bellville;TX;973
+Belleville;IL;974
+Hanover;NM;975
+Paterson;NJ;976
+Farmington;AR;977
+Fulshear;TX;978
+Riverview;FL;979
+Pinellas Park;FL;980
+Buckeye;AZ;981
+Gainesville;GA;982
+Columbia Township;MI;983
+Thomaston;CT;984
+Dolton;IL;985
+Boone;IA;986
+Cochran;GA;987
+Laguna Pueblo;NM;988
+Frederica;DE;989
+Barbourville;KY;990
+Ouachita Parish;LA;991
+Fort Madison;IA;992
+Park County;CO;993
+Landrum;SC;994
+Jackson;WI;995
+Asheville;NC;996
+Bristol;TN;997
+New Iberia;LA;998
+Fullerton;CA;999
+Rosser;TX;1000
+Yuma;AZ;1001
+Falcon Heights;MN;1002
+Rush Springs;OK;1003
+Bell;CA;1004
+Clovis;CA;1005
+Selma;AL;1006
+Broken Bow;OK;1007
+East St. Louis;IL;1008
+Romulus;MI;1009
+St. Joseph;MI;1010
+Middletown;NY;1011
+Peachland;NC;1012
+Lake Asbury;FL;1013
+Little Egg Harbor Township;NJ;1014
+Sheboygan;WI;1015
+Buckhannon;WV;1016
+Winchester;CA;1017
+Gallup;NM;1018
+Pine River;WI;1019
+Metairie;LA;1020
+Malta;MT;1021
+Estill Springs;TN;1022
+Sparks;NV;1023
+La Quinta;CA;1024
+Compton;CA;1025
+City Terrace;CA;1026
+Pleasant Hill;NC;1027
+Phelps;KY;1028
+Wapato;WA;1029
+Edmund;SC;1030
+Stafford;VA;1031
+Lake City;SC;1032
+Alexandria;MN;1033
+Hammett;ID;1034
+Castaic;CA;1035
+Clearfield;UT;1036
+Scott County;VA;1037
+Aldie;VA;1038
+East Point;GA;1039
+Santee;CA;1040
+Beaver Dam;WI;1041
+Harrisburg;PA;1042
+Wilkesboro;NC;1043
+Georgetown;KY;1044
+Little Mountain;SC;1045
+Circleville;OH;1046
+Tukwila;WA;1047
+Vista;CA;1048
+Plaquemine;LA;1049
+Hayward;CA;1050
+Falls Church;VA;1051
+Counce;TN;1052
+Rome;OH;1053
+Lenoir;NC;1054
+Apache Junction;AZ;1055
+Augusta;WV;1056
+Antelope;CA;1057
+Hays;KS;1058
+Poway;CA;1059
+McKinneyville;CA;1060
+East Hollywood;CA;1061
+New London;WI;1062
+East Ridge;TN;1063
+Hamilton;OH;1064
+Myra;TX;1065
+Oak Cliff;TX;1066
+Shelbyville;TN;1067
+Eagan;MN;1068
+Harker Heights;TX;1069
+Graham;WA;1070
+McDowell;MO;1071
+Sylvania Township;OH;1072
+Huntington Park;CA;1073
+Alamogordo;NM;1074
+Parker;CO;1075
+Round Lake;IL;1076
+East Wenatchee;WA;1077
+Temple;TX;1078
+Spencer;WV;1079
+Gray;TN;1080
+Albany;GA;1081
+Titusville;FL;1082
+Delhi;CA;1083
+Auburn;WA;1084
+Montcalm;WV;1085
+Saratoga;CA;1086
+Colton;CA;1087
+Weeki Wachi;FL;1088
+Big Bear;MO;1089
+Winooski;VT;1090
+Beaumont;CA;1091
+Rutherfordton;NC;1092
+St. Cloud;MN;1093
+Spring;TX;1094
+Logan Canyon;UT;1095
+Wood County;TX;1096
+Decatur County;TN;1097
+Port St. Lucie;FL;1098
+Mashantucket;CT;1099
+Louisville;NE;1100
+Fair Oaks;CA;1101
+Pikesville;MD;1102
+Claremont;NH;1103
+Garden City;ID;1104
+Little Rock;AR;1105
+Groveton;TX;1106
+Newark;NJ;1107
+Campobello;SC;1108
+Belleville;MI;1109
+Hometown;WV;1110
+Markham;IL;1111
+Ventnor;NJ;1112
+Springdale;AR;1113
+Hessel;MI;1114
+Moncks Corner;SC;1115
+Macon;GA;1116
+Killeen;AL;1117
+Benton;AR;1118
+Federal Way;WA;1119
+Wetumka;OK;1120
+Lumberton;NC;1121
+Irvine;CA;1122
+Westlake;OH;1123
+Concord;CA;1124
+Livingston Parish;LA;1125
+Morehead;KY;1126
+Kent;WA;1127
+Grants Pass;OR;1128
+Santa Cruz;CA;1129
+Holiday;FL;1130
+Benton Harbor;MI;1131
+Paris;KY;1132
+Willoughby;OH;1133
+Muckleshoot Indian Reservation;WA;1134
+Westover;AL;1135
+Peterson;MN;1136
+Edmonton;KY;1137
+North St. Louis;MO;1138
+Lincoln;CA;1139
+Carrollton;TX;1140
+Bartlesville;OK;1141
+Elberton;GA;1142
+Morris;MN;1143
+North Royalton;OH;1144
+Leedey;OK;1145
+Torrance;CA;1146
+Chatsworth;CA;1147
+Brookville;OH;1148
+Salisbury;NC;1149
+Chambersburg;PA;1150
+Loganville;GA;1151
+Palm Springs;CA;1152
+Lealman;FL;1153
+Okemah;OK;1154
+Clendenin;WV;1155
+Beaver;WA;1156
+Gladewater;TX;1157
+Maurice River;NJ;1158
+Hensley;WV;1159
+Bowling Green;KY;1160
+Ashtabula;OH;1161
+Show Low;AZ;1162
+San Angelo;TX;1163
+Montrose County;CO;1164
+Bloomsburg;PA;1165
+York County;PA;1166
+Webster;TX;1167
+Ludowici;GA;1168
+Casa Grande;AZ;1169
+Brooklyn;NY;1170
+Watsonville;CA;1171
+Lompoc;CA;1172
+La Mirada;CA;1173
+Jackson;TN;1174
+Hattiesburg;MS;1175
+Surprise;AZ;1176
+Naples;ME;1177
+Olathe;KS;1178
+Hickory;NC;1179
+Friendswood;TX;1180
+Avon;IN;1181
+Iva;SC;1182
+Dover;AR;1183
+Simpsonsville;KY;1184
+Tuscumbia;AL;1185
+Hudson;OH;1186
+Elkhart;IN;1187
+Orange City;FL;1188
+Fruitland Park;FL;1189
+Sioux City;IA;1190
+Avella;PA;1191
+Fayetteville;NC;1192
+Allen;TX;1193
+Keaau;HI;1194
+Leland;NC;1195
+Forks Township;PA;1196
+Sumter;SC;1197
+Greenwood;IN;1198
+Fairmont;WV;1199
+Bullhead City;AZ;1200
+Medicine Lodge;KS;1201
+York;NE;1202
+Fort Valley;GA;1203
+Hampton;GA;1204
+Hacienda Heights;CA;1205
+Dallas;OR;1206
+Arlington;TN;1207
+Everett;WA;1208
+Ridgefield;WA;1209
+Granite Falls;NC;1210
+Pharr;TX;1211
+Brawley;CA;1212
+Ponca City;OK;1213
+Burns Flat;OK;1214
+Knox;IN;1215
+Saraland;AL;1216
+Coalinga;CA;1217
+Capitol Heights;MD;1218
+Palm Harbor;FL;1219
+Lake Wales;FL;1220
+Gadsden;AL;1221
+Pico Rivera;CA;1222
+King City;OR;1223
+Desha;AR;1224
+Middleburg;FL;1225
+Grass Valley;CA;1226
+Pearland;TX;1227
+North Riverside;IL;1228
+Campbellton;TX;1229
+Spring Hill;TN;1230
+Chestertown;MD;1231
+Pensacola;FL;1232
+Loxahatchee;FL;1233
+Huntingdon County;PA;1234
+Mankato;MN;1235
+Springfield;OH;1236
+Villa Park;IL;1237
+Woodstock;GA;1238
+Gilmer;TX;1239
+Pomona;CA;1240
+Lancaster;KY;1241
+English;IN;1242
+Dinuba;CA;1243
+Monteagle;TN;1244
+Sharon;PA;1245
+Deerfield;IL;1246
+Princeton;WV;1247
+Fairland;OK;1248
+Elkridge;MD;1249
+Independence;MO;1250
+Cumming;GA;1251
+Reagan;TN;1252
+Austin;MN;1253
+Vineland;MN;1254
+Pearisburg;VA;1255
+Kahuku;HI;1256
+Tyrone;GA;1257
+Fulton;KY;1258
+Herndon;VA;1259
+Soddy-Daisy;TN;1260
+Twentynine Palms;CA;1261
+Watts;OK;1262
+Gary;IN;1263
+Grand Forks;ND;1264
+Salinas;CA;1265
+Woodford;VA;1266
+Fritch;TX;1267
+Florissant;MO;1268
+Greenville;MS;1269
+Jean;NV;1270
+Waldoboro;ME;1271
+Carson;CA;1272
+Brooklet;GA;1273
+Springfield;IL;1274
+Kenner;LA;1275
+Atascadero;CA;1276
+Algoma Township;MI;1277
+Kuna;ID;1278
+Lancaster City;PA;1279
+Oxford;AL;1280
+Southaven;MS;1281
+Millston;WI;1282
+Overlea;MD;1283
+Madison Township;OH;1284
+Alhambra;CA;1285
+Fort Stockton;TX;1286
+Des Moines;WA;1287
+Oakdale;CT;1288
+Kiowa;OK;1289
+Lynnwood;WA;1290
+Hollywood;CA;1291
+Highland;CA;1292
+Orange Park;FL;1293
+Wichita Falls;TX;1294
+Olympic Valley;CA;1295
+Panhandle;TX;1296
+Rowland;NC;1297
+Grafton;WV;1298
+Forest Park;IL;1299
+Moultrie;GA;1300
+Englewood;OH;1301
+Commerce City;CO;1302
+Santa Monica;CA;1303
+Mt. Pleasant;TN;1304
+Howland Township;OH;1305
+Richmond;KY;1306
+Jackson County;AL;1307
+Brookville;IN;1308
+Anadarko;OK;1309
+Crownpoint;NM;1310
+Geneva Township;OH;1311
+Vassalboro;ME;1312
+Bethany;OK;1313
+Bridgeton;NJ;1314
+Aiea;HI;1315
+Terrell;TX;1316
+Santa Barbara;CA;1317
+Golden Shores;AZ;1318
+Vincennes;IN;1319
+Cape Girardeau;MO;1320
+Newman;CA;1321
+Gardena;CA;1322
+Douglas City;CA;1323
+Grand Prarie;TX;1324
+Big Lake;AK;1325
+Portland;ME;1326
+Efland;NC;1327
+Bull Shoals;AR;1328
+St. Joseph;MO;1329
+Roy;UT;1330
+Conroe;TX;1331
+Newton;KS;1332
+Fairfax;OK;1333
+London;KY;1334
+Rocklin;CA;1335
+Lumpkin;GA;1336
+Englewood;FL;1337
+Aragonite;UT;1338
+Floral City;FL;1339
+Shelby;NC;1340
+Corning;WI;1341
+Lufkin;TX;1342
+Rib Mountain;WI;1343
+San Marcos;CA;1344
+Englewood;CO;1345
+Lemoore;CA;1346
+Fountain Inn;SC;1347
+Cabazon;CA;1348
+Medina;OH;1349
+Ladera Heights;CA;1350
+Union Township;PA;1351
+Riverside;CA;1352
+Huntington Beach;CA;1353
+Escondido;CA;1354
+Midlothian;TX;1355
+East Baton Rouge;LA;1356
+Bellingham;WA;1357
+Euclid;OH;1358
+Woodlawn;MD;1359
+Toms River;NJ;1360
+Fife;WA;1361
+Panama City Beach;FL;1362
+Warren;MI;1363
+Lakeland;TN;1364
+Cedartown;GA;1365
+Affton;MO;1366
+Gifford;FL;1367
+Cape Canaveral;FL;1368
+Desert Hot Springs;CA;1369
+Booneville;KY;1370
+Crowley;LA;1371
+Weston;WI;1372
+Sheridan;AR;1373
+Cottonwood;CA;1374
+Cisco;TX;1375
+Anderson;CA;1376
+Delray Beach;FL;1377
+Lewisburg;TN;1378
+Montgomery Village;MD;1379
+Lafayette;IN;1380
+Manistee;MI;1381
+Stockton;IL;1382
+Byars;OK;1383
+New Castle;DE;1384
+Lawrenceburg;KY;1385
+Whitewright;TX;1386
+Cranbury Township;NJ;1387
+Cantonment;FL;1388
+Pendleton;SC;1389
+Goshen;IN;1390
+Westerville;OH;1391
+Largo;FL;1392
+Kyle;SD;1393
+Santa Paula;CA;1394
+Avondale;AZ;1395
+Udall;KS;1396
+Suffield;CT;1397
+Spanaway;WA;1398
+Mandan;ND;1399
+West Memphis;AR;1400
+Newport Beach;CA;1401
+Colebrook Township;OH;1402
+Vadnais Heights;MN;1403
+Clarksville;TN;1404
+Brandywine;WV;1405
+Logan County;OK;1406
+West Linn;OR;1407
+Yuba City;CA;1408
+Portage;IN;1409
+Stewartstown;PA;1410
+Wolf Creek;OR;1411
+Killeen;TX;1412
+Bellflower;CA;1413
+Lizella;GA;1414
+Lewistown;PA;1415
+Middletown;DE;1416
+San Mateo;CA;1417
+Balch Springs;TX;1418
+Papaaloa;HI;1419
+Eldorado;NM;1420
+Tom;OK;1421
+University City;CA;1422
+Grand Rapids;MI;1423
+Peachtree City;GA;1424
+Katy;TX;1425
+Buffalo;NY;1426
+Bridgeport;CT;1427
+Lexington;SC;1428
+Tiffin;OH;1429
+Brighton Township;MI;1430
+Barona Indian Reservation;CA;1431
+Baldwin County;AL;1432
+Jupiter;FL;1433
+West Allis;WI;1434
+Del Mar;CA;1435
+Wewoka;OK;1436
+Tustin;CA;1437
+Three Forks;MT;1438
+Lower Mount Bethel;PA;1439
+Belgrade;ME;1440
+Appleton;WI;1441
+Converse;LA;1442
+Mountain Home;ID;1443
+Pahrump;NV;1444
+Canton;OH;1445
+San Rafael;NM;1446
+Oneida;TN;1447
+Austell;GA;1448
+Cary;NC;1449
+Arundel;ME;1450
+Vacaville;CA;1451
+Gerrardstown;WV;1452
+Hesperia;CA;1453
+Centennial;CO;1454
+Yulee;FL;1455
+Abbeville;AL;1456
+Petal;MS;1457
+Callahan;FL;1458
+Campo;CA;1459
+Bardstown;KY;1460
+Lakes Wales;FL;1461
+Gonzales County;TX;1462
+Orrington;ME;1463
+Dundalk;MD;1464
+Hudson;NC;1465
+Roland;OK;1466
+Lyons;IL;1467
+North English;IA;1468
+Abilene;TX;1469
+Plano;TX;1470
+Trosper;KY;1471
+Cade;LA;1472
+Selma;CA;1473
+Jerseyville;IL;1474
+Hampton;NH;1475
+Alexandria;VA;1476
+Somerville;TN;1477
+Newton;NH;1478
+Water Valley;MS;1479
+Madera;CA;1480
+Montebello;CA;1481
+Waukesha;WI;1482
+Franklin;TN;1483
+St. Clair Township;OH;1484
+Lehigh;KS;1485
+Nevada;MO;1486
+Millerton;OK;1487
+Florence;OR;1488
+Deer Park;AL;1489
+Rowe;NM;1490
+Marietta;GA;1491
+Lawndale;IL;1492
+Fishers;IN;1493
+Hillsboro;OR;1494
+Bonaire;GA;1495
+Federal Heights;CO;1496
+Vandalia;OH;1497
+Centerville;UT;1498
+Richland;WA;1499
+Pleasant View;CO;1500
+Maeystown;IL;1501
+Sallisaw;OK;1502
+Madison;ME;1503
+Plant City;FL;1504
+Mamou;LA;1505
+Lacey;WA;1506
+Crescent City;FL;1507
+Newton Grove;NC;1508
+Uniontown;OH;1509
+Bainbridge Island;WA;1510
+Mt Airy;MD;1511
+North Branch;MN;1512
+Poplar Bluff;MO;1513
+Leavenworth;KS;1514
+Golden Valley;AZ;1515
+Lake View;SC;1516
+Grover Beach;CA;1517
+Pima;AZ;1518
+Crystal Springs;FL;1519
+Goodyear;AZ;1520
+Culpeper;VA;1521
+Clay;AL;1522
+Springfield;OR;1523
+Saginaw;MI;1524
+Neosho;MO;1525
+Paulden;AZ;1526
+Spencer;MA;1527
+Marion;AR;1528
+Vero Beach;FL;1529
+Avenal;CA;1530
+Wenatchee;WA;1531
+Chowchilla;CA;1532
+Homer;LA;1533
+Grand Terrace;CA;1534
+Glenville;NY;1535
+Melba;ID;1536
+Norco;CA;1537
+Oshkosh;WI;1538
+Los Banos;CA;1539
+Mt. Airy;NC;1540
+Coushatta;LA;1541
+Richmond;CA;1542
+Mannington;WV;1543
+Lima;OH;1544
+Surfside Beach;SC;1545
+Spanish Springs;NV;1546
+Lauderdale County;MS;1547
+Marine City;MI;1548
+Mead Township;PA;1549
+New Straitsville;OH;1550
+Santa Rosa;CA;1551
+Bon Aqua;TN;1552
+North Bergen;NJ;1553
+Blue Summit;MO;1554
+Junction City;KS;1555
+Dalton;IL;1556
+Dyer;IN;1557
+Channelview;TX;1558
+Frederickstown;WA;1559
+Habersham;GA;1560
+La Crosse;WI;1561
+Cosby;TN;1562
+Thomasville;GA;1563
+Livermore;CA;1564
+Crenshaw County;AL;1565
+Bloomfield;NJ;1566
+Fairchance;PA;1567
+Yellville;AR;1568
+Brick;NJ;1569
+Morganton;NC;1570
+Franklin;WI;1571
+Steubenville;OH;1572
+Pardeeville;WI;1573
+Orcutt;CA;1574
+Durham;CA;1575
+Waterford Township;MI;1576
+Lemon Grove;CA;1577
+Orange;NJ;1578
+Sunrise;FL;1579
+Woodville;GA;1580
+Pine Bluff;AR;1581
+Farmington;NM;1582
+Kettering;OH;1583
+Sharpsburg;KY;1584
+New Milford;CT;1585
+Jacksonville;AL;1586
+Lincoln Parish;LA;1587
+Watagua;TX;1588
+Fort Myers;FL;1589
+Poultney;VT;1590
+Mount Hope;WI;1591
+Pittsfield;MA;1592
+Longview;WA;1593
+Columbus;GA;1594
+Kendale Lakes;FL;1595
+Monett;MO;1596
+Arcata;CA;1597
+Youngtown;AZ;1598
+Huntersville;NC;1599
+Great Falls;MT;1600
+Hixson;TN;1601
+Bassett;CA;1602
+Quartzsite;AZ;1603
+Frametown;WV;1604
+Haymarket;VA;1605
+Oak Harbor;WA;1606
+West Milford;WV;1607
+Monroe;NC;1608
+Independence;VA;1609
+Bernice;LA;1610
+La Porte;TX;1611
+Peoria;IL;1612
+Boswell;OK;1613
+Rockwall;TX;1614
+Oceanside;CA;1615
+New Castle;IN;1616
+Palmetto;FL;1617
+Fairview;TN;1618
+Coolin;ID;1619
+Spring Hill;FL;1620
+Griffin;GA;1621
+Columbua;IN;1622
+Palatka;FL;1623
+Hialeah;FL;1624
+West Burlington;IA;1625
+Canton Township;PA;1626
+Seward;AK;1627
+North Fort Collins;CO;1628
+Parkton;NC;1629
+West Ouachita;LA;1630
+Jefferson City;MO;1631
+Canandaigua;NY;1632
+Thomas County;GA;1633
+Hiram;GA;1634
+Finney County;KS;1635
+Leeds;AL;1636
+Golden;CO;1637
+Perryopolis;PA;1638
+Duarte;CA;1639
+Charleston;WV;1640
+Abingdon;VA;1641
+Pinetop-Lakeside;AZ;1642
+Rochester;WA;1643
+Valdez;CO;1644
+Wayne County;KY;1645
+Charlottesville;VA;1646
+Simpsonville;SC;1647
+Picture Rocks;AZ;1648
+Kingwood;TX;1649
+Hampton;VA;1650
+Clearwater;FL;1651
+Kings Mountain;NC;1652
+Moraine;OH;1653
+Fort Smith;OK;1654
+Cloverdale;CA;1655
+Girard;OH;1656
+Crandon;WI;1657
+Shelbyville;KY;1658
+Standing Rock Reservation;ND;1659
+Plymouth Township;PA;1660
+Norwich;CT;1661
+Fairhope;AL;1662
+Erie;PA;1663
+Horseheads;NY;1664
+Indiantown;FL;1665
+Black River Falls;WI;1666
+Polk County;OR;1667
+Tate County;MS;1668
+King of Prussia;PA;1669
+Livingston;TN;1670
+Anniston;AL;1671
+Pippa Passes;KY;1672
+Inkster;MI;1673
+Port Orange;FL;1674
+Batesville;AR;1675
+Ohatchee;AL;1676
+Clarksville;AR;1677
+Owen County;IN;1678
+Meridian;MS;1679
+Rudioso;NM;1680
+Lynchburg;VA;1681
+Forest Park;GA;1682
+Clinton;TN;1683
+Odanah;WI;1684
+Providence;RI;1685
+Neshoba County;MS;1686
+Flatwoods;KY;1687
+Gibson;LA;1688
+Crystal;MN;1689
+Hinds County;MS;1690
+Dakota City;IA;1691
+St. Tammany Parish;LA;1692
+Fall River;MA;1693
+Tremont;NY;1694
+Rancho Tehama Reserve;CA;1695
+Jackson;MS;1696
+Elmira;NY;1697
+Cedar Lake;TX;1698
+West Monroe;LA;1699
+Fairfax;VA;1700
+Prichard;AL;1701
+Warren County;KY;1702
+Greenville County;SC;1703
+Davenport;IA;1704
+Klamath Falls;OR;1705
+Lebanon;MO;1706
+Pell City;AL;1707
+Holland Township;MI;1708
+Wimberley;TX;1709
+Penasco;NM;1710
+Covina;CA;1711
+Eaton County;MI;1712
+Hillyard;WA;1713
+Three Points;AZ;1714
+Hendersonville;NC;1715
+North Hollywood;CA;1716
+York;SC;1717
+La Marque;TX;1718
+Monticello;GA;1719
+Bassett;VA;1720
+Lauderdale Lakes;FL;1721
+Coral Springs;FL;1722
+Peshtigo;WI;1723
+Old Forge;PA;1724
+Dover;DE;1725
+Rose Bud;AR;1726
+Artesia;CA;1727
+Rincon;GA;1728
+Hamilton;AL;1729
+New Britain;CT;1730
+McMinnville;TN;1731
+Lexington;VA;1732
+Charleston;TN;1733
+Bremerton;WA;1734
+Valley Head;WV;1735
+Oak Park;MI;1736
+Mulberry;AR;1737
+The Colony;TX;1738
+Miami Township;OH;1739
+Schertz;TX;1740
+Gilbert;MN;1741
+Pocatello;ID;1742
+Canaan;NH;1743
+Progreso;TX;1744
+Boring;OR;1745
+Tulare;CA;1746
+Lawrence;IN;1747
+Farmers Branch;TX;1748
+300 block of State Line Road;TN;1749
+Chester;VA;1750
+Dover Township;PA;1751
+Redwood City;CA;1752
+Crowell;TX;1753
+Highlands Ranch;CO;1754
+Romance;AR;1755
+Edgewater;FL;1756
+Camp Wood;TX;1757
+Ozark;AR;1758
+Joplin;MO;1759
+Whitehall;OH;1760
+McLoud;OK;1761
+Round Rock;TX;1762
+Sparta;WI;1763
+San Carlos Park;FL;1764
+Manchester Township;PA;1765
+Lauderhill;FL;1766
+Danville;VA;1767
+Sedona;AZ;1768
+Horn Lake;MS;1769
+Church Hill;TN;1770
+Lexington County;SC;1771
+Elko;NV;1772
+Pittsburg;CA;1773
+Scottsville;KY;1774
+Sherwood;OR;1775
+Puyallup;WA;1776
+Cave Junction;OR;1777
+El Sereno;CA;1778
+Montpelier;VT;1779
+Bedford;TX;1780
+Gooding;ID;1781
+Adams County;CO;1782
+Nashua;IA;1783
+Racine;WI;1784
+Franklin County;OH;1785
+Boonville;IN;1786
+Fairmont;MN;1787
+Dunwoody;GA;1788
+Overland Park;KS;1789
+Rockledge;FL;1790
+Ebey Island;WA;1791
+Battle Creek;MI;1792
+Millville;NJ;1793
+Crescent City;CA;1794
+Chatham County;GA;1795
+League City;TX;1796
+Union Township;MI;1797
+Little Orleans;MD;1798
+Buford;GA;1799
+Rock Falls;IL;1800
+Walton;IN;1801
+Chamblee;GA;1802
+Pink;OK;1803
+St. James;MN;1804
+Arvada;CO;1805
+Waverly;OH;1806
+Clayton;GA;1807
+Helena;MT;1808
+Winters;TX;1809
+Reading;MA;1810
+Nice;CA;1811
+Laguna Woods;CA;1812
+Lantana;FL;1813
+Grant-Valkaria;FL;1814
+Locust Grove;GA;1815
+Bolton;VT;1816
+Grant;OK;1817
+Willits;CA;1818
+Merrillville;IN;1819
+Belton;MO;1820
+Montezuma Creek;UT;1821
+Henderson;NC;1822
+Cocoa Beach;FL;1823
+Sissonville;WV;1824
+Inwood;WV;1825
+Hernando;FL;1826
+Catoosa;OK;1827
+Guadalupe County;TX;1828
+Fort Washington;MD;1829
+Stutsman County;ND;1830
+Stratford;TX;1831
+Woodbridge;VA;1832
+Monongalia;WV;1833
+Crawford County;OH;1834
+Wamego;KS;1835
+Chester;SC;1836
+Coeur d'Alene;ID;1837
+Alamosa;CO;1838
+Henrico;VA;1839
+Bristol Township;PA;1840
+Clarksville;TX;1841
+Pima County;AZ;1842
+Johnson County;MO;1843
+Abington Township;PA;1844
+Carroll County;GA;1845
+Barnwell;AL;1846
+Oil Springs;KY;1847
+North Manchester;IN;1848
+Shelbyville;TX;1849
+Clinton;MO;1850
+Spotsylvania;VA;1851
+Pottstown;PA;1852
+Pilot Station;AK;1853
+Tarpon Springs;FL;1854
+Fort Sumner;NM;1855
+Elgin;IL;1856
+Midland;MI;1857
+Blackman Township;MI;1858
+Lexington;NC;1859
+West Fargo;ND;1860
+Manhasset;NY;1861
+Sandy;UT;1862
+Keizer;OR;1863
+Parmelee;SD;1864
+Jonesborough;TN;1865
+Elk Plain;WA;1866
+Burnsville;NC;1867
+Harris County;TX;1868
+Valley View;CA;1869
+Lancaster;TX;1870
+Utica;KY;1871
+Lone Rock;AR;1872
+Scott County;KY;1873
+Timberlake;NC;1874
+Winter Haven;FL;1875
+Princeton;NJ;1876
+Owasso;OK;1877
+Mannford;OK;1878
+Amelia Island;FL;1879
+Littlefield;TX;1880
+Aurora;IL;1881
+Greenspoint;TX;1882
+Bogalusa;LA;1883
+Childress;TX;1884
+Genesee Township;MI;1885
+Douglas;AZ;1886
+Nikolaevsk;AK;1887
+Wise County;VA;1888
+Sanford;NC;1889
+Midway;FL;1890
+Nampa;ID;1891
+Lower Macungie Township;PA;1892
+Swansea;SC;1893
+Pasadena;TX;1894
+Winston-Salem;NC;1895
+New Llano;LA;1896
+Goodbee;LA;1897
+Jackson;MI;1898
+Okmulgee;OK;1899
+Molena;GA;1900
+Volant;PA;1901
+South Bend;IN;1902
+Reynoldsville;WV;1903
+Marysville;CA;1904
+Searcy County;AR;1905
+Oroville;CA;1906
+West Valley City;UT;1907
+Reseda;CA;1908
+Oaks;OK;1909
+Troy;MI;1910
+Baldwin Hills;CA;1911
+Royal Oak;MI;1912
+Winn Parish;LA;1913
+Pembroke;NY;1914
+Sparta;NC;1915
+Lake Elmo;MN;1916
+Helena-West Helena;AR;1917
+Washington;PA;1918
+Lodge Grass;MT;1919
+Magna;UT;1920
+Tishomingo;OK;1921
+Cumberland County;KY;1922
+Greene County;MO;1923
+Sugar House;UT;1924
+Pavilion Township;MI;1925
+Foresthill;CA;1926
+Mackinaw;IL;1927
+West Olive;MI;1928
+Harmony;TX;1929
+Grand Canyon Caverns;AZ;1930
+Grand Prairie;TX;1931
+Vernon;TX;1932
+Palermo;CA;1933
+Shelby Township;MI;1934
+Johns Creek;GA;1935
+Casselberry;FL;1936
+Moorland;IA;1937
+Box Elder;SD;1938
+Liberty;NC;1939
+Orosi;CA;1940
+Sandia;TX;1941
+Oakfield;ME;1942
+Aurora;MO;1943
+Fairview;OH;1944
+Prague;OK;1945
+Floyd County;GA;1946
+Hackett;AR;1947
+Glade Spring;VA;1948
+Lower Burrell;PA;1949
+York;WI;1950
+Clark County;WI;1951
+Haughton;LA;1952
+Talihina;OK;1953
+Blackfoot;ID;1954
+Amite;LA;1955
+Carnesville;GA;1956
+Dearborn Heights;MI;1957
+Clinton;MD;1958
+Wales;ME;1959
+Quincy;IL;1960
+Lake Mary;FL;1961
+Martins Ferry;OH;1962
+Norman;OK;1963
+Plymouth Township;MI;1964
+Sunridge;NV;1965
+Baxter;KY;1966
+Joshua Tree;CA;1967
+Mathis;TX;1968
+Gurnee;IL;1969
+Fox Crossing;WI;1970
+Rio Bravo;TX;1971
+Citra;FL;1972
+Dumas;TX;1973
+Fort Morgan;CO;1974
+Silsbee;TX;1975
+Everton;MO;1976
+Riverbank;CA;1977
+Cottonwood Heights;UT;1978
+Florida City;FL;1979
+Thomasville;NC;1980
+Dundee;FL;1981
+Mecca;CA;1982
+Wilmington;NC;1983
+Merrick;NY;1984
+LaGrange;GA;1985
+Delaware;OH;1986
+Benton City;WA;1987
+Madison County;MS;1988
+Hardwick;NJ;1989
+Deptford;NJ;1990
+Westminister;CO;1991
+Silver Spring;MD;1992
+Danville;IL;1993
+Monroe;GA;1994
+Pike County;OH;1995
+Eustis;FL;1996
+Hall County;GA;1997
+Nokomis;IL;1998
+Warwick;NY;1999
+South Salt Lake;UT;2000
+Tucumcari;NM;2001
+Kingsland;GA;2002
+Fairfield;OH;2003
+Albany;NY;2004
+Monroe;LA;2005
+Coos Bay;OR;2006
+Meridian;ID;2007
+North Shore;HI;2008
+Galveston;TX;2009
+Grenada;MS;2010
+Prompton;PA;2011
+Russellville;AR;2012
+Dade City;FL;2013
+North Pole;AK;2014
+Lawrenceburg;TN;2015
+Grandview;MO;2016
+Panora;IA;2017
+South Elgin;IL;2018
+Spalding County;GA;2019
+Red Bluff;CA;2020
+Devil's Lake;ND;2021
+Calaveras County;CA;2022
+Copper Center;AK;2023
+Amity;OR;2024
+Westminster;CA;2025
+Willis;TX;2026
+Dilley;TX;2027
+Chanhassen;MN;2028
+Florence;SC;2029
+Alvin;TX;2030
+Altoona;IA;2031
+Fletcher;NC;2032
+Pattison;TX;2033
+Puna;HI;2034
+Lady Lake;FL;2035
+Bixby;OK;2036
+Hanover;CO;2037
+Burlington;NC;2038
+Bristol;VA;2039
+Starke;FL;2040
+Lake Havasu;AZ;2041
+LaFollette;TN;2042
+Walton County;GA;2043
+Kent Station;WA;2044
+Lakemoor;IL;2045
+Redondo Beach;CA;2046
+Nanakuli;HI;2047
+South Whitehall Township;PA;2048
+Aberdeen;NC;2049
+Mississippi County;AR;2050
+Oxon Hill;MD;2051
+Hereford;TX;2052
+Sussex County;VA;2053
+Apopka;FL;2054
+Trumann;AR;2055
+Deer Park;WA;2056
+Seville;FL;2057
+Liberty;MO;2058
+Van Buren;AR;2059
+Monroe County;IN;2060
+Salt River Reservation;AZ;2061
+Carthage;TN;2062
+Hawkins;WI;2063
+Waynesboro;VA;2064
+Richton Park;IL;2065
+Creston;IA;2066
+Olustee;FL;2067
+Gonic;NH;2068
+Enoree;SC;2069
+Montgomery County;VA;2070
+Blacksburg;SC;2071
+Washington Court House;OH;2072
+Beverly Hills;FL;2073
+Pasadena;CA;2074
+Sedalia;CO;2075
+Bernalillo;NM;2076
+Cheney;WA;2077
+Hollywood;FL;2078
+Morris;AL;2079
+Jonesville;NC;2080
+Citronelle;AL;2081
+Stanwood;WA;2082
+Missouri City;TX;2083
+Ankeny;IA;2084
+Jacksonville;AR;2085
+Walla Walla;WA;2086
+Manitowoc;WI;2087
+Temple Hills;MD;2088
+Maspeth;NY;2089
+Christian County;KY;2090
+Marysville;WA;2091
+Williamsburg;KY;2092
+Stead;NV;2093
+East Los Angeles;CA;2094
+Peoria;AZ;2095
+Stanfordville;NY;2096
+Enid;OK;2097
+Hammond;LA;2098
+Johns Island;SC;2099
+Epping;NH;2100
+Greenback;TN;2101
+Hastings;MN;2102
+Victorville;CA;2103
+Bartlett;TN;2104
+Scarbo;WV;2105
+Hayti;MO;2106
+Chinle;AZ;2107
+Auburn;CA;2108
+Lawtey;FL;2109
+Clovis;NM;2110
+Okarche;OK;2111
+Oak Ridge;TN;2112
+Larimer County;CO;2113
+Thousand Oaks;CA;2114
+Sullivan;IN;2115
+Fort Smith;AR;2116
+Orem;UT;2117
+Woodville;CA;2118
+Jeffersonville;OH;2119
+Hilltop;OH;2120
+Quinlan;TX;2121
+Kearns;UT;2122
+Elkhorn;WI;2123
+Darlington County;SC;2124
+Washington;NC;2125
+Quincy;FL;2126
+Riverton;UT;2127
+Newport;TN;2128
+Snellville;GA;2129
+Alderwood Manor;WA;2130
+Parkville;MD;2131
+Bandon;OR;2132
+Danville;CA;2133
+St. Clair Shores;MI;2134
+Clear Creek Canyon;CO;2135
+Glen Burnie;MD;2136
+Cocke County;TN;2137
+Port Charlotte;FL;2138
+Camp Croft;SC;2139
+St. Cloud;FL;2140
+Corona;CA;2141
+Charleston View;CA;2142
+Shakopee;MN;2143
+Clarksdale;MS;2144
+Robbins;IL;2145
+Mantoloking;NJ;2146
+Pratt;KS;2147
+Wythe County;VA;2148
+Auburn;MA;2149
+Haynesville;AL;2150
+Paradise;CA;2151
+Demopolis;AL;2152
+Missoula;MT;2153
+Magnolia;AR;2154
+Stillwater;MN;2155
+Franklinton;OH;2156
+Lincoln Township;MI;2157
+Talladega;AL;2158
+Bell Gardens;CA;2159
+Palmer;AK;2160
+Gunnison County;CO;2161
+Bremen;KY;2162
+South Knoxville;TN;2163
+Clinton;UT;2164
+Virginia;MN;2165
+Bemidji;MN;2166
+Old Town;ME;2167
+New Underwood;SD;2168
+Tamarac;FL;2169
+Philadephia;PA;2170
+Martinez;CA;2171
+Henry County;GA;2172
+West Wendover;NV;2173
+Noble County;OK;2174
+Fredonia;NY;2175
+Bibb County;GA;2176
+Pahoa;HI;2177
+Rangley;CO;2178
+Pope County;AR;2179
+Calhoun;GA;2180
+Bushnell;FL;2181
+Shirley;NY;2182
+Hanford;CA;2183
+Apple Creek;OH;2184
+Natomas;CA;2185
+Franklin Township;PA;2186
+Union City;PA;2187
+Springfield;FL;2188
+Wailuku;HI;2189
+Rector;AR;2190
+Tullahoma;TN;2191
+Crawfordsville;IN;2192
+Danbury;CT;2193
+Fort Dodge;IA;2194
+Longmont;CO;2195
+Davidson County;NC;2196
+Shallotte;NC;2197
+Niles;OH;2198
+Greenport;NY;2199
+Albert Lea;MN;2200
+Bozeman;MT;2201
+Treme;LA;2202
+San Marcos;TX;2203
+Union County;SC;2204
+Milwaukie;OR;2205
+Hurricane;WV;2206
+Glen Valley;CA;2207
+Leadwood;MO;2208
+Eclectic;AL;2209
+Lake Charles;LA;2210
+Huntsville;TX;2211
+Dearborn County;IN;2212
+Calabasas;CA;2213
+White Lake;SD;2214
+Linda;CA;2215
+Logan Township;NJ;2216
+Roseville;CA;2217
+Fort Lupton;CO;2218
+Sperry;OK;2219
+O'Fallon;MO;2220
+St. Louis Park;MN;2221
+Naschitti;NM;2222
+South Haven;IN;2223
+Ehrenberg;AZ;2224
+Dyersburg;TN;2225
+North Escambia;FL;2226
+Mercury;NV;2227
+Kirkwood;NY;2228
+Butte County;CA;2229
+Tehama County;CA;2230
+Kalihi;HI;2231
+Passaic;NJ;2232
+Waukegan;IL;2233
+Clarksburg;WV;2234
+Farmville;VA;2235
+LaSalle;CO;2236
+Walter Hill;TN;2237
+Stone County;MS;2238
+Snyder;TX;2239
+Banning;CA;2240
+Barberton;OH;2241
+Bailey;NC;2242
+Del City;OK;2243
+Montgomery;WV;2244
+Crestwood;KY;2245
+Defiance;OH;2246
+Cinco Ranch;TX;2247
+Apex;NC;2248
+Aspers;PA;2249
+Clinton;MS;2250
+Napa Valley;CA;2251
+Claiborne County;TN;2252
+Pelehatchie;MS;2253
+Walton;WV;2254
+Poteet;TX;2255
+Blountville;TN;2256
+Flint;MI;2257
+McIntosh County;GA;2258
+Miltona;MN;2259
+Huger;SC;2260
+Struthers;OH;2261
+DeRidder;LA;2262
+Lone Tree;CO;2263
+Fairfield;TX;2264
+Sebewaing;MI;2265
+Mount Holly;NC;2266
+Fairchild;WI;2267
+Carter County;KY;2268
+Glenoma;WA;2269
+Rancho Mirage;CA;2270
+DeKalb County;GA;2271
+Athens;GA;2272
+Cheatham County;TN;2273
+Pennfield Township;MI;2274
+Quanah;TX;2275
+Monahans;TX;2276
+Cofield;NC;2277
+Westminster;MD;2278
+Salacoa;GA;2279
+Kalamazoo;MI;2280
+Ashland;CA;2281
+Grand Island;NE;2282
+Greensburg;PA;2283
+Monroe County;MS;2284
+Ontario;OR;2285
+Macoupin County;IL;2286
+The Dalles;OR;2287
+Bastrop;LA;2288
+Kittitas;WA;2289
+University City;MO;2290
+State College;PA;2291
+Sandy Springs;GA;2292
+Ernul;NC;2293
+Walterboro;SC;2294
+Port St. Joe;FL;2295
+Thurmont;MD;2296
+Horry County;SC;2297
+Burnet;TX;2298
+Manchester;NH;2299
+Cochran County;TX;2300
+Terrytown;LA;2301
+Watauga County;NC;2302
+Union City;GA;2303
+Brownstown;IN;2304
+Boynton Beach;FL;2305
+Pelion;SC;2306
+Bloomingdale;IL;2307
+New Albany;IN;2308
+Greeneville;TN;2309
+Blytheville;AR;2310
+Hamilton County;TN;2311
+Henry County;IN;2312
+Mexico Beach;FL;2313
+Canutillo;TX;2314
+Ahwatukee;AZ;2315
+Clinton;LA;2316
+Dalhart;TX;2317
+Rushville;NE;2318
+Pigeon Forge;TN;2319
+Lee;NY;2320
+Montesano;WA;2321
+Pentress;WV;2322
+Coon Rapids;MN;2323
+Wethersfield;CT;2324
+Watauga;TX;2325
+Shelby;MT;2326
+Owingsville;KY;2327
+Clarksville;IN;2328
+Hancock County;MS;2329
+Welch;WV;2330
+Welcome;NC;2331
+Perris;CA;2332
+Meadowlake;NM;2333
+Bruce;FL;2334
+Hiltons;VA;2335
+Glenwood;GA;2336
+Cedar Hill;TX;2337
+Hermantown;MN;2338
+Angel Fire;NM;2339
+Lumberton;MS;2340
+Goleta;CA;2341
+Wytheville;VA;2342
+Tunbridge;VT;2343
+Parks;AZ;2344
+South Sioux City;NE;2345
+New Boston;TX;2346
+Davie;FL;2347
+Tonalea;AZ;2348
+Garden Grove;CA;2349
+Huron;CA;2350
+Blackwell;OK;2351
+Auburn;ME;2352
+Ashland;WI;2353
+Montgomery Creek;KY;2354
+Inman;SC;2355
+Montgomery;NY;2356
+Pearl River County;MS;2357
+Indian River County;FL;2358
+Joliet;IL;2359
+Havre de Grace;MD;2360
+Gorham;ME;2361
+Collierville;TN;2362
+Ardsley;NY;2363
+Davidsonville;MD;2364
+Indialantic;FL;2365
+Trinity;NC;2366
+Escalon;CA;2367
+Braxton;MS;2368
+San Gabriel;CA;2369
+Bonnyman;KY;2370
+Shirley;AR;2371
+Menifee;CA;2372
+Kingsport;TN;2373
+Porteau;OK;2374
+Hopkins County;TX;2375
+San Leandro;CA;2376
+Rockville;MD;2377
+Belmont;NH;2378
+Renton;WA;2379
+Toppenish;WA;2380
+Centralia;WA;2381
+Friendly Hills;CO;2382
+Ashville;OH;2383
+Big Sur;CA;2384
+Phoenix;MD;2385
+Seminole;TX;2386
+Menasha;WI;2387
+Timberville;VA;2388
+Sugarcreek;OH;2389
+Orangeburg;SC;2390
+Wolfe County;KY;2391
+Yucca Valley;CA;2392
+Smyrna;TN;2393
+Pearl;MS;2394
+Bacliff;TX;2395
+Denton County;TX;2396
+Lantana;TX;2397
+Pontotoc County;MS;2398
+Bagley Township;MI;2399
+Elyria;OH;2400
+Salem;IN;2401
+Poulsbo;WA;2402
+West Des Moines;IA;2403
+Roswell;GA;2404
+Mountain Grove;MO;2405
+Oak View;CA;2406
+Ruskin;FL;2407
+Rosedale;MD;2408
+Tularosa;NM;2409
+Brooklyn;OH;2410
+Adelanto;CA;2411
+Arpin;WI;2412
+Coleman;FL;2413
+Penn Hills;PA;2414
+Chino Hills;CA;2415
+Memphis;IN;2416
+Porterdale;GA;2417
+Stone County;AR;2418
+Pemberton;NJ;2419
+Wesson;MS;2420
+Ranburne;AL;2421
+Asbury Park;NJ;2422
+Ross Township;PA;2423
+Port Allen;LA;2424
+Hartford;CT;2425
+Three Springs;PA;2426
+Sun City;SC;2427
+Boyton Beach;FL;2428
+Stroudsburg;PA;2429
+Council Bluffs;IA;2430
+Jackson County;KY;2431
+Revere;MA;2432
+Safety Harbor;FL;2433
+Hanceville;AL;2434
+Lowell;AR;2435
+Irvington;NJ;2436
+Pocahontas County;WV;2437
+Rifle;CO;2438
+Shaler Township;PA;2439
+Moss Point;MS;2440
+Bradley County;TN;2441
+Chetopa;KS;2442
+Ramseur;NC;2443
+Belton;SC;2444
+Formosa;AR;2445
+Spokane Valley;WA;2446
+Springville;IN;2447
+Caledonia;WI;2448
+Nicholasville;KY;2449
+Stanton;CA;2450
+North Aurora;IL;2451
+Glennville;GA;2452
+Cottage Grove;OR;2453
+El Cerrito;CA;2454
+Helena;AR;2455
+Gordo;AL;2456
+Salina;KS;2457
+Jamaica;NY;2458
+Tolleson;AZ;2459
+Wake County;NC;2460
+Brooklyn Center;MN;2461
+Florence;MS;2462
+Caldwell;ID;2463
+Bluff City;TN;2464
+Kaukauna;WI;2465
+Van Wert;OH;2466
+Rigby;ID;2467
+East Hartford;CT;2468
+Glendora;CA;2469
+Richfield;MN;2470
+Aberdeen;WA;2471
+Wellington;UT;2472
+Loyal;WI;2473
+Bracketville;TX;2474
+Plainview;TX;2475
+Ooltewah;TN;2476
+Elizabethon;TN;2477
+Sanger;TX;2478
+Oceanside;NY;2479
+Soddy Daisy;TN;2480
+Ada;OK;2481
+Riverton;WY;2482
+Huntington;WV;2483
+Richlands;NC;2484
+Hartsville;SC;2485
+Lacombe;LA;2486
+Hyattsville;MD;2487
+La Habra;CA;2488
+Monument;CO;2489
+Cotter;MO;2490
+Drennen;WV;2491
+Elkton;KY;2492
+Bridgeview;IL;2493
+Rutland;VT;2494
+Grovetown;GA;2495
+Herald;CA;2496
+Maryland Heights;MO;2497
+Kountze;TX;2498
+Layton;UT;2499
+Pittsburg;OK;2500
+Ethel;LA;2501
+High Point;NC;2502
+Jamestown;NC;2503
+Hope Ranch;CA;2504
+Wendell;ID;2505
+Sherman Oaks;CA;2506
+Oakridge;OR;2507
+Warren;AR;2508
+Fayette;MS;2509
+St. Joseph County;MI;2510
+Farmingdale;NJ;2511
+Leesburg;FL;2512
+Easley;SC;2513
+Trotwood;OH;2514
+Sweetwater;TX;2515
+Huntington;IN;2516
+Lake Lanier;GA;2517
+Kansas;OK;2518
+Dalton;GA;2519
+Imperial County;CA;2520
+Walloon Lake;MI;2521
+Madison;AL;2522
+Ona;WV;2523
+Bascom;FL;2524
+Pearson;GA;2525
+Dexter;KY;2526
+Parkland;WA;2527
+Sunland Park;NM;2528
+Two Rivers;WI;2529
+East Cleveland;OH;2530
+Pettis County;MO;2531
+Leon;WI;2532
+Henryetta;OK;2533
+Wadsworth;OH;2534
+Conyers;GA;2535
+Ashtabula Township;OH;2536
+Lincolnton;NC;2537
+Cedar City;UT;2538
+Wilson;NC;2539
+Mandarin;FL;2540
+Westborough;MA;2541
+Alliance;OH;2542
+Franklin County;WA;2543
+West Kewaunee;WI;2544
+Des Plaines;IL;2545
+Preston;ID;2546
+Dahlonega;GA;2547
+Black Diamond;WA;2548
+Elizabethtown;NC;2549
+Gaines Township;MI;2550
+Sparks;MD;2551
+Barton County;MO;2552
+Jim Thorpe;PA;2553
+Lewes;DE;2554
+Watkins;CO;2555
+Eatonville;WA;2556
+Secaucus;NJ;2557
+Morrow;GA;2558
+Hanover Township;PA;2559
+Daytona Beach;FL;2560
+Avon;CO;2561
+Marshall;TX;2562
+Miramar;FL;2563
+Bentonville;AR;2564
+Nokomis;FL;2565
+St. Helena Parish;LA;2566
+Andrews;SC;2567
+Beloit;WI;2568
+Jersey City;NJ;2569
+Semmes;AL;2570
+Arietta;NY;2571
+Nelson Township;PA;2572
+Washita County;OK;2573
+Ozark;AL;2574
+Redford Township;MI;2575
+Smith County;TN;2576
+Davis;CA;2577
+Brentwood;NY;2578
+Randolph County;IN;2579
+Emery County;UT;2580
+Ithaca;NY;2581
+Bryant;AR;2582
+Limerick;ME;2583
+Linthicum;MD;2584
+South Ogden;UT;2585
+Lancaster;OH;2586
+Clearlake Oaks;CA;2587
+DeSoto County;MS;2588
+Juneau;AK;2589
+El Centro;CA;2590
+Fulton;MO;2591
+Globe;AZ;2592
+Chesterfield;MO;2593
+Forrest City;AR;2594
+Cross Lanes;WV;2595
+Richmond County;VA;2596
+Central Point;OR;2597
+Holt;MO;2598
+Murrieta;CA;2599
+Ansonia;CT;2600
+Elkmont;AL;2601
+Milford;DE;2602
+Lubbock;TX;2603
+Asheboro;NC;2604
+Bismarck;MO;2605
+Nipton;CA;2606
+Powatan Point;OH;2607
+Muscoy;CA;2608
+Glenwood Springs;CO;2609
+Bainbridge;GA;2610
+Carthage;MO;2611
+The Villages;FL;2612
+Fleetwood;NC;2613
+Mulberry;FL;2614
+Yerington;NV;2615
+West Haven;CT;2616
+Sebring;FL;2617
+Waterbury;CT;2618
+Atkins;AR;2619
+Moore;OK;2620
+Bloomingdale;NJ;2621
+Oak Park;CA;2622
+Coden;AL;2623
+Lexington Park;MD;2624
+Tuscson;AZ;2625
+Shelby Gap;KY;2626
+Graham;NC;2627
+Deposit;NY;2628
+Kasilof;AK;2629
+Hockingport;OH;2630
+Minot;ME;2631
+Millcreek;UT;2632
+Allen;OK;2633
+Home Garden;CA;2634
+Ono;CA;2635
+Washoe;NV;2636
+Brookline;MA;2637
+Sapulpa;OK;2638
+Vestavia Hills;AL;2639
+Cuba;MO;2640
+Byron;GA;2641
+Lafayette;LA;2642
+Albertville;AL;2643
+Dickinson;ND;2644
+Silverton;OR;2645
+Polkton;NC;2646
+Newbury;MA;2647
+Poinciana;FL;2648
+Harrison County;IN;2649
+Greenville;TN;2650
+Pinetop;AZ;2651
+Old Mines;MO;2652
+Arnold;NE;2653
+Floresville;TX;2654
+Georgetown;TX;2655
+Brea;CA;2656
+Dalzell;SC;2657
+Lakeville;MN;2658
+Clarkdale;AZ;2659
+Moses Lake;WA;2660
+Cloverleaf;TX;2661
+Mocksville;NC;2662
+Keithville;LA;2663
+Sherman;TX;2664
+Miami-Dade;FL;2665
+Riverside;WA;2666
+Ariton;AL;2667
+Edison;CA;2668
+Harrison Township;OH;2669
+Humble;TX;2670
+Backus;MN;2671
+Elmendorf;TX;2672
+Elkton;FL;2673
+Anchor Point;AK;2674
+Potomac;MD;2675
+Claremore;OK;2676
+New Kensington;PA;2677
+Mufreesboro;TN;2678
+Lewistown;MT;2679
+Chase City;VA;2680
+Webster City;IA;2681
+Mecklenburg;VA;2682
+Myerstown;PA;2683
+Iota;LA;2684
+Orchard Mesa;CO;2685
+Wheeling;MO;2686
+Port Jervis;NY;2687
+Franklin County;TN;2688
+Cuthbert;GA;2689
+Mojave;CA;2690
+Taylorsville;UT;2691
+WInston Salem;NC;2692
+London;AR;2693
+Ormond Beach;FL;2694
+Linwood;NC;2695
+Buchanan;VA;2696
+Newburgh;NY;2697
+Lehigh Acres;FL;2698
+Gray;KY;2699
+Hinton;VA;2700
+Lincoln CIty;OR;2701
+Manchester;CT;2702
+Nutter Fort;WV;2703
+Milford;MA;2704
+Florence;AL;2705
+North Miami Beach;FL;2706
+El Mirage;AZ;2707
+Clinton;IA;2708
+Caddo Parish;LA;2709
+Refugio;TX;2710
+Columbia;SC;2711
+Colonial Heights;VA;2712
+Winchester;TN;2713
+Brandon;CO;2714
+Ritzville;WA;2715
+West Terre Haute;IN;2716
+Daly City;CA;2717
+Lamont;CA;2718
+Hubert;NC;2719
+Blair;NE;2720
+Philipsburg;MT;2721
+Daphne;AL;2722
+Anderson;SC;2723
+Raytown;MO;2724
+Springfield;CO;2725
+Adel;GA;2726
+Hiram;ME;2727
+Hogansville;GA;2728
+Wayne;NJ;2729
+La Plata;MD;2730
+Madera County;CA;2731
+Jeffersonville;IN;2732
+Martin County;KY;2733
+Portland;IN;2734
+Caldwell County;NC;2735
+Oakland City;IN;2736
+Sterling;CO;2737
+Monterey Park;CA;2738
+Webster Groves;MO;2739
+Half Moon Bay;CA;2740
+Claxton;GA;2741
+Idaho Springs;CO;2742
+Calypso;NC;2743
+Laguna Niguel;CA;2744
+Union Township;OH;2745
+Ladson;SC;2746
+Oxford;MS;2747
+Greenville;GA;2748
+Germantown;TN;2749
+St. Francis County;AR;2750
+Suring;WI;2751
+Chunchula;AL;2752
+Sale Creek;TN;2753
+Viera;FL;2754
+Atmore;AL;2755
+Greenwood;SC;2756
+Bass River;NJ;2757
+Bell County;KY;2758
+Bulls Gap;TN;2759
+Flathead County;MT;2760
+Jamestown;CA;2761
+Manlius;NY;2762
+Geneseo;NY;2763
+Wilburton;OK;2764
+Luverne;AL;2765
+Jefferson Parish;LA;2766
+North Little Rock;AR;2767
+Washington County;OR;2768
+Temple Terrace;FL;2769
+Fountain;FL;2770
+Watertown;WI;2771
+Poteau;OK;2772
+Alexander;AR;2773
+Mustang;OK;2774
+Socorro;TX;2775
+New Rochelle;NY;2776
+Clarkrange;TN;2777
+East Northport;NY;2778
+Industry;CA;2779
+Adrian;MO;2780
+Bigfork;MT;2781
+Weippe;ID;2782
+DeKalb County;TN;2783
+Paso Robles;CA;2784
+Crown Point;IN;2785
+Lawrence;KS;2786
+Beach Park;IL;2787
+Rosamond;CA;2788
+Kennard;IN;2789
+Collinsville;MS;2790
+Lovelock;NV;2791
+Jay;OK;2792
+Sodus;NY;2793
+Milpitas;CA;2794
+Palm Desert;CA;2795
+Giddings;TX;2796
+Lake Forest;CA;2797
+Vinita;OK;2798
+Hebron;KY;2799
+Port Richey;FL;2800
+Cumberland County;TN;2801
+Paducah;KY;2802
+Hazleton;PA;2803
+Durango;CO;2804
+Welches;OR;2805
+Smithfield Township;PA;2806
+Etowah;TN;2807
+Pascagoula;MS;2808
+Forksville;PA;2809
+Butler Township;OH;2810
+Leesburg;GA;2811
+Rockwood;TN;2812
+Chaska;MN;2813
+Delta Township;MI;2814
+Morris Township;NJ;2815
+Shepherdsville;KY;2816
+Shoreline;WA;2817
+North Fort Myers;FL;2818
+Knox County;TX;2819
+Fruita;CO;2820
+Chicago Heights;IL;2821
+West Kendall;FL;2822
+Roxboro;NC;2823
+The Village;OK;2824
+Carmel;IN;2825
+Bothell;WA;2826
+Brunswick;OH;2827
+Mooresville;NC;2828
+Sarasota;FL;2829
+Culver City;CA;2830
+Warren;OH;2831
+Port Orchard;WA;2832
+James Island;SC;2833
+Dover;FL;2834
+St. Charles County;MO;2835
+Sylvania;GA;2836
+St. Croix Falls;WI;2837
+Holladay;UT;2838
+Robbins;NC;2839
+Rogers County;OK;2840
+Dania Beach;FL;2841
+North Miami;FL;2842
+Marion County;FL;2843
+Franklin;GA;2844
+Maury County;TN;2845
+Dos Palos;CA;2846
+Weslaco;TX;2847
+Cumberland County;NC;2848
+Pollocksville;NC;2849
+Avon Park;FL;2850
+Chickamauga;GA;2851
+San Benito;TX;2852
+Bay City;TX;2853
+Nipomo;CA;2854
+Belcourt;ND;2855
+Lincoln County;NC;2856
+Eckford Township;MI;2857
+Rancho Cucamonga;CA;2858
+Knox County;KY;2859
+Loma;CO;2860
+Holly Hill;FL;2861
+Aztec;NM;2862
+California City;CA;2863
+Bettendorf;IA;2864
+Lucerne;CA;2865
+Summerlin;NV;2866
+Spruce Pine;NC;2867
+McCracken County;KY;2868
+Norcross;GA;2869
+Henderson County;NC;2870
+Moscow;TN;2871
+West Sacramento;CA;2872
+Bountiful;UT;2873
+Midvale;UT;2874
+Brunswick;GA;2875
+Redmond;WA;2876
+Noglaes;AZ;2877
+Geneseo;IL;2878
+San Clemente;CA;2879
+Templeton;CA;2880
+Whitehall;LA;2881
+Airway Heights;WA;2882
+Avondale;LA;2883
+Manhattan;KS;2884
+Whitby;WV;2885
+Wolfe City;TX;2886
+Hilliard;FL;2887
+Palm City;FL;2888
+Pine County;MN;2889
+Bethel Springs;TN;2890
+Frostproof;FL;2891
+Cookson;OK;2892
+Laguna;NM;2893
+Muhlenberg County;KY;2894
+Wood County;WV;2895
+Tooele;UT;2896
+South Milwaukee;WI;2897
+Emmitsburg;MD;2898
+Coram;NY;2899
+Elmwood Place;OH;2900
+Perdido Key;FL;2901
+Eagle River;AK;2902
+Roane County;WV;2903
+Goodman;WI;2904
+Huntsville;UT;2905
+Lawrenceburg;IN;2906
+Herriman;UT;2907
+Trigg County;KY;2908
+Hazel Dell;WA;2909
+Maryville;TN;2910
+Seymour;IN;2911
+Winchester;MA;2912
+Fort Carson;CO;2913

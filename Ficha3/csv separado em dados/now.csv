@@ -1,0 +1,5752 @@
+estado;C.city;C.estado;C.idCity;idEstado
+AK;Anchorage;AK;149;0
+AK;Anchorage;AK;148;0
+AK;Houston;AK;2270;0
+AK;North Pole;AK;3680;0
+AK;Pilot Station;AK;4124;0
+AK;Fairbanks;AK;1600;0
+AK;Fairbanks;AK;1604;0
+AK;Fairbanks;AK;1605;0
+AK;Fairbanks;AK;1603;0
+AK;Fairbanks;AK;1601;0
+AK;Fairbanks;AK;1602;0
+AK;North Pole;AK;3679;0
+AK;Wasilla;AK;5517;0
+AK;Wasilla;AK;5518;0
+AK;Seward;AK;4799;0
+AK;Eagle River;AK;1439;0
+AK;Wasilla;AK;5516;0
+AK;Wasilla;AK;5519;0
+AK;Wasilla;AK;5521;0
+AK;Palmer;AK;3912;0
+AK;Nikolaevsk;AK;3632;0
+AK;Kenai Peninsula;AK;2556;0
+AK;Wasilla;AK;5520;0
+AK;Anchorage;AK;144;0
+AK;Barrow;AK;411;0
+AK;Kasilof;AK;2543;0
+AK;Spenard;AK;4932;0
+AK;Anchorage;AK;143;0
+AK;Anchor Point;AK;139;0
+AK;Anchorage;AK;140;0
+AK;Anchorage;AK;142;0
+AK;Anchorage;AK;141;0
+AK;Fairbanks;AK;1607;0
+AK;Fairbanks;AK;1606;0
+AK;Fairbanks;AK;1608;0
+AK;Big Lake;AK;518;0
+AK;Anchorage;AK;147;0
+AK;Copper Center;AK;1172;0
+AK;Anchorage;AK;146;0
+AK;Anchorage;AK;145;0
+AK;Juneau;AK;2496;0
+AL;Dadeville;AL;1230;1
+AL;Deer Park;AL;1295;1
+AL;Daphne;AL;1261;1
+AL;Washington County;AL;5511;1
+AL;Muscle Shoals;AL;3506;1
+AL;Demopolis;AL;1321;1
+AL;Opp;AL;3823;1
+AL;Sylacauga;AL;5136;1
+AL;Sylacauga;AL;5137;1
+AL;Haynesville;AL;2094;1
+AL;Anniston;AL;156;1
+AL;Meridianville;AL;3257;1
+AL;Brooksville;AL;671;1
+AL;Ariton;AL;187;1
+AL;Ohatchee;AL;3746;1
+AL;Arab;AL;178;1
+AL;Talladega;AL;5171;1
+AL;Vestavia Hills;AL;5432;1
+AL;Gordo;AL;1932;1
+AL;Jacksonville;AL;2446;1
+AL;Prichard;AL;4254;1
+AL;Fairhope;AL;1620;1
+AL;Birmingham;AL;536;1
+AL;Birmingham;AL;537;1
+AL;Jackson County;AL;2414;1
+AL;Birmingham;AL;535;1
+AL;Barnwell;AL;409;1
+AL;Florence;AL;1685;1
+AL;Ranburne;AL;4311;1
+AL;Baldwin County;AL;380;1
+AL;Bay Minette;AL;447;1
+AL;Gadsden;AL;1835;1
+AL;Tuscaloosa;AL;5366;1
+AL;Tuscumbia;AL;5369;1
+AL;Tuscumbia;AL;5368;1
+AL;Killeen;AL;2581;1
+AL;Ashville;AL;225;1
+AL;Rainbow City;AL;4303;1
+AL;Elkmont;AL;1527;1
+AL;Hamilton;AL;2043;1
+AL;Opelika;AL;3822;1
+AL;Eastaboga;AL;1459;1
+AL;Hanceville;AL;2053;1
+AL;Eclectic;AL;1470;1
+AL;Birmingham;AL;539;1
+AL;Birmingham;AL;540;1
+AL;Atmore;AL;263;1
+AL;Birmingham;AL;538;1
+AL;Piedmont;AL;4119;1
+AL;Birmingham;AL;542;1
+AL;Eufaula;AL;1570;1
+AL;Piedmont;AL;4117;1
+AL;Birmingham;AL;541;1
+AL;Crenshaw County;AL;1206;1
+AL;Saraland;AL;4740;1
+AL;Westover;AL;5627;1
+AL;Leeds;AL;2843;1
+AL;Clanton;AL;1001;1
+AL;Huntsville;AL;2321;1
+AL;Morris;AL;3467;1
+AL;Huntsville;AL;2322;1
+AL;Monroeville;AL;3427;1
+AL;Citronelle;AL;991;1
+AL;Phenix City;AL;4009;1
+AL;Coden;AL;1071;1
+AL;Phenix City;AL;4010;1
+AL;Phenix City;AL;4008;1
+AL;Phenix City;AL;4007;1
+AL;Albertville;AL;49;1
+AL;Montgomery;AL;3439;1
+AL;Semmes;AL;4795;1
+AL;Homewood;AL;2205;1
+AL;Homewood;AL;2204;1
+AL;Hoover;AL;2221;1
+AL;Homewood;AL;2206;1
+AL;Pell City;AL;3976;1
+AL;Huntsville;AL;2319;1
+AL;Huntsville;AL;2320;1
+AL;Homewood;AL;2203;1
+AL;Clanton;AL;1002;1
+AL;Huntsville;AL;2318;1
+AL;Luverne;AL;3107;1
+AL;Semmes;AL;4794;1
+AL;Macon County;AL;3123;1
+AL;Hoover;AL;2222;1
+AL;Selma;AL;4792;1
+AL;Lawrence County;AL;2818;1
+AL;Abbeville;AL;1;1
+AL;Chunchula;AL;976;1
+AL;Huntsville;AL;2326;1
+AL;Huntsville;AL;2316;1
+AL;Millbrook;AL;3350;1
+AL;Clay;AL;1020;1
+AL;Mobile;AL;3398;1
+AL;Montgomery;AL;3442;1
+AL;Mobile;AL;3397;1
+AL;Madison;AL;3131;1
+AL;Mobile;AL;3399;1
+AL;Huntsville;AL;2324;1
+AL;Montgomery;AL;3441;1
+AL;Montgomery;AL;3440;1
+AL;Oxford;AL;3879;1
+AL;Ozark;AL;3884;1
+AL;Huntsville;AL;2325;1
+AL;Millbrook;AL;3349;1
+AR;Pine Bluff;AR;4128;2
+AR;Little Rock;AR;2907;2
+AR;Pine Bluff;AR;4129;2
+AR;Pine Bluff;AR;4127;2
+AR;Little Rock;AR;2902;2
+AR;Benton;AR;495;2
+AR;Little Rock;AR;2904;2
+AR;Yellville;AR;5724;2
+AR;Farmington;AR;1636;2
+AR;Clarksville;AR;1012;2
+AR;Ozark;AR;3885;2
+AR;Little Rock;AR;2905;2
+AR;Little Rock;AR;2906;2
+AR;Magnolia;AR;3139;2
+AR;Searcy County;AR;4765;2
+AR;Romance;AR;4453;2
+AR;Trumann;AR;5296;2
+AR;Atkins;AR;236;2
+AR;Lone Rock;AR;2934;2
+AR;Mississippi County;AR;3391;2
+AR;Sims;AR;4855;2
+AR;Russellville;AR;4498;2
+AR;North Little Rock;AR;3675;2
+AR;England;AR;1550;2
+AR;Jacksonville;AR;2416;2
+AR;Rose Bud;AR;4460;2
+AR;Blytheville;AR;567;2
+AR;Jacksonville;AR;2422;2
+AR;Manila;AR;3159;2
+AR;Warren;AR;5489;2
+AR;Benton;AR;496;2
+AR;Manila;AR;3158;2
+AR;Bentonville;AR;501;2
+AR;Mena;AR;3248;2
+AR;Shirley;AR;4829;2
+AR;London;AR;2931;2
+AR;Hackett;AR;2035;2
+AR;Sheridan;AR;4823;2
+AR;Pope County;AR;4187;2
+AR;Alexander;AR;90;2
+AR;Stone County;AR;5088;2
+AR;Perryville;AR;3998;2
+AR;Strong;AR;5097;2
+AR;Mulberry;AR;3498;2
+AR;West Memphis;AR;5591;2
+AR;Jonesboro;AR;2485;2
+AR;Jonesboro;AR;2484;2
+AR;Cabot;AR;732;2
+AR;Helena-West Helena;AR;2108;2
+AR;Cabot;AR;731;2
+AR;Helena;AR;2106;2
+AR;Fayetteville;AR;1649;2
+AR;Mountain Pine;AR;3488;2
+AR;Fayetteville;AR;1648;2
+AR;Desha;AR;1376;2
+AR;Formosa;AR;1704;2
+AR;Forrest City;AR;1705;2
+AR;Lowell;AR;3089;2
+AR;Lowell;AR;3091;2
+AR;Rector;AR;4339;2
+AR;Marion;AR;3181;2
+AR;Forrest City;AR;1706;2
+AR;Fort Smith;AR;1734;2
+AR;West Memphis;AR;5594;2
+AR;Jonesboro;AR;2483;2
+AR;West Memphis;AR;5592;2
+AR;West Memphis;AR;5593;2
+AR;Springdale;AR;4961;2
+AR;Springdale;AR;4962;2
+AR;Batesville;AR;428;2
+AR;Springdale;AR;4960;2
+AR;Fayetteville;AR;1642;2
+AR;Fayetteville;AR;1643;2
+AR;Little Rock;AR;2900;2
+AR;Dover;AR;1410;2
+AR;Austin;AR;320;2
+AR;Jacksonville;AR;2428;2
+AR;Little Rock;AR;2901;2
+AR;Bull Shoals;AR;700;2
+AR;Little Rock;AR;2899;2
+AR;St. Francis County;AR;4998;2
+AR;Little Rock;AR;2903;2
+AR;Bryant;AR;685;2
+AR;Van Buren;AR;5406;2
+AZ;Tucson;AZ;5316;3
+AZ;Flagstaff;AZ;1666;3
+AZ;Tucson;AZ;5324;3
+AZ;Flagstaff;AZ;1668;3
+AZ;Flagstaff;AZ;1669;3
+AZ;Tucson;AZ;5317;3
+AZ;Tucson;AZ;5325;3
+AZ;Flagstaff;AZ;1667;3
+AZ;Florence;AZ;1679;3
+AZ;Quartzsite;AZ;4293;3
+AZ;Red Valley;AZ;4344;3
+AZ;Quartzsite;AZ;4292;3
+AZ;Tucson;AZ;5320;3
+AZ;Chandler;AZ;851;3
+AZ;Tucson;AZ;5323;3
+AZ;Tucson;AZ;5318;3
+AZ;Tucson;AZ;5319;3
+AZ;Tucson;AZ;5321;3
+AZ;Tucson;AZ;5322;3
+AZ;Tucson;AZ;5310;3
+AZ;Tucson;AZ;5304;3
+AZ;Tucson;AZ;5305;3
+AZ;Tuscson;AZ;5367;3
+AZ;Chinle;AZ;963;3
+AZ;Tucson;AZ;5303;3
+AZ;Tucson;AZ;5326;3
+AZ;Tucson;AZ;5329;3
+AZ;Tucson;AZ;5328;3
+AZ;Tucson;AZ;5307;3
+AZ;Tucson;AZ;5327;3
+AZ;Tucson;AZ;5309;3
+AZ;Tucson;AZ;5306;3
+AZ;Tucson;AZ;5311;3
+AZ;Tucson;AZ;5299;3
+AZ;Flagstaff;AZ;1663;3
+AZ;Flagstaff;AZ;1662;3
+AZ;Flagstaff;AZ;1665;3
+AZ;Flagstaff;AZ;1664;3
+AZ;Tucson;AZ;5308;3
+AZ;Tucson;AZ;5315;3
+AZ;Tucson;AZ;5302;3
+AZ;Tucson;AZ;5313;3
+AZ;Tucson;AZ;5312;3
+AZ;Tucson;AZ;5300;3
+AZ;Tucson;AZ;5314;3
+AZ;Tucson;AZ;5301;3
+AZ;Clarkdale;AZ;1007;3
+AZ;Cottonwood;AZ;1189;3
+AZ;Mesa;AZ;3264;3
+AZ;Lake Havasu City;AZ;2668;3
+AZ;Scottsdale;AZ;4756;3
+AZ;Lake Havasu City;AZ;2669;3
+AZ;La Paz County;AZ;2630;3
+AZ;Mesa;AZ;3268;3
+AZ;Cottonwood;AZ;1190;3
+AZ;Mesa;AZ;3267;3
+AZ;Mesa;AZ;3265;3
+AZ;Mesa;AZ;3266;3
+AZ;Surprise;AZ;5132;3
+AZ;Surprise;AZ;5131;3
+AZ;Scottsdale;AZ;4758;3
+AZ;Douglas;AZ;1404;3
+AZ;Bullhead City;AZ;701;3
+AZ;Sun City;AZ;5118;3
+AZ;Mesa;AZ;3262;3
+AZ;Mesa;AZ;3263;3
+AZ;Scottsdale;AZ;4757;3
+AZ;Sun City;AZ;5117;3
+AZ;Mesa;AZ;3261;3
+AZ;Mesa;AZ;3269;3
+AZ;Lake Havasu;AZ;2667;3
+AZ;Mesa;AZ;3280;3
+AZ;Mesa;AZ;3279;3
+AZ;Mesa;AZ;3277;3
+AZ;Mesa;AZ;3278;3
+AZ;Mesa;AZ;3281;3
+AZ;Chandler;AZ;849;3
+AZ;Chandler;AZ;850;3
+AZ;Chandler;AZ;848;3
+AZ;Mesa;AZ;3282;3
+AZ;Chandler;AZ;847;3
+AZ;Mesa;AZ;3270;3
+AZ;San Manuel;AZ;4690;3
+AZ;Casa Grande;AZ;804;3
+AZ;Casa Grande;AZ;802;3
+AZ;Casa Grande;AZ;803;3
+AZ;Mesa;AZ;3271;3
+AZ;Mesa;AZ;3275;3
+AZ;Mesa;AZ;3276;3
+AZ;Mesa;AZ;3274;3
+AZ;Mesa;AZ;3272;3
+AZ;Mesa;AZ;3273;3
+AZ;Tempe;AZ;5217;3
+AZ;Ehrenberg;AZ;1483;3
+AZ;El Mirage;AZ;1488;3
+AZ;Kingman;AZ;2586;3
+AZ;Salt River Reservation;AZ;4555;3
+AZ;Tempe;AZ;5216;3
+AZ;Tempe;AZ;5213;3
+AZ;Tempe;AZ;5212;3
+AZ;Tempe;AZ;5214;3
+AZ;Tempe;AZ;5215;3
+AZ;Kingman;AZ;2587;3
+AZ;Tolleson;AZ;5263;3
+AZ;Sierra Vista;AZ;4844;3
+AZ;Tonalea;AZ;5267;3
+AZ;Somerton;AZ;4883;3
+AZ;Bisbee;AZ;543;3
+AZ;Three Points;AZ;5247;3
+AZ;Show Low;AZ;4831;3
+AZ;Kingman;AZ;2585;3
+AZ;Morenci;AZ;3459;3
+AZ;Noglaes;AZ;3639;3
+AZ;Kearny;AZ;2550;3
+AZ;Tempe;AZ;5211;3
+AZ;Scottsdale;AZ;4760;3
+AZ;Buckeye;AZ;687;3
+AZ;Scottsdale;AZ;4761;3
+AZ;Eagar;AZ;1436;3
+AZ;Eagar;AZ;1435;3
+AZ;Buckeye;AZ;688;3
+AZ;Buckeye;AZ;691;3
+AZ;Buckeye;AZ;692;3
+AZ;Buckeye;AZ;690;3
+AZ;Scottsdale;AZ;4759;3
+AZ;Buckeye;AZ;689;3
+AZ;Kingman;AZ;2588;3
+AZ;Kingman;AZ;2589;3
+AZ;Tempe;AZ;5208;3
+AZ;Tempe;AZ;5210;3
+AZ;Tempe;AZ;5209;3
+AZ;Kingman;AZ;2590;3
+AZ;Eagar;AZ;1437;3
+AZ;Scottsdale;AZ;4762;3
+AZ;Kingman;AZ;2591;3
+AZ;Sedona;AZ;4790;3
+AZ;Sedona;AZ;4789;3
+AZ;Phoenix;AZ;4049;3
+AZ;Phoenix;AZ;4048;3
+AZ;Pinetop-Lakeside;AZ;4136;3
+AZ;Phoenix;AZ;4083;3
+AZ;Phoenix;AZ;4082;3
+AZ;Phoenix;AZ;4081;3
+AZ;Pinetop;AZ;4135;3
+AZ;Phoenix;AZ;4055;3
+AZ;Prescott;AZ;4250;3
+AZ;Gilbert;AZ;1893;3
+AZ;Gilbert;AZ;1891;3
+AZ;Phoenix;AZ;4086;3
+AZ;Phoenix;AZ;4050;3
+AZ;Peoria;AZ;3991;3
+AZ;Prescott;AZ;4249;3
+AZ;Phoenix;AZ;4085;3
+AZ;Phoenix;AZ;4084;3
+AZ;Paulden;AZ;3960;3
+AZ;Phoenix;AZ;4097;3
+AZ;Avondale;AZ;339;3
+AZ;Avondale;AZ;340;3
+AZ;Pima County;AZ;4126;3
+AZ;Pima;AZ;4125;3
+AZ;Phoenix;AZ;4077;3
+AZ;Phoenix;AZ;4098;3
+AZ;Phoenix;AZ;4078;3
+AZ;Marana;AZ;3173;3
+AZ;Wilhoit;AZ;5660;3
+AZ;Maricopa;AZ;3175;3
+AZ;Marana;AZ;3174;3
+AZ;Phoenix;AZ;4056;3
+AZ;Phoenix;AZ;4079;3
+AZ;Phoenix;AZ;4080;3
+AZ;Avondale;AZ;338;3
+AZ;Phoenix;AZ;4087;3
+AZ;Phoenix;AZ;4091;3
+AZ;Globe;AZ;1920;3
+AZ;Golden Shores;AZ;1922;3
+AZ;Phoenix;AZ;4032;3
+AZ;Glendale;AZ;1913;3
+AZ;Glendale;AZ;1912;3
+AZ;Phoenix;AZ;4035;3
+AZ;Phoenix;AZ;4052;3
+AZ;Phoenix;AZ;4092;3
+AZ;Phoenix;AZ;4095;3
+AZ;Grand Canyon Caverns;AZ;1940;3
+AZ;Phoenix;AZ;4094;3
+AZ;Phoenix;AZ;4093;3
+AZ;Phoenix;AZ;4034;3
+AZ;Golden Valley;AZ;1923;3
+AZ;Phoenix;AZ;4033;3
+AZ;Goodyear;AZ;1930;3
+AZ;Phoenix;AZ;4096;3
+AZ;Phoenix;AZ;4089;3
+AZ;Glendale;AZ;1903;3
+AZ;Phoenix;AZ;4036;3
+AZ;Phoenix;AZ;4088;3
+AZ;Phoenix;AZ;4051;3
+AZ;Phoenix;AZ;4053;3
+AZ;Phoenix;AZ;4054;3
+AZ;Glendale;AZ;1904;3
+AZ;Phoenix;AZ;4090;3
+AZ;Glendale;AZ;1909;3
+AZ;Glendale;AZ;1911;3
+AZ;Glendale;AZ;1910;3
+AZ;Glendale;AZ;1906;3
+AZ;Glendale;AZ;1905;3
+AZ;Glendale;AZ;1908;3
+AZ;Glendale;AZ;1907;3
+AZ;Phoenix;AZ;4057;3
+AZ;Phoenix;AZ;4066;3
+AZ;Phoenix;AZ;4038;3
+AZ;Phoenix;AZ;4043;3
+AZ;Phoenix;AZ;4058;3
+AZ;Phoenix;AZ;4099;3
+AZ;Phoenix;AZ;4065;3
+AZ;Phoenix;AZ;4064;3
+AZ;Yuma;AZ;5744;3
+AZ;Phoenix;AZ;4100;3
+AZ;Yuma;AZ;5746;3
+AZ;Yuma;AZ;5745;3
+AZ;Phoenix;AZ;4068;3
+AZ;Phoenix;AZ;4067;3
+AZ;Phoenix;AZ;4037;3
+AZ;Phoenix;AZ;4061;3
+AZ;Phoenix;AZ;4041;3
+AZ;Phoenix;AZ;4103;3
+AZ;Phoenix;AZ;4062;3
+AZ;Phoenix;AZ;4104;3
+AZ;Apache Junction;AZ;168;3
+AZ;Apache Junction;AZ;167;3
+AZ;Phoenix;AZ;4102;3
+AZ;Apache Junction;AZ;169;3
+AZ;Phoenix;AZ;4042;3
+AZ;Youngtown;AZ;5736;3
+AZ;Phoenix;AZ;4039;3
+AZ;Ahwatukee;AZ;24;3
+AZ;Phoenix;AZ;4063;3
+AZ;Phoenix;AZ;4060;3
+AZ;Phoenix;AZ;4059;3
+AZ;Phoenix;AZ;4040;3
+AZ;Phoenix;AZ;4072;3
+AZ;Phoenix;AZ;4073;3
+AZ;Phoenix;AZ;4074;3
+AZ;Phoenix;AZ;4112;3
+AZ;Phoenix;AZ;4109;3
+AZ;Phoenix;AZ;4110;3
+AZ;Phoenix;AZ;4111;3
+AZ;Phoenix;AZ;4113;3
+AZ;Parks;AZ;3933;3
+AZ;Picture Rocks;AZ;4116;3
+AZ;Phoenix;AZ;4105;3
+AZ;Parker;AZ;3929;3
+AZ;Phoenix;AZ;4075;3
+AZ;Phoenix;AZ;4047;3
+AZ;Phoenix;AZ;4076;3
+AZ;Phoenix;AZ;4071;3
+AZ;Phoenix;AZ;4107;3
+AZ;Yuma;AZ;5747;3
+AZ;Winslow;AZ;5694;3
+AZ;Phoenix;AZ;4069;3
+AZ;Phoenix;AZ;4101;3
+AZ;Phoenix;AZ;4106;3
+AZ;Phoenix;AZ;4045;3
+AZ;Phoenix;AZ;4046;3
+AZ;Phoenix;AZ;4070;3
+AZ;Phoenix;AZ;4108;3
+AZ;Gilbert;AZ;1890;3
+AZ;Marana;AZ;3172;3
+CA;San Marcos;CA;4692;4
+CA;San Jose;CA;4680;4
+CA;San Mateo;CA;4693;4
+CA;Davis;CA;1270;4
+CA;San Jose;CA;4679;4
+CA;San Jose;CA;4684;4
+CA;Laguna Niguel;CA;2652;4
+CA;Laguna Woods;CA;2654;4
+CA;San Leandro;CA;4686;4
+CA;Daly City;CA;1253;4
+CA;Danville;CA;1258;4
+CA;San Leandro;CA;4687;4
+CA;San Leandro;CA;4689;4
+CA;San Jose;CA;4681;4
+CA;San Jose;CA;4685;4
+CA;San Leandro;CA;4688;4
+CA;San Jose;CA;4683;4
+CA;San Jose;CA;4682;4
+CA;San Jose;CA;4678;4
+CA;San Francisco;CA;4653;4
+CA;Hemet;CA;2112;4
+CA;San Francisco;CA;4654;4
+CA;La Habra;CA;2627;4
+CA;Hemet;CA;2111;4
+CA;Desert Hot Springs;CA;1375;4
+CA;Desert Hot Springs;CA;1374;4
+CA;San Francisco;CA;4655;4
+CA;San Francisco;CA;4660;4
+CA;San Francisco;CA;4661;4
+CA;San Francisco;CA;4662;4
+CA;San Francisco;CA;4659;4
+CA;San Francisco;CA;4656;4
+CA;San Francisco;CA;4657;4
+CA;San Francisco;CA;4658;4
+CA;Napa Valley;CA;3531;4
+CA;Napa;CA;3530;4
+CA;Hayward;CA;2101;4
+CA;San Francisco;CA;4652;4
+CA;San Francisco;CA;4651;4
+CA;Hayward;CA;2099;4
+CA;Hayward;CA;2100;4
+CA;Napa;CA;3529;4
+CA;Muscoy;CA;3507;4
+CA;Hemet;CA;2109;4
+CA;Hemet;CA;2110;4
+CA;Napa;CA;3525;4
+CA;Napa;CA;3528;4
+CA;Napa;CA;3527;4
+CA;Napa;CA;3526;4
+CA;Murrieta;CA;3505;4
+CA;San Jose;CA;4671;4
+CA;San Jose;CA;4672;4
+CA;San Jose;CA;4670;4
+CA;Del Mar;CA;1300;4
+CA;San Jose;CA;4669;4
+CA;San Francisco;CA;4650;4
+CA;La Quinta;CA;2633;4
+CA;San Jose;CA;4675;4
+CA;San Jose;CA;4676;4
+CA;San Jose;CA;4677;4
+CA;San Jose;CA;4674;4
+CA;La Quinta;CA;2634;4
+CA;Ladera Heights;CA;2644;4
+CA;San Jose;CA;4673;4
+CA;Hemet;CA;2115;4
+CA;Hemet;CA;2116;4
+CA;San Francisco;CA;4664;4
+CA;La Mirada;CA;2629;4
+CA;Hemet;CA;2113;4
+CA;San Francisco;CA;4663;4
+CA;Hemet;CA;2114;4
+CA;San Gabriel;CA;4665;4
+CA;Delano;CA;1304;4
+CA;Delano;CA;1303;4
+CA;San Jose;CA;4668;4
+CA;Delano;CA;1305;4
+CA;San Jose;CA;4666;4
+CA;Delhi;CA;1307;4
+CA;San Jose;CA;4667;4
+CA;Palmdale;CA;3911;4
+CA;Clovis;CA;1056;4
+CA;Lamont;CA;2711;4
+CA;Palmdale;CA;3910;4
+CA;Panorama City;CA;3920;4
+CA;Lakewood;CA;2702;4
+CA;Coalinga;CA;1059;4
+CA;Palo Alto;CA;3914;4
+CA;Clovis;CA;1054;4
+CA;Smartsville;CA;4862;4
+CA;Palm Springs;CA;3907;4
+CA;Lancaster;CA;2717;4
+CA;Lancaster;CA;2716;4
+CA;Palmdale;CA;3909;4
+CA;Cloverdale;CA;1052;4
+CA;Palmdale;CA;3908;4
+CA;Siskiyou County;CA;4859;4
+CA;Paradise;CA;3922;4
+CA;Selma;CA;4791;4
+CA;Imperial County;CA;2344;4
+CA;Pasadena;CA;3947;4
+CA;Paso Robles;CA;3952;4
+CA;Home Garden;CA;2196;4
+CA;Compton;CA;1155;4
+CA;Hope Ranch;CA;2223;4
+CA;Seaside;CA;4768;4
+CA;Pasadena;CA;3946;4
+CA;Moreno Valley;CA;3460;4
+CA;Moreno Valley;CA;3461;4
+CA;Colton;CA;1101;4
+CA;Colton;CA;1102;4
+CA;Pasadena;CA;3943;4
+CA;Shafter;CA;4801;4
+CA;Sherman Oaks;CA;4826;4
+CA;Pasadena;CA;3942;4
+CA;Huntington Beach;CA;2311;4
+CA;Orosi;CA;3862;4
+CA;Huntington Beach;CA;2313;4
+CA;Huntington Beach;CA;2312;4
+CA;South Los Angeles;CA;4901;4
+CA;South Los Angeles;CA;4900;4
+CA;Oroville;CA;3863;4
+CA;Huron;CA;2327;4
+CA;Huntington Park;CA;2314;4
+CA;Rosamond;CA;4459;4
+CA;Citrus Heights;CA;992;4
+CA;Monterey;CA;3433;4
+CA;Monterey Park;CA;3434;4
+CA;Citrus Heights;CA;995;4
+CA;City Terrace;CA;996;4
+CA;Citrus Heights;CA;993;4
+CA;Citrus Heights;CA;994;4
+CA;South Lake Tahoe;CA;4899;4
+CA;Lancaster;CA;2721;4
+CA;Clearlake Oaks;CA;1026;4
+CA;Palermo;CA;3896;4
+CA;South El Monte;CA;4888;4
+CA;Palm Desert;CA;3905;4
+CA;Solvang;CA;4881;4
+CA;Clearlake Park;CA;1027;4
+CA;Lancaster;CA;2720;4
+CA;South El Monte;CA;4889;4
+CA;Oxnard;CA;3882;4
+CA;South Gate;CA;4893;4
+CA;South Lake Tahoe;CA;4898;4
+CA;South Gate;CA;4894;4
+CA;South Gate;CA;4891;4
+CA;Pacific Beach;CA;3887;4
+CA;South Gate;CA;4892;4
+CA;Lancaster;CA;2725;4
+CA;Santa Ana;CA;4719;4
+CA;Lake Elsinore;CA;2661;4
+CA;Lake Elsinore;CA;2662;4
+CA;Inglewood;CA;2375;4
+CA;Culver City;CA;1220;4
+CA;Santa Ana;CA;4716;4
+CA;Santa Ana;CA;4718;4
+CA;Santa Ana;CA;4717;4
+CA;Lake Elsinore;CA;2663;4
+CA;Highland;CA;2155;4
+CA;Crescent City;CA;1207;4
+CA;Santa Clara;CA;4722;4
+CA;Lake Forest;CA;2665;4
+CA;Santa Clara;CA;4721;4
+CA;Santa Barbara;CA;4720;4
+CA;Lake Elsinore;CA;2664;4
+CA;Highgrove;CA;2154;4
+CA;Inglewood;CA;2376;4
+CA;Inglewood;CA;2377;4
+CA;Sand City;CA;4697;4
+CA;Santa Ana;CA;4709;4
+CA;Sand City;CA;4698;4
+CA;San Ysidro;CA;4696;4
+CA;San Ysidro;CA;4695;4
+CA;Herald;CA;2136;4
+CA;Inglewood;CA;2378;4
+CA;Santa Ana;CA;4710;4
+CA;Santa Ana;CA;4714;4
+CA;Hesperia;CA;2143;4
+CA;Hesperia;CA;2144;4
+CA;Santa Ana;CA;4715;4
+CA;Santa Ana;CA;4711;4
+CA;Hesperia;CA;2142;4
+CA;Santa Ana;CA;4713;4
+CA;Santa Ana;CA;4712;4
+CA;Indio;CA;2371;4
+CA;Corning;CA;1175;4
+CA;Perris;CA;3995;4
+CA;Indio;CA;2370;4
+CA;Indio;CA;2372;4
+CA;Santee;CA;4738;4
+CA;Saratoga;CA;4742;4
+CA;Corona;CA;1177;4
+CA;Hollywood;CA;2189;4
+CA;Compton;CA;1157;4
+CA;Hollywood Hills;CA;2194;4
+CA;Orcutt;CA;3837;4
+CA;Compton;CA;1156;4
+CA;Hollywood Hills;CA;2193;4
+CA;Hollywood;CA;2192;4
+CA;Concord;CA;1158;4
+CA;Concord;CA;1159;4
+CA;Santa Rosa;CA;4737;4
+CA;Santa Clarita;CA;4726;4
+CA;Highland;CA;2156;4
+CA;Cottonwood;CA;1191;4
+CA;Santa Cruz;CA;4727;4
+CA;Santa Clarita;CA;4724;4
+CA;Santa Clara;CA;4723;4
+CA;Covina;CA;1197;4
+CA;Santa Clarita;CA;4725;4
+CA;Industry;CA;2374;4
+CA;Santa Monica;CA;4734;4
+CA;Santa Maria;CA;4733;4
+CA;Santa Paula;CA;4736;4
+CA;Santa Nella;CA;4735;4
+CA;Cottonwood;CA;1188;4
+CA;Indio;CA;2373;4
+CA;Santa Maria;CA;4732;4
+CA;Santa Maria;CA;4731;4
+CA;San Francisco;CA;4649;4
+CA;Gardena;CA;1849;4
+CA;Garden Grove;CA;1848;4
+CA;Rialto;CA;4386;4
+CA;Rialto;CA;4385;4
+CA;Fullerton;CA;1830;4
+CA;Oak View;CA;3707;4
+CA;Garden Grove;CA;1847;4
+CA;Rialto;CA;4384;4
+CA;Richmond;CA;4391;4
+CA;Poway;CA;4243;4
+CA;Porterville;CA;4209;4
+CA;Porterville;CA;4210;4
+CA;Gardena;CA;1850;4
+CA;Joshua Tree;CA;2492;4
+CA;Gardena;CA;1852;4
+CA;Gardena;CA;1851;4
+CA;Fresno;CA;1816;4
+CA;Fresno;CA;1815;4
+CA;Fresno;CA;1818;4
+CA;Fresno;CA;1817;4
+CA;Fresno;CA;1812;4
+CA;Redondo Beach;CA;4360;4
+CA;Fresno;CA;1814;4
+CA;Fresno;CA;1813;4
+CA;Reseda;CA;4380;4
+CA;Oakland;CA;3710;4
+CA;Fullerton;CA;1829;4
+CA;Fullerton;CA;1828;4
+CA;Oakland;CA;3711;4
+CA;Fullerton;CA;1827;4
+CA;Redwood City;CA;4362;4
+CA;Redwood City;CA;4361;4
+CA;Gilroy;CA;1896;4
+CA;Pomona;CA;4178;4
+CA;Fairfield;CA;1618;4
+CA;Pomona;CA;4177;4
+CA;Riverside;CA;4422;4
+CA;Riverside;CA;4420;4
+CA;Goleta;CA;1924;4
+CA;Pomona;CA;4179;4
+CA;Pomona;CA;4180;4
+CA;Grass Valley;CA;1961;4
+CA;Grass Valley;CA;1960;4
+CA;Pleasanton;CA;4164;4
+CA;Riverside;CA;4424;4
+CA;Grand Terrace;CA;1953;4
+CA;Point Loma;CA;4173;4
+CA;Point Loma;CA;4172;4
+CA;Riverside;CA;4423;4
+CA;Ripon;CA;4410;4
+CA;Glen Valley;CA;1901;4
+CA;Glendale;CA;1902;4
+CA;Ripon;CA;4411;4
+CA;Joshua Tree;CA;2493;4
+CA;Richmond;CA;4393;4
+CA;Oak Park;CA;3703;4
+CA;Richmond;CA;4400;4
+CA;Riverside;CA;4418;4
+CA;Riverbank;CA;4416;4
+CA;Riverside;CA;4419;4
+CA;Jurupa Valley;CA;2501;4
+CA;Jurupa Valley;CA;2499;4
+CA;Jurupa Valley;CA;2498;4
+CA;Glendora;CA;1914;4
+CA;Jurupa Valley;CA;2500;4
+CA;Fresno;CA;1811;4
+CA;Oakland;CA;3719;4
+CA;Rancho Tehama Reserve;CA;4320;4
+CA;Red Bluff;CA;4340;4
+CA;Fresno;CA;1800;4
+CA;Rancho Mirage;CA;4317;4
+CA;Rancho Mirage;CA;4316;4
+CA;Rancho Santa Margarita;CA;4319;4
+CA;Rancho Mirage;CA;4318;4
+CA;Red Bluff;CA;4342;4
+CA;Oakland;CA;3715;4
+CA;Fresno;CA;1801;4
+CA;Red Bluff;CA;4343;4
+CA;Oakland;CA;3718;4
+CA;Red Bluff;CA;4341;4
+CA;Oakland;CA;3716;4
+CA;Oakland;CA;3717;4
+CA;Oceanside;CA;3729;4
+CA;Fremont;CA;1796;4
+CA;Jamestown;CA;2453;4
+CA;Oceanside;CA;3728;4
+CA;Fremont;CA;1792;4
+CA;Fremont;CA;1793;4
+CA;Fremont;CA;1795;4
+CA;Fremont;CA;1794;4
+CA;Fresno;CA;1799;4
+CA;Rancho Cordova;CA;4313;4
+CA;Rancho Cucamonga;CA;4315;4
+CA;Rancho Cordova;CA;4314;4
+CA;Fountain Valley;CA;1769;4
+CA;Fresno;CA;1798;4
+CA;Rancho Cordova;CA;4312;4
+CA;Fountain Valley;CA;1768;4
+CA;Fresno;CA;1802;4
+CA;Redding;CA;4353;4
+CA;Redding;CA;4352;4
+CA;Florence;CA;1684;4
+CA;Fresno;CA;1808;4
+CA;Redding;CA;4349;4
+CA;Fontana;CA;1694;4
+CA;Redding;CA;4351;4
+CA;Redding;CA;4350;4
+CA;Fresno;CA;1810;4
+CA;Fresno;CA;1809;4
+CA;Redlands;CA;4358;4
+CA;Redlands;CA;4357;4
+CA;Florence;CA;1682;4
+CA;Oakland;CA;3712;4
+CA;Redlands;CA;4356;4
+CA;Redlands;CA;4355;4
+CA;Fresno;CA;1805;4
+CA;Fresno;CA;1804;4
+CA;Redding;CA;4348;4
+CA;Redding;CA;4347;4
+CA;Redding;CA;4345;4
+CA;Oakland;CA;3714;4
+CA;Fresno;CA;1803;4
+CA;Redding;CA;4346;4
+CA;Fontana;CA;1697;4
+CA;Fontana;CA;1698;4
+CA;Fontana;CA;1695;4
+CA;Fontana;CA;1696;4
+CA;Fresno;CA;1806;4
+CA;Foresthill;CA;1701;4
+CA;Fresno;CA;1807;4
+CA;Oakland;CA;3713;4
+CA;Pleasanton;CA;4163;4
+CA;San Clemente;CA;4627;4
+CA;San Bernardino;CA;4625;4
+CA;San Diego;CA;4629;4
+CA;San Diego;CA;4628;4
+CA;San Bernardino;CA;4622;4
+CA;San Bernardino;CA;4621;4
+CA;San Bernardino;CA;4624;4
+CA;San Bernardino;CA;4623;4
+CA;San Diego;CA;4632;4
+CA;Kings County;CA;2592;4
+CA;Orange;CA;3825;4
+CA;San Diego;CA;4633;4
+CA;East Hollywood;CA;1448;4
+CA;East Los Angeles;CA;1449;4
+CA;San Diego;CA;4631;4
+CA;San Diego;CA;4630;4
+CA;San Bernardino;CA;4613;4
+CA;San Bernardino;CA;4612;4
+CA;San Bernardino;CA;4614;4
+CA;Edison;CA;1477;4
+CA;Half Moon Bay;CA;2036;4
+CA;El Cajon;CA;1484;4
+CA;San Bernardino;CA;4611;4
+CA;San Bernardino;CA;4610;4
+CA;San Bernardino;CA;4618;4
+CA;Happy Valley;CA;2060;4
+CA;San Bernardino;CA;4620;4
+CA;San Bernardino;CA;4619;4
+CA;San Bernardino;CA;4616;4
+CA;San Bernardino;CA;4615;4
+CA;Hanford;CA;2055;4
+CA;San Bernardino;CA;4617;4
+CA;San Diego;CA;4634;4
+CA;Douglas City;CA;1405;4
+CA;Hawaiian Gardens;CA;2090;4
+CA;San Diego County;CA;4646;4
+CA;Hawthorne;CA;2092;4
+CA;San Diego;CA;4644;4
+CA;San Diego;CA;4643;4
+CA;San Diego;CA;4645;4
+CA;Downey;CA;1412;4
+CA;Hayward;CA;2098;4
+CA;Dinuba;CA;1397;4
+CA;San Fernando;CA;4648;4
+CA;Dinuba;CA;1396;4
+CA;Dos Palos;CA;1400;4
+CA;San Fernando;CA;4647;4
+CA;Inyokern;CA;2382;4
+CA;Natomas;CA;3543;4
+CA;San Diego;CA;4638;4
+CA;Durham;CA;1427;4
+CA;San Diego;CA;4640;4
+CA;San Diego;CA;4639;4
+CA;San Diego;CA;4635;4
+CA;Needles;CA;3545;4
+CA;San Diego;CA;4637;4
+CA;San Diego;CA;4636;4
+CA;Orange;CA;3826;4
+CA;Duarte;CA;1415;4
+CA;Irvine;CA;2387;4
+CA;Orange;CA;3827;4
+CA;Dunsmuir;CA;1420;4
+CA;Dunsmuir;CA;1421;4
+CA;San Diego;CA;4642;4
+CA;San Diego;CA;4641;4
+CA;El Cajon;CA;1485;4
+CA;Escondido;CA;1563;4
+CA;North Hills;CA;3666;4
+CA;Roseville;CA;4467;4
+CA;Escalon;CA;1562;4
+CA;Ontario;CA;3815;4
+CA;Rocklin;CA;4446;4
+CA;North Hollywood;CA;3667;4
+CA;Rosemead;CA;4464;4
+CA;Grover Beach;CA;2016;4
+CA;Norco;CA;3643;4
+CA;Nipton;CA;3635;4
+CA;Sacramento;CA;4503;4
+CA;Emeryville;CA;1546;4
+CA;Encinitas;CA;1549;4
+CA;Ontario;CA;3816;4
+CA;Emeryville;CA;1545;4
+CA;Olympic Valley;CA;3797;4
+CA;Pinion Hills;CA;4139;4
+CA;Fair Oaks;CA;1598;4
+CA;Fair Oaks;CA;1599;4
+CA;Pittsburg;CA;4145;4
+CA;Olivehurst;CA;3793;4
+CA;Olivehurst;CA;3794;4
+CA;Pittsburg;CA;4144;4
+CA;Ontario;CA;3814;4
+CA;Ontario;CA;3813;4
+CA;Pico Rivera;CA;4114;4
+CA;Pico Rivera;CA;4115;4
+CA;Eureka;CA;1581;4
+CA;Norwalk;CA;3693;4
+CA;Ono;CA;3812;4
+CA;Eureka;CA;1580;4
+CA;Nipomo;CA;3634;4
+CA;Ontario;CA;3817;4
+CA;Newark;CA;3611;4
+CA;Salinas;CA;4532;4
+CA;Salinas;CA;4531;4
+CA;Sacramento;CA;4516;4
+CA;Sacramento;CA;4515;4
+CA;Newark;CA;3612;4
+CA;Newman;CA;3617;4
+CA;Hacienda Heights;CA;2032;4
+CA;El Monte;CA;1489;4
+CA;El Centro;CA;1486;4
+CA;El Cerrito;CA;1487;4
+CA;San Bernardino;CA;4609;4
+CA;Ontario;CA;3818;4
+CA;El Monte;CA;1490;4
+CA;El Monte;CA;1491;4
+CA;Elk Grove;CA;1521;4
+CA;Sacramento;CA;4508;4
+CA;Nice;CA;3629;4
+CA;Elk Grove;CA;1520;4
+CA;Sacramento;CA;4505;4
+CA;Sacramento;CA;4504;4
+CA;Sacramento;CA;4507;4
+CA;Sacramento;CA;4506;4
+CA;Sacramento;CA;4513;4
+CA;Sacramento;CA;4512;4
+CA;Sacramento;CA;4514;4
+CA;El Sereno;CA;1508;4
+CA;Sacramento;CA;4509;4
+CA;Newport Beach;CA;3620;4
+CA;Sacramento;CA;4511;4
+CA;Sacramento;CA;4510;4
+CA;Montebello;CA;3432;4
+CA;Los Angeles;CA;2980;4
+CA;Beaumont;CA;454;4
+CA;Twentynine Palms;CA;5371;4
+CA;Tustin;CA;5370;4
+CA;Turlock;CA;5365;4
+CA;Tulare;CA;5332;4
+CA;Beaumont;CA;460;4
+CA;Beaumont;CA;457;4
+CA;Tulare;CA;5333;4
+CA;Los Angeles;CA;2981;4
+CA;Los Angeles;CA;2988;4
+CA;Los Angeles;CA;2987;4
+CA;Los Angeles;CA;2990;4
+CA;Los Angeles;CA;2989;4
+CA;Los Angeles;CA;2986;4
+CA;Los Angeles;CA;2983;4
+CA;Los Angeles;CA;2982;4
+CA;Los Angeles;CA;2985;4
+CA;Los Angeles;CA;2984;4
+CA;Los Angeles;CA;2979;4
+CA;Los Angeles;CA;2970;4
+CA;Los Angeles;CA;2969;4
+CA;Bellflower;CA;483;4
+CA;Los Angeles;CA;2971;4
+CA;Los Angeles;CA;2968;4
+CA;Los Angeles;CA;2965;4
+CA;Big Sur;CA;520;4
+CA;Los Angeles;CA;2967;4
+CA;Los Angeles;CA;2966;4
+CA;Los Angeles;CA;2972;4
+CA;Los Angeles;CA;2976;4
+CA;Bell;CA;475;4
+CA;Los Angeles;CA;2978;4
+CA;Los Angeles;CA;2977;4
+CA;Los Angeles;CA;2975;4
+CA;Los Angeles;CA;2974;4
+CA;Los Angeles;CA;2973;4
+CA;Bell Gardens;CA;477;4
+CA;Bell Gardens;CA;478;4
+CA;Vacaville;CA;5392;4
+CA;Los Angeles;CA;3005;4
+CA;Los Angeles;CA;3007;4
+CA;Los Angeles;CA;3006;4
+CA;Banning;CA;403;4
+CA;Los Angeles;CA;3003;4
+CA;Los Angeles;CA;3002;4
+CA;Vacaville;CA;5391;4
+CA;Los Angeles;CA;3004;4
+CA;Los Angeles;CA;3008;4
+CA;Los Angeles;CA;3015;4
+CA;Los Angeles;CA;3014;4
+CA;Los Angeles;CA;3017;4
+CA;Los Angeles;CA;3016;4
+CA;Los Angeles;CA;3013;4
+CA;Los Angeles;CA;3010;4
+CA;Los Angeles;CA;3009;4
+CA;Los Angeles;CA;3012;4
+CA;Los Angeles;CA;3011;4
+CA;Barona Indian Reservation;CA;410;4
+CA;Los Angeles;CA;2997;4
+CA;Los Angeles;CA;2996;4
+CA;Bassett;CA;425;4
+CA;Los Angeles;CA;2998;4
+CA;Los Angeles;CA;2995;4
+CA;Los Angeles;CA;2992;4
+CA;Los Angeles;CA;2991;4
+CA;Los Angeles;CA;2994;4
+CA;Los Angeles;CA;2993;4
+CA;Union City;CA;5378;4
+CA;Barstow;CA;415;4
+CA;Barstow;CA;416;4
+CA;Barstow;CA;413;4
+CA;Barstow;CA;414;4
+CA;Barstow;CA;417;4
+CA;Los Angeles;CA;3000;4
+CA;Los Angeles;CA;2999;4
+CA;Los Angeles;CA;3001;4
+CA;University City;CA;5387;4
+CA;Maywood;CA;3204;4
+CA;Sunnyvale;CA;5121;4
+CA;Sunnyvale;CA;5120;4
+CA;Sunnyvale;CA;5123;4
+CA;Sunnyvale;CA;5122;4
+CA;Butte County;CA;724;4
+CA;Linda;CA;2890;4
+CA;Calabasas;CA;737;4
+CA;Byron;CA;729;4
+CA;Cabazon;CA;730;4
+CA;Burbank;CA;705;4
+CA;Temecula;CA;5205;4
+CA;Tehama County;CA;5204;4
+CA;Temecula;CA;5207;4
+CA;Temecula;CA;5206;4
+CA;Tehachapi;CA;5203;4
+CA;Sylmar;CA;5138;4
+CA;Burbank;CA;704;4
+CA;Livermore;CA;2909;4
+CA;Sylmar;CA;5139;4
+CA;Calaveras County;CA;738;4
+CA;Stockton;CA;5081;4
+CA;Stockton;CA;5080;4
+CA;Stockton;CA;5083;4
+CA;Stockton;CA;5082;4
+CA;Stockton;CA;5079;4
+CA;Stockton;CA;5076;4
+CA;Stockton;CA;5075;4
+CA;Stockton;CA;5078;4
+CA;Stockton;CA;5077;4
+CA;Stockton;CA;5085;4
+CA;Calimesa;CA;746;4
+CA;Studio City;CA;5101;4
+CA;Calexico;CA;743;4
+CA;California City;CA;745;4
+CA;Camarillo;CA;749;4
+CA;Campo;CA;758;4
+CA;Stockton;CA;5086;4
+CA;Camarillo;CA;750;4
+CA;Stockton;CA;5087;4
+CA;Long Beach;CA;2949;4
+CA;Thousand Oaks;CA;5245;4
+CA;Long Beach;CA;2951;4
+CA;Long Beach;CA;2950;4
+CA;Long Beach;CA;2948;4
+CA;Long Beach;CA;2945;4
+CA;Long Beach;CA;2944;4
+CA;Long Beach;CA;2947;4
+CA;Long Beach;CA;2946;4
+CA;Long Beach;CA;2952;4
+CA;Torrance;CA;5279;4
+CA;Torrance;CA;5278;4
+CA;McKinneyville;CA;3211;4
+CA;Meadow Vista;CA;3219;4
+CA;Torrance;CA;5277;4
+CA;Mecca;CA;3221;4
+CA;Long Beach;CA;2953;4
+CA;Torrance;CA;5276;4
+CA;Torrance;CA;5275;4
+CA;Long Beach;CA;2943;4
+CA;Lodi;CA;2919;4
+CA;Boulder Creek;CA;610;4
+CA;Lodi;CA;2920;4
+CA;Templeton;CA;5224;4
+CA;Boyle Heights;CA;614;4
+CA;Brea;CA;631;4
+CA;Merced;CA;3251;4
+CA;Menifee;CA;3250;4
+CA;Brawley;CA;628;4
+CA;Lodi;CA;2921;4
+CA;Long Beach;CA;2940;4
+CA;Long Beach;CA;2939;4
+CA;Long Beach;CA;2942;4
+CA;Long Beach;CA;2941;4
+CA;Long Beach;CA;2938;4
+CA;Lompoc;CA;2930;4
+CA;Lompoc;CA;2929;4
+CA;Long Beach;CA;2937;4
+CA;Long Beach;CA;2936;4
+CA;Marysville;CA;3194;4
+CA;Apple Valley;CA;174;4
+CA;Antioch;CA;164;4
+CA;Antioch;CA;166;4
+CA;Los Banos;CA;3055;4
+CA;Watsonville;CA;5533;4
+CA;Los Angeles;CA;3053;4
+CA;Arcata;CA;180;4
+CA;Los Banos;CA;3054;4
+CA;Antioch;CA;163;4
+CA;Anaheim;CA;138;4
+CA;West Covina;CA;5575;4
+CA;Anaheim;CA;136;4
+CA;Anaheim;CA;137;4
+CA;Anderson;CA;151;4
+CA;Antioch;CA;161;4
+CA;Weitchpec;CA;5561;4
+CA;Anderson;CA;152;4
+CA;Antelope;CA;159;4
+CA;Watsonsville;CA;5532;4
+CA;Atascadero;CA;229;4
+CA;Los Angeles;CA;3044;4
+CA;Los Angeles;CA;3046;4
+CA;Los Angeles;CA;3045;4
+CA;Walnut Creek;CA;5479;4
+CA;Atwater;CA;265;4
+CA;Atwater;CA;266;4
+CA;Walnut Creek;CA;5478;4
+CA;Atwater;CA;264;4
+CA;Los Angeles;CA;3047;4
+CA;Los Angeles;CA;3050;4
+CA;Artesia;CA;205;4
+CA;Los Angeles;CA;3052;4
+CA;Los Angeles;CA;3051;4
+CA;Los Angeles;CA;3049;4
+CA;Wasco;CA;5492;4
+CA;Los Angeles;CA;3048;4
+CA;Wasco;CA;5493;4
+CA;Ashland;CA;220;4
+CA;Madera;CA;3127;4
+CA;Madera;CA;3126;4
+CA;Windsor;CA;5687;4
+CA;Winchester;CA;5685;4
+CA;Madera;CA;3125;4
+CA;Lynwood;CA;3116;4
+CA;Whittier;CA;5645;4
+CA;Wilmington;CA;5673;4
+CA;Willits;CA;5668;4
+CA;Madera County;CA;3128;4
+CA;Yuba City;CA;5739;4
+CA;Yuba City;CA;5738;4
+CA;Yucca Valley;CA;5741;4
+CA;Yucca Valley;CA;5740;4
+CA;Adelanto;CA;20;4
+CA;Yorba Linda;CA;5728;4
+CA;Woodville;CA;5715;4
+CA;Yreka;CA;5737;4
+CA;Aguanga;CA;23;4
+CA;Whittier;CA;5644;4
+CA;Anaheim;CA;129;4
+CA;Anaheim;CA;130;4
+CA;West Goshen;CA;5579;4
+CA;Anaheim;CA;128;4
+CA;Anaheim;CA;131;4
+CA;Anaheim;CA;134;4
+CA;Anaheim;CA;135;4
+CA;Anaheim;CA;132;4
+CA;Anaheim;CA;133;4
+CA;Martinez;CA;3189;4
+CA;Westminster;CA;5618;4
+CA;Marina;CA;3179;4
+CA;Whittier;CA;5643;4
+CA;Westminster;CA;5624;4
+CA;Lucerne;CA;3100;4
+CA;Alpine;CA;107;4
+CA;Alpine;CA;108;4
+CA;Alhambra;CA;97;4
+CA;West Sacramento;CA;5602;4
+CA;Los Angeles;CA;3043;4
+CA;Bakersfield;CA;361;4
+CA;Bakersfield;CA;362;4
+CA;Bakersfield;CA;359;4
+CA;Bakersfield;CA;360;4
+CA;Bakersfield;CA;363;4
+CA;Bakersfield;CA;366;4
+CA;Bakersfield;CA;367;4
+CA;Bakersfield;CA;364;4
+CA;Bakersfield;CA;365;4
+CA;Bakersfield;CA;358;4
+CA;Azusa;CA;346;4
+CA;Azusa;CA;347;4
+CA;Azusa;CA;344;4
+CA;Azusa;CA;345;4
+CA;Los Angeles;CA;3027;4
+CA;Bakersfield;CA;356;4
+CA;Bakersfield;CA;357;4
+CA;Los Angeles;CA;3026;4
+CA;Bakersfield;CA;355;4
+CA;Bakersfield;CA;368;4
+CA;Los Angeles;CA;3024;4
+CA;Los Angeles;CA;3023;4
+CA;Los Angeles;CA;3025;4
+CA;Baldwin Hills;CA;381;4
+CA;Los Angeles;CA;3022;4
+CA;Los Angeles;CA;3019;4
+CA;Los Angeles;CA;3018;4
+CA;Los Angeles;CA;3021;4
+CA;Los Angeles;CA;3020;4
+CA;Bakersfield;CA;378;4
+CA;Bakersfield;CA;371;4
+CA;Bakersfield;CA;372;4
+CA;Bakersfield;CA;369;4
+CA;Bakersfield;CA;370;4
+CA;Bakersfield;CA;373;4
+CA;Bakersfield;CA;376;4
+CA;Bakersfield;CA;377;4
+CA;Bakersfield;CA;374;4
+CA;Bakersfield;CA;375;4
+CA;Visalia;CA;5453;4
+CA;Los Angeles;CA;3036;4
+CA;Visalia;CA;5455;4
+CA;Visalia;CA;5454;4
+CA;Los Angeles;CA;3035;4
+CA;Victorville;CA;5436;4
+CA;Victorville;CA;5435;4
+CA;Los Angeles;CA;3034;4
+CA;Los Angeles;CA;3033;4
+CA;Los Angeles;CA;3037;4
+CA;Los Angeles;CA;3041;4
+CA;Los Angeles;CA;3040;4
+CA;Auburn;CA;268;4
+CA;Los Angeles;CA;3042;4
+CA;Los Angeles;CA;3039;4
+CA;Los Angeles;CA;3038;4
+CA;Visalia;CA;5456;4
+CA;Vista;CA;5458;4
+CA;Vista;CA;5457;4
+CA;Victorville;CA;5434;4
+CA;Vallejo;CA;5401;4
+CA;Vallejo;CA;5400;4
+CA;Vallejo;CA;5403;4
+CA;Vallejo;CA;5402;4
+CA;Avenal;CA;333;4
+CA;Vallejo;CA;5399;4
+CA;Valinda;CA;5398;4
+CA;Los Angeles;CA;3029;4
+CA;Los Angeles;CA;3028;4
+CA;Valley View;CA;5405;4
+CA;Los Angeles;CA;3031;4
+CA;Van Nuys;CA;5411;4
+CA;Venice;CA;5426;4
+CA;Los Angeles;CA;3032;4
+CA;Los Angeles;CA;3030;4
+CA;Van Nuys;CA;5408;4
+CA;Van Nuys;CA;5407;4
+CA;Van Nuys;CA;5410;4
+CA;Van Nuys;CA;5409;4
+CA;Modesto;CA;3407;4
+CA;Modesto;CA;3408;4
+CA;Chino Hills;CA;969;4
+CA;Stanton;CA;5059;4
+CA;Carson;CA;792;4
+CA;Montclair;CA;3429;4
+CA;Cathedral City;CA;814;4
+CA;Chowchilla;CA;970;4
+CA;Lemon Grove;CA;2851;4
+CA;Modesto;CA;3405;4
+CA;Ceres;CA;837;4
+CA;Modesto;CA;3404;4
+CA;Charleston View;CA;862;4
+CA;Ceres;CA;838;4
+CA;Modesto;CA;3406;4
+CA;Cerritos;CA;841;4
+CA;Ceres;CA;839;4
+CA;Cerritos;CA;840;4
+CA;Mojave;CA;3412;4
+CA;Mojave;CA;3413;4
+CA;Chula Vista;CA;973;4
+CA;Castaic;CA;811;4
+CA;Lemon Grove;CA;2852;4
+CA;Lemoore;CA;2855;4
+CA;Lemoore;CA;2854;4
+CA;Chula Vista;CA;972;4
+CA;Lemoore;CA;2853;4
+CA;Chico;CA;957;4
+CA;Lincoln;CA;2880;4
+CA;Cathedral City;CA;813;4
+CA;Modesto;CA;3409;4
+CA;Modesto;CA;3410;4
+CA;Mojave;CA;3411;4
+CA;Cathedral City;CA;812;4
+CA;Chula Vista;CA;975;4
+CA;Carson;CA;791;4
+CA;Stanton;CA;5058;4
+CA;Chino;CA;965;4
+CA;Modesto;CA;3402;4
+CA;Chico;CA;960;4
+CA;Chico;CA;959;4
+CA;Chatsworth;CA;884;4
+CA;Montebello;CA;3431;4
+CA;Chula Vista;CA;974;4
+CA;Modesto;CA;3401;4
+CA;Carmichael;CA;778;4
+CA;Stockton;CA;5074;4
+CA;Carmichael;CA;780;4
+CA;Carmichael;CA;779;4
+CA;Chino;CA;964;4
+CA;Chino;CA;966;4
+CA;Chico;CA;961;4
+CA;Modesto;CA;3403;4
+CA;Chino;CA;968;4
+CA;Chino;CA;967;4
+CA;Chico;CA;958;4
+CA;Milpitas;CA;3356;4
+CO;Westminster;CO;5625;5
+CO;Westminster;CO;5613;5
+CO;New Castle;CO;3557;5
+CO;Westminster;CO;5623;5
+CO;Westminster;CO;5614;5
+CO;Westminster;CO;5622;5
+CO;Brandon;CO;626;5
+CO;Aurora;CO;286;5
+CO;Loveland;CO;3086;5
+CO;Loveland;CO;3085;5
+CO;Aurora;CO;290;5
+CO;Aurora;CO;287;5
+CO;Rifle;CO;4406;5
+CO;Aurora;CO;291;5
+CO;Westminster;CO;5621;5
+CO;Brighton;CO;642;5
+CO;Highlands Ranch;CO;2157;5
+CO;Westminster;CO;5617;5
+CO;Aurora;CO;288;5
+CO;Grand Junction;CO;1947;5
+CO;Westminister;CO;5612;5
+CO;Westminster;CO;5616;5
+CO;Westminister;CO;5611;5
+CO;Grand Junction;CO;1946;5
+CO;Federal Heights;CO;1651;5
+CO;Grand Junction;CO;1945;5
+CO;Grand Junction;CO;1949;5
+CO;Westminster;CO;5619;5
+CO;Mountain View;CO;3489;5
+CO;Westminster;CO;5620;5
+CO;Grand Junction;CO;1948;5
+CO;Aurora;CO;284;5
+CO;Gunnison County;CO;2027;5
+CO;Evans;CO;1586;5
+CO;Evans;CO;1587;5
+CO;Thornton;CO;5242;5
+CO;Centennial;CO;833;5
+CO;Monument;CO;3452;5
+CO;Lakewood;CO;2710;5
+CO;Northglenn;CO;3689;5
+CO;Watkins;CO;5531;5
+CO;Centennial;CO;829;5
+CO;Lakewood;CO;2709;5
+CO;Northglenn;CO;3688;5
+CO;Centennial;CO;830;5
+CO;Thornton;CO;5243;5
+CO;Montrose County;CO;3450;5
+CO;Arvada;CO;212;5
+CO;Arvada;CO;211;5
+CO;North Fort Collins;CO;3664;5
+CO;Thornton;CO;5244;5
+CO;Centennial;CO;832;5
+CO;Hanover;CO;2057;5
+CO;Monument;CO;3451;5
+CO;Longmont;CO;2954;5
+CO;Englewood;CO;1551;5
+CO;Arvada;CO;210;5
+CO;Englewood;CO;1555;5
+CO;Arvada;CO;209;5
+CO;Centennial;CO;828;5
+CO;Greeley;CO;1972;5
+CO;Centennial;CO;831;5
+CO;Boulder;CO;605;5
+CO;Greeley;CO;1974;5
+CO;Greeley;CO;1973;5
+CO;Clear Creek Canyon;CO;1024;5
+CO;Boulder;CO;606;5
+CO;Pleasant View;CO;4162;5
+CO;Loveland;CO;3084;5
+CO;Aurora;CO;283;5
+CO;Boulder;CO;607;5
+CO;Boulder;CO;608;5
+CO;Larimer County;CO;2745;5
+CO;Loma;CO;2928;5
+CO;Trinidad;CO;5288;5
+CO;Trinidad;CO;5289;5
+CO;Lakewood;CO;2708;5
+CO;Northglenn;CO;3690;5
+CO;Northglenn;CO;3691;5
+CO;Trinidad;CO;5287;5
+CO;Loveland;CO;3083;5
+CO;Cañon City;CO;820;5
+CO;Greeley;CO;1975;5
+CO;Lone Tree;CO;2935;5
+CO;Greeley;CO;1977;5
+CO;Greeley;CO;1976;5
+CO;Eldorado Springs;CO;1511;5
+CO;Denver;CO;1341;5
+CO;Denver;CO;1340;5
+CO;Denver;CO;1339;5
+CO;Denver;CO;1342;5
+CO;Denver;CO;1345;5
+CO;Denver;CO;1344;5
+CO;Denver;CO;1343;5
+CO;Denver;CO;1338;5
+CO;Denver;CO;1333;5
+CO;Denver;CO;1332;5
+CO;Denver;CO;1331;5
+CO;Denver;CO;1334;5
+CO;Denver;CO;1337;5
+CO;Denver;CO;1336;5
+CO;Denver;CO;1335;5
+CO;Denver;CO;1346;5
+CO;Denver;CO;1357;5
+CO;Denver;CO;1356;5
+CO;Denver;CO;1355;5
+CO;Denver;CO;1358;5
+CO;Denver;CO;1361;5
+CO;Denver;CO;1360;5
+CO;Denver;CO;1359;5
+CO;Denver;CO;1354;5
+CO;Denver;CO;1349;5
+CO;Denver;CO;1348;5
+CO;Denver;CO;1347;5
+CO;Denver;CO;1350;5
+CO;Denver;CO;1353;5
+CO;Denver;CO;1352;5
+CO;Denver;CO;1351;5
+CO;Bailey;CO;352;5
+CO;LaSalle;CO;2639;5
+CO;Valdez;CO;5394;5
+CO;Colorado Springs;CO;1100;5
+CO;Colorado Springs;CO;1097;5
+CO;Colorado Springs;CO;1098;5
+CO;Colorado Springs;CO;1099;5
+CO;Pueblo;CO;4282;5
+CO;Pueblo;CO;4277;5
+CO;Pueblo;CO;4276;5
+CO;Lakewood;CO;2696;5
+CO;Pueblo;CO;4278;5
+CO;Pueblo;CO;4281;5
+CO;Pueblo;CO;4280;5
+CO;Pueblo;CO;4279;5
+CO;Friendly Hills;CO;1820;5
+CO;Adams County;CO;16;5
+CO;Adams County;CO;15;5
+CO;Strasburg;CO;5095;5
+CO;Adams County;CO;17;5
+CO;Denver;CO;1330;5
+CO;Pueblo;CO;4273;5
+CO;Avon;CO;335;5
+CO;Adams County;CO;14;5
+CO;Fountain;CO;1765;5
+CO;Pueblo;CO;4274;5
+CO;Pueblo;CO;4275;5
+CO;Fruita;CO;1824;5
+CO;Colorado Springs;CO;1095;5
+CO;Springfield;CO;4972;5
+CO;Colorado Springs;CO;1096;5
+CO;Denver;CO;1362;5
+CO;Lakewood;CO;2698;5
+CO;Commerce City;CO;1152;5
+CO;Fort Carson;CO;1708;5
+CO;Commerce City;CO;1153;5
+CO;Lakewood;CO;2703;5
+CO;Lakewood;CO;2700;5
+CO;Commerce City;CO;1154;5
+CO;Fort Collins;CO;1709;5
+CO;Parker;CO;3931;5
+CO;Parker;CO;3930;5
+CO;Park County;CO;3928;5
+CO;Idaho Springs;CO;2340;5
+CO;Fort Collins;CO;1710;5
+CO;Fort Collins;CO;1711;5
+CO;Fort Collins;CO;1712;5
+CO;Lakewood;CO;2704;5
+CO;Aurora;CO;297;5
+CO;Golden;CO;1921;5
+CO;Aurora;CO;298;5
+CO;Aurora;CO;295;5
+CO;Aurora;CO;292;5
+CO;Aurora;CO;293;5
+CO;Aurora;CO;294;5
+CO;Glenwood Springs;CO;1919;5
+CO;Lakewood;CO;2707;5
+CO;Lakewood;CO;2706;5
+CO;Durango;CO;1423;5
+CO;Aurora;CO;300;5
+CO;Aurora;CO;299;5
+CO;Orchard Mesa;CO;3836;5
+CO;Broomfield;CO;675;5
+CO;Colorado City;CO;1083;5
+CO;Colorado Springs;CO;1092;5
+CO;Colorado Springs;CO;1093;5
+CO;Pueblo;CO;4268;5
+CO;Colorado Springs;CO;1091;5
+CO;Colorado Springs;CO;1088;5
+CO;Colorado Springs;CO;1089;5
+CO;Colorado Springs;CO;1090;5
+CO;Pueblo;CO;4269;5
+CO;Pueblo;CO;4271;5
+CO;Pueblo;CO;4272;5
+CO;Denver;CO;1363;5
+CO;Rangley;CO;4324;5
+CO;Pueblo;CO;4270;5
+CO;Sedalia;CO;4787;5
+CO;Colorado Springs;CO;1094;5
+CO;Colorado Springs;CO;1085;5
+CO;Sterling;CO;5066;5
+CO;Alamosa;CO;44;5
+CO;Alamosa;CO;45;5
+CO;Dinosaur;CO;1395;5
+CO;Colorado City;CO;1084;5
+CO;Fort Lupton;CO;1721;5
+CO;Fort Morgan;CO;1725;5
+CO;Pueblo;CO;4266;5
+CO;Pueblo;CO;4267;5
+CO;Pueblo;CO;4265;5
+CO;Colorado Springs;CO;1086;5
+CO;Colorado Springs;CO;1087;5
+CT;Oakdale;CT;3708;6
+CT;Norwich;CT;3694;6
+CT;Fairfield;CT;1619;6
+CT;Old Saybrook;CT;3789;6
+CT;Norwich;CT;3695;6
+CT;Ansonia;CT;158;6
+CT;Mashantucket;CT;3197;6
+CT;New Britain;CT;3553;6
+CT;New Milford;CT;3566;6
+CT;Manchester;CT;3146;6
+CT;Thomaston;CT;5238;6
+CT;Hartford;CT;2079;6
+CT;Waterbury;CT;5527;6
+CT;Stamford;CT;5055;6
+CT;Bridgeport;CT;639;6
+CT;Bolton;CT;582;6
+CT;East Hartford;CT;1447;6
+CT;Danbury;CT;1255;6
+CT;Suffield;CT;5103;6
+CT;Wethersfield;CT;5628;6
+CT;West Haven;CT;5580;6
+DC;Washington;DC;5496;7
+DC;Washington;DC;5505;7
+DC;Washington;DC;5508;7
+DC;Washington;DC;5506;7
+DC;Washington;DC;5497;7
+DC;Washington;DC;5499;7
+DC;Washington;DC;5500;7
+DC;Washington;DC;5495;7
+DC;Washington;DC;5494;7
+DC;Washington;DC;5501;7
+DC;Washington;DC;5503;7
+DC;Washington;DC;5504;7
+DC;Washington;DC;5498;7
+DC;Washington;DC;5502;7
+DE;Claymont;DE;1021;8
+DE;New Castle;DE;3556;8
+DE;Middletown;DE;3334;8
+DE;Wilmington;DE;5671;8
+DE;Wilmington;DE;5674;8
+DE;Wilmington;DE;5672;8
+DE;Frederica;DE;1786;8
+DE;Smyrna;DE;4869;8
+DE;Lewes;DE;2865;8
+DE;Milford;DE;3348;8
+DE;Wilmington;DE;5675;8
+DE;Wilmington;DE;5676;8
+DE;Dover;DE;1409;8
+FL;Jacksonville;FL;2442;9
+FL;Jacksonville;FL;2427;9
+FL;Jacksonville;FL;2444;9
+FL;Jacksonville;FL;2443;9
+FL;Jacksonville;FL;2445;9
+FL;Spring Hill;FL;4955;9
+FL;Palm Beach Gardens;FL;3902;9
+FL;Palm Beach Gardens;FL;3903;9
+FL;Palm Bay;FL;3900;9
+FL;Jacksonville;FL;2426;9
+FL;Palm Bay;FL;3901;9
+FL;Winter Haven;FL;5699;9
+FL;Winter Haven;FL;5698;9
+FL;Palm Harbor;FL;3906;9
+FL;Jacksonville;FL;2447;9
+FL;Palm City;FL;3904;9
+FL;Jacksonville;FL;2441;9
+FL;Jacksonville;FL;2433;9
+FL;Jacksonville;FL;2432;9
+FL;Panama City Beach;FL;3917;9
+FL;Jacksonville;FL;2435;9
+FL;Jacksonville;FL;2434;9
+FL;Jacksonville;FL;2431;9
+FL;Jacksonville;FL;2430;9
+FL;Jacksonville;FL;2429;9
+FL;Immokalee;FL;2343;9
+FL;Orlando;FL;3841;9
+FL;Immokalee;FL;2342;9
+FL;Homestead;FL;2201;9
+FL;Micanopy;FL;3329;9
+FL;Citra;FL;990;9
+FL;Jacksonville;FL;2440;9
+FL;Jacksonville;FL;2439;9
+FL;Jacksonville;FL;2438;9
+FL;Panama City;FL;3916;9
+FL;Jacksonville;FL;2436;9
+FL;Panama City;FL;3915;9
+FL;Jacksonville;FL;2437;9
+FL;Palmetto;FL;3913;9
+FL;Palm Bay;FL;3899;9
+FL;Orlando;FL;3851;9
+FL;Miami Gardens;FL;3325;9
+FL;Miami Gardens;FL;3326;9
+FL;Miami Gardens;FL;3324;9
+FL;Manatee;FL;3145;9
+FL;Orlando;FL;3850;9
+FL;Orlando;FL;3854;9
+FL;Orlando;FL;3855;9
+FL;Orlando;FL;3856;9
+FL;Miami-Dade;FL;3328;9
+FL;Orlando;FL;3852;9
+FL;Orlando;FL;3853;9
+FL;Miami Beach;FL;3322;9
+FL;Orlando;FL;3847;9
+FL;Yulee;FL;5743;9
+FL;Lakeland;FL;2688;9
+FL;Lakeland;FL;2689;9
+FL;Lakeland;FL;2690;9
+FL;Orlando;FL;3846;9
+FL;Orlando;FL;3849;9
+FL;Lakes Wales;FL;2693;9
+FL;Yulee;FL;5742;9
+FL;Miami Gardens;FL;3323;9
+FL;Orlando;FL;3848;9
+FL;Orlando;FL;3857;9
+FL;Orlando;FL;3842;9
+FL;Jacksonville;FL;2448;9
+FL;Gainesville;FL;1838;9
+FL;Orlando;FL;3844;9
+FL;Jacksonville;FL;2449;9
+FL;Orlando;FL;3843;9
+FL;Spring Hill;FL;4957;9
+FL;Palatka;FL;3894;9
+FL;Palatka;FL;3895;9
+FL;Spring Hill;FL;4958;9
+FL;Gainesville;FL;1840;9
+FL;Mandarin;FL;3154;9
+FL;Orlando;FL;3860;9
+FL;Ormond Beach;FL;3861;9
+FL;Fruitland Park;FL;1825;9
+FL;Orlando;FL;3858;9
+FL;Orlando;FL;3859;9
+FL;Frostproof;FL;1823;9
+FL;Avon Park;FL;336;9
+FL;Orlando;FL;3845;9
+FL;Lantana;FL;2735;9
+FL;Ft. Lauderdale;FL;1826;9
+FL;Springfield;FL;4966;9
+FL;Osteen;FL;3866;9
+FL;Auburndale;FL;277;9
+FL;Largo;FL;2744;9
+FL;Plantation;FL;4159;9
+FL;Grant-Valkaria;FL;1957;9
+FL;Jacksonsville;FL;2415;9
+FL;Old Town;FL;3792;9
+FL;Orange Park;FL;3833;9
+FL;Wellington;FL;5565;9
+FL;Clearwater;FL;1028;9
+FL;Plant City;FL;4158;9
+FL;Plant City;FL;4157;9
+FL;Auburndale;FL;276;9
+FL;Hernando;FL;2139;9
+FL;West Palm Beach;FL;5601;9
+FL;Largo;FL;2743;9
+FL;Loxahatchee;FL;3095;9
+FL;Marion County;FL;3184;9
+FL;Largo;FL;2742;9
+FL;Springfield;FL;4978;9
+FL;Amelia Island;FL;124;9
+FL;Poinciana;FL;4171;9
+FL;West Kendall;FL;5587;9
+FL;Cocoa;FL;1066;9
+FL;Orange Park;FL;3834;9
+FL;Clearwater;FL;1029;9
+FL;Sneads;FL;4870;9
+FL;Milton;FL;3357;9
+FL;Milton;FL;3358;9
+FL;Orange City;FL;3829;9
+FL;Midway;FL;3344;9
+FL;Clermont;FL;1033;9
+FL;Hallandale Beach;FL;2040;9
+FL;Hallandale Beach;FL;2041;9
+FL;Opa-Locka;FL;3821;9
+FL;Miramar;FL;3384;9
+FL;Miramar;FL;3385;9
+FL;Hallandale Beach;FL;2039;9
+FL;Olustee;FL;3795;9
+FL;Weeki Wachi;FL;5558;9
+FL;Apopka;FL;172;9
+FL;Auburndale;FL;275;9
+FL;Orange Park;FL;3832;9
+FL;Clearwater;FL;1030;9
+FL;Pinellas Park;FL;4133;9
+FL;Clermont;FL;1032;9
+FL;Mascotte;FL;3196;9
+FL;Orange County;FL;3831;9
+FL;Pinellas Park;FL;4134;9
+FL;Orange County;FL;3830;9
+FL;Viera;FL;5437;9
+FL;Hollywood;FL;2191;9
+FL;Hollywood;FL;2190;9
+FL;Jacksonville;FL;2423;9
+FL;Homestead;FL;2199;9
+FL;Orlando;FL;3840;9
+FL;Pensacola;FL;3986;9
+FL;Port Richey;FL;4199;9
+FL;Port Orange;FL;4197;9
+FL;Cocoa Beach;FL;1070;9
+FL;Cocoa;FL;1069;9
+FL;Holly Hill;FL;2188;9
+FL;Vero Beach;FL;5430;9
+FL;Jacksonville;FL;2424;9
+FL;Vero Beach;FL;5431;9
+FL;Jacksonville;FL;2425;9
+FL;Gifford;FL;1889;9
+FL;Coleman;FL;1079;9
+FL;Port St. Lucie;FL;4201;9
+FL;Homestead;FL;2200;9
+FL;Port St. Joe;FL;4200;9
+FL;Port St. Lucie;FL;4203;9
+FL;Middleburg;FL;3331;9
+FL;Port St. Lucie;FL;4202;9
+FL;Holiday;FL;2185;9
+FL;Perdido Key;FL;3994;9
+FL;Pompano Beach;FL;4183;9
+FL;Pompano Beach;FL;4182;9
+FL;Jacksonville;FL;2418;9
+FL;Jacksonville;FL;2417;9
+FL;Indiantown;FL;2369;9
+FL;Hialeah;FL;2149;9
+FL;Hialeah;FL;2148;9
+FL;Hialeah;FL;2147;9
+FL;Pompano Beach;FL;4181;9
+FL;Cocoa;FL;1067;9
+FL;Hilliard;FL;2158;9
+FL;Port Orange;FL;4196;9
+FL;Port Charlotte;FL;4194;9
+FL;Hog Valley;FL;2181;9
+FL;Pensacola;FL;3987;9
+FL;Pensacola;FL;3988;9
+FL;Cocoa;FL;1068;9
+FL;Indian River County;FL;2349;9
+FL;Jacksonville;FL;2420;9
+FL;Jacksonville;FL;2419;9
+FL;Port Charlotte;FL;4193;9
+FL;Indialantic;FL;2348;9
+FL;Jacksonville;FL;2421;9
+FL;Miami Beach;FL;3321;9
+FL;Tallahassee;FL;5174;9
+FL;Crescent City;FL;1208;9
+FL;Tallahassee;FL;5173;9
+FL;Tallahassee;FL;5177;9
+FL;Tallahassee;FL;5176;9
+FL;Tallahassee;FL;5175;9
+FL;Mexico Beach;FL;3289;9
+FL;Jupiter;FL;2497;9
+FL;Belle Glade;FL;479;9
+FL;Navarre;FL;3544;9
+FL;Dundee;FL;1419;9
+FL;Miami;FL;3290;9
+FL;Miami;FL;3291;9
+FL;Tallahassee;FL;5178;9
+FL;Tampa;FL;5181;9
+FL;Tamarac;FL;5180;9
+FL;Tamarac;FL;5179;9
+FL;Tampa;FL;5184;9
+FL;Tampa;FL;5183;9
+FL;Tampa;FL;5182;9
+FL;Riverview;FL;4428;9
+FL;Beverly Hills;FL;512;9
+FL;Brooksville;FL;670;9
+FL;Brooksville;FL;672;9
+FL;Riverview;FL;4427;9
+FL;Brooksville;FL;668;9
+FL;Brooksville;FL;669;9
+FL;Miami;FL;3302;9
+FL;Miami;FL;3303;9
+FL;Miami;FL;3304;9
+FL;Miami;FL;3300;9
+FL;Miami;FL;3301;9
+FL;Sarasota;FL;4741;9
+FL;Coral Springs;FL;1173;9
+FL;Floral City;FL;1677;9
+FL;Floral City;FL;1678;9
+FL;Starke;FL;5061;9
+FL;Miami;FL;3305;9
+FL;Miami;FL;3306;9
+FL;Dover;FL;1408;9
+FL;Miami;FL;3299;9
+FL;Leesburg;FL;2845;9
+FL;Miami;FL;3293;9
+FL;Miami;FL;3294;9
+FL;Bruce;FL;682;9
+FL;Miami;FL;3292;9
+FL;Lehigh Acres;FL;2847;9
+FL;Miami;FL;3295;9
+FL;Lealman;FL;2836;9
+FL;Miami;FL;3297;9
+FL;Miami;FL;3298;9
+FL;Miami;FL;3296;9
+FL;Lealman;FL;2837;9
+FL;Tallahassee;FL;5172;9
+FL;North Miami;FL;3677;9
+FL;North Miami Beach;FL;3678;9
+FL;Casselberry;FL;810;9
+FL;Melbourne;FL;3230;9
+FL;Titusville;FL;5256;9
+FL;Melbourne;FL;3231;9
+FL;Temple Terrace;FL;5223;9
+FL;Eustis;FL;1582;9
+FL;St. Petersburg;FL;5050;9
+FL;Boynton Beach;FL;615;9
+FL;St. Petersburg;FL;5048;9
+FL;St. Petersburg;FL;5049;9
+FL;Rockledge;FL;4445;9
+FL;Dade City;FL;1229;9
+FL;Nokomis;FL;3641;9
+FL;Noma;FL;3642;9
+FL;Thonotosassa;FL;5241;9
+FL;The Villages;FL;5236;9
+FL;Elkton;FL;1536;9
+FL;Ruskin;FL;4497;9
+FL;Englewood;FL;1552;9
+FL;North Escambia;FL;3663;9
+FL;Safety Harbor;FL;4517;9
+FL;North Fort Myers;FL;3665;9
+FL;Englewood;FL;1553;9
+FL;Kendale Lakes;FL;2557;9
+FL;Niceville;FL;3630;9
+FL;Tampa;FL;5188;9
+FL;Tampa;FL;5187;9
+FL;Eustis;FL;1584;9
+FL;Tampa;FL;5191;9
+FL;Tampa;FL;5190;9
+FL;Tampa;FL;5189;9
+FL;North Port;FL;3681;9
+FL;Tampa;FL;5185;9
+FL;Lake Asbury;FL;2655;9
+FL;Crystal Springs;FL;1217;9
+FL;North Port;FL;3682;9
+FL;Tampa;FL;5186;9
+FL;North Port;FL;3683;9
+FL;Tampa;FL;5192;9
+FL;Bradenton;FL;620;9
+FL;Bradenton;FL;621;9
+FL;Bradenton;FL;622;9
+FL;Eustis;FL;1583;9
+FL;Boyton Beach;FL;616;9
+FL;Bradenton;FL;619;9
+FL;Bradenton;FL;623;9
+FL;Dania Beach;FL;1256;9
+FL;Tarpon Springs;FL;5197;9
+FL;San Carlos Park;FL;4626;9
+FL;St. Petersburg;FL;5051;9
+FL;St. Petersburg;FL;5052;9
+FL;Edgewater;FL;1472;9
+FL;DeLand;FL;1282;9
+FL;Mulberry;FL;3499;9
+FL;Deltona;FL;1317;9
+FL;Sebring;FL;4784;9
+FL;Miami;FL;3320;9
+FL;Sebring;FL;4783;9
+FL;DeLand;FL;1281;9
+FL;Deltona;FL;1316;9
+FL;Delray Beach;FL;1310;9
+FL;Oakland Park;FL;3721;9
+FL;Ocala;FL;3724;9
+FL;Deltona;FL;1312;9
+FL;Deltona;FL;1315;9
+FL;Deltona;FL;1314;9
+FL;Deltona;FL;1313;9
+FL;Fort Pierce;FL;1729;9
+FL;Fort Pierce;FL;1730;9
+FL;Fort Pierce;FL;1731;9
+FL;Fort Pierce;FL;1728;9
+FL;Lauderdale Lakes;FL;2812;9
+FL;Fort Myers;FL;1726;9
+FL;Fort Myers;FL;1727;9
+FL;Fort Pierce;FL;1732;9
+FL;St. Augustine;FL;4989;9
+FL;Fort Walton Beach;FL;1739;9
+FL;Fort Walton Beach;FL;1740;9
+FL;Miami;FL;3312;9
+FL;Fort Pierce;FL;1733;9
+FL;Miami;FL;3310;9
+FL;DeLand;FL;1280;9
+FL;Quincy;FL;4296;9
+FL;Cape Canaveral;FL;769;9
+FL;Miami;FL;3319;9
+FL;Lake Wales;FL;2681;9
+FL;Ocala;FL;3726;9
+FL;Cantonment;FL;767;9
+FL;Lake Wales;FL;2680;9
+FL;Cape Coral;FL;770;9
+FL;Lakeland;FL;2685;9
+FL;Lakeland;FL;2686;9
+FL;Lakeland;FL;2687;9
+FL;Lakeland;FL;2684;9
+FL;Lakeland;FL;2683;9
+FL;Putnam Hall;FL;4288;9
+FL;Cape Coral;FL;771;9
+FL;Miami;FL;3314;9
+FL;Miami;FL;3315;9
+FL;Miami;FL;3316;9
+FL;Miami;FL;3313;9
+FL;Ocala;FL;3725;9
+FL;St. Augustine;FL;4988;9
+FL;St. Augustine;FL;4987;9
+FL;Seville;FL;4798;9
+FL;Delray Beach;FL;1309;9
+FL;Delray Beach;FL;1308;9
+FL;Deland;FL;1302;9
+FL;Miami;FL;3318;9
+FL;Fountain;FL;1764;9
+FL;Miami;FL;3317;9
+FL;Lake Mary;FL;2676;9
+FL;Fort Lauderdale;FL;1715;9
+FL;Bushnell;FL;721;9
+FL;Sunrise;FL;5125;9
+FL;Davie;FL;1268;9
+FL;Fort Lauderdale;FL;1717;9
+FL;Florida City;FL;1688;9
+FL;Fort Lauderdale;FL;1716;9
+FL;St. Cloud;FL;4995;9
+FL;Barberville;FL;405;9
+FL;Lauderhill;FL;2813;9
+FL;Bascom;FL;423;9
+FL;Miami;FL;3309;9
+FL;Daytona Beach;FL;1276;9
+FL;Naples;FL;3533;9
+FL;Lawtey;FL;2824;9
+FL;Little Havana;FL;2896;9
+FL;St. Cloud;FL;4994;9
+FL;Miami;FL;3307;9
+FL;Sunrise;FL;5126;9
+FL;Fort Walton Beach;FL;1741;9
+FL;Fort Lauderdale;FL;1718;9
+FL;Miami;FL;3308;9
+FL;Callahan;FL;747;9
+FL;Carollwood;FL;782;9
+FL;Fort Lauderdale;FL;1719;9
+FL;Lady Lake;FL;2646;9
+GA;Byron;GA;728;10
+GA;Claxton;GA;1019;10
+GA;Sylvester;GA;5144;10
+GA;Talking Rock;GA;5169;10
+GA;Talking Rock;GA;5170;10
+GA;Chickamauga;GA;952;10
+GA;LaGrange;GA;2638;10
+GA;Locust Grove;GA;2917;10
+GA;Brunswick;GA;684;10
+GA;Molena;GA;3414;10
+GA;LaGrange;GA;2637;10
+GA;Monroe;GA;3424;10
+GA;Monroe;GA;3421;10
+GA;Monticello;GA;3446;10
+GA;Cedartown;GA;826;10
+GA;Decatur;GA;1292;10
+GA;Sandy Springs;GA;4705;10
+GA;Buford;GA;698;10
+GA;Decatur;GA;1293;10
+GA;Douglas;GA;1403;10
+GA;Albany;GA;47;10
+GA;Buford;GA;699;10
+GA;Snellville;GA;4872;10
+GA;Snellville;GA;4871;10
+GA;Douglasville;GA;1406;10
+GA;Sylvania;GA;5140;10
+GA;Salacoa;GA;4521;10
+GA;Clayton;GA;1022;10
+GA;Sylvester;GA;5143;10
+GA;Acworth;GA;10;10
+GA;Loganville;GA;2926;10
+GA;Newnan;GA;3618;10
+GA;Bonaire;GA;584;10
+GA;Elberton;GA;1509;10
+GA;Loganville;GA;2927;10
+GA;Douglasville;GA;1407;10
+GA;Stone Mountain;GA;5091;10
+GA;Kingsland;GA;2595;10
+GA;Hiram;GA;2172;10
+GA;Marietta;GA;3176;10
+GA;Kingsland;GA;2596;10
+GA;Stone Mountain;GA;5090;10
+GA;Pearson;GA;3973;10
+GA;Brooklet;GA;657;10
+GA;Mableton;GA;3120;10
+GA;Mableton;GA;3119;10
+GA;Calhoun;GA;744;10
+GA;Marietta;GA;3178;10
+GA;Spalding County;GA;4912;10
+GA;Dunwoody;GA;1422;10
+GA;White;GA;5634;10
+GA;Lumpkin;GA;3106;10
+GA;Whitfield County;GA;5642;10
+GA;DeKalb County;GA;1278;10
+GA;Marietta;GA;3177;10
+GA;Stone Mountain;GA;5092;10
+GA;Adel;GA;19;10
+GA;DeKalb County;GA;1279;10
+GA;Hogansville;GA;2182;10
+GA;Stockbridge;GA;5072;10
+GA;Clarkesville;GA;1008;10
+GA;Eden;GA;1471;10
+GA;Woodville;GA;5714;10
+GA;Lizella;GA;2913;10
+GA;Dalton;GA;1251;10
+GA;Paulding County;GA;3961;10
+GA;Carrollton;GA;788;10
+GA;Carrollton;GA;787;10
+GA;Woodstock;GA;5713;10
+GA;Henry County;GA;2133;10
+GA;Cartersville;GA;798;10
+GA;East Point;GA;1452;10
+GA;East Point;GA;1453;10
+GA;East Point;GA;1451;10
+GA;Stockbridge;GA;5073;10
+GA;Macon;GA;3122;10
+GA;Peachtree City;GA;3966;10
+GA;Carroll County;GA;785;10
+GA;Cartersville;GA;797;10
+GA;Carnesville;GA;781;10
+GA;Ludowici;GA;3102;10
+GA;Carroll County;GA;784;10
+GA;Atlanta;GA;249;10
+GA;Atlanta;GA;250;10
+GA;Atlanta;GA;251;10
+GA;Chatham County;GA;883;10
+GA;Atlanta;GA;247;10
+GA;Atlanta;GA;248;10
+GA;Savannah;GA;4746;10
+GA;Atlanta;GA;252;10
+GA;Atlanta;GA;257;10
+GA;Atlanta;GA;258;10
+GA;Atlanta;GA;259;10
+GA;Atlanta;GA;256;10
+GA;Atlanta;GA;253;10
+GA;Atlanta;GA;254;10
+GA;Atlanta;GA;255;10
+GA;Grovetown;GA;2018;10
+GA;Atlanta;GA;241;10
+GA;Atlanta;GA;242;10
+GA;Port Wentworth;GA;4204;10
+GA;Atlanta;GA;239;10
+GA;Atlanta;GA;240;10
+GA;Lawrenceville;GA;2823;10
+GA;Griffin;GA;2015;10
+GA;Floyd County;GA;1690;10
+GA;Savannah;GA;4747;10
+GA;Atlanta;GA;246;10
+GA;Atlanta;GA;245;10
+GA;Floyd County;GA;1691;10
+GA;Atlanta;GA;243;10
+GA;Atlanta;GA;244;10
+GA;Chamblee;GA;844;10
+GA;Chamblee;GA;845;10
+GA;Chamblee;GA;846;10
+GA;Bibb County;GA;516;10
+GA;Savannah;GA;4743;10
+GA;Tyrone;GA;5374;10
+GA;Leesburg;GA;2844;10
+GA;Jackson;GA;2409;10
+GA;Rincon;GA;4408;10
+GA;Covington;GA;1200;10
+GA;Covington;GA;1199;10
+GA;Augusta;GA;281;10
+GA;Augusta;GA;278;10
+GA;Riverdale;GA;4417;10
+GA;Augusta;GA;280;10
+GA;Greenville;GA;1993;10
+GA;Austell;GA;301;10
+GA;Glennville;GA;1915;10
+GA;Austell;GA;302;10
+GA;Conyers;GA;1167;10
+GA;Union City;GA;5376;10
+GA;Savannah;GA;4745;10
+GA;McIntosh County;GA;3209;10
+GA;Jackson;GA;2405;10
+GA;Cochran;GA;1063;10
+GA;Savannah;GA;4744;10
+GA;Glenwood;GA;1918;10
+GA;Cobb County;GA;1060;10
+GA;Cobb County;GA;1061;10
+GA;Cobb County;GA;1062;10
+GA;Atlanta;GA;238;10
+GA;Columbus;GA;1138;10
+GA;Rossville;GA;4473;10
+GA;Gainesville;GA;1841;10
+GA;Gainesville;GA;1839;10
+GA;Gainesville;GA;1837;10
+GA;Roswell;GA;4475;10
+GA;Lake Lanier;GA;2675;10
+GA;Rossville;GA;4471;10
+GA;Columbus;GA;1142;10
+GA;Dahlonega;GA;1231;10
+GA;Rossville;GA;4472;10
+GA;Gainesville;GA;1842;10
+GA;Lake Lanier;GA;2674;10
+GA;Johns Creek;GA;2472;10
+GA;Smyrna;GA;4867;10
+GA;Norcross;GA;3644;10
+GA;Bainbridge;GA;353;10
+GA;Valdosta;GA;5395;10
+GA;Thomasville;GA;5239;10
+GA;Augusta;GA;279;10
+GA;Arlington;GA;194;10
+GA;Thomas County;GA;5237;10
+GA;Moultrie;GA;3479;10
+GA;Columbus;GA;1125;10
+GA;Jesup;GA;2470;10
+GA;Morrow;GA;3474;10
+GA;Valdosta;GA;5396;10
+GA;Franklin;GA;1774;10
+GA;Valdosta;GA;5397;10
+GA;Walton County;GA;5484;10
+GA;Lawrenceville;GA;2822;10
+GA;Habersham;GA;2031;10
+GA;Barrow County;GA;412;10
+GA;Hall County;GA;2037;10
+GA;Rockville;GA;4448;10
+GA;Cumming;GA;1224;10
+GA;Athens;GA;234;10
+GA;Athens;GA;235;10
+GA;Atlanta;GA;237;10
+GA;Athens;GA;233;10
+GA;Athens;GA;230;10
+GA;Athens;GA;231;10
+GA;Athens;GA;232;10
+GA;Hall County;GA;2038;10
+GA;Hampton;GA;2049;10
+GA;Hampton;GA;2051;10
+GA;Fort Valley;GA;1738;10
+GA;Powder Springs;GA;4245;10
+GA;Powder Springs;GA;4244;10
+GA;Commerce;GA;1151;10
+GA;Cumming;GA;1226;10
+GA;Forest Park;GA;1700;10
+GA;Porterdale;GA;4208;10
+GA;Cuthbert;GA;1228;10
+GA;Cumming;GA;1225;10
+HI;Honolulu;HI;2212;11
+HI;Honolulu;HI;2213;11
+HI;Honolulu;HI;2214;11
+HI;Honolulu;HI;2208;11
+HI;Honolulu;HI;2209;11
+HI;Honolulu;HI;2210;11
+HI;Puna;HI;4286;11
+HI;Honolulu;HI;2211;11
+HI;Honolulu;HI;2219;11
+HI;Aiea;HI;25;11
+HI;Pahoa;HI;3890;11
+HI;Honolulu;HI;2220;11
+HI;Nanakuli;HI;3524;11
+HI;Honolulu;HI;2218;11
+HI;Honolulu;HI;2215;11
+HI;Papaaloa;HI;3921;11
+HI;Honolulu;HI;2216;11
+HI;Honolulu;HI;2217;11
+HI;Puna;HI;4287;11
+HI;Maui;HI;3200;11
+HI;North Shore;HI;3686;11
+HI;Kalihi;HI;2505;11
+HI;Kalihi;HI;2506;11
+HI;Kahuku;HI;2502;11
+HI;Wailuku;HI;5469;11
+HI;Hilo;HI;2168;11
+HI;Hilo;HI;2166;11
+HI;Hilo;HI;2167;11
+HI;Keaau;HI;2547;11
+HI;Hilo;HI;2165;11
+IA;Nashua;IA;3535;12
+IA;Fort Madison;IA;1723;12
+IA;Moorland;IA;3455;12
+IA;Burlington;IA;714;12
+IA;Panora;IA;3919;12
+IA;Burlington;IA;711;12
+IA;Davenport;IA;1265;12
+IA;Fort Madison;IA;1722;12
+IA;Sioux City;IA;4856;12
+IA;Des Moines;IA;1368;12
+IA;West Burlington;IA;5573;12
+IA;Clinton;IA;1044;12
+IA;Des Moines;IA;1372;12
+IA;Des Moines;IA;1371;12
+IA;Des Moines;IA;1370;12
+IA;Fort Dodge;IA;1713;12
+IA;Altoona;IA;111;12
+IA;Ankeny;IA;155;12
+IA;Urbandale;IA;5389;12
+IA;Altoona;IA;112;12
+IA;Fort Dodge;IA;1714;12
+IA;West Des Moines;IA;5576;12
+IA;West Des Moines;IA;5577;12
+IA;Creston;IA;1209;12
+IA;Boone;IA;586;12
+IA;Boone;IA;587;12
+IA;Webster City;IA;5556;12
+IA;Bettendorf;IA;509;12
+IA;North English;IA;3662;12
+IA;Cedar Rapids;IA;824;12
+IA;Cedar Rapids;IA;825;12
+IA;Wellman;IA;5567;12
+IA;Davenport;IA;1264;12
+IA;Dakota City;IA;1232;12
+IA;Council Bluffs;IA;1195;12
+ID;Boise;ID;576;13
+ID;Boise;ID;577;13
+ID;Boise;ID;574;13
+ID;Idaho Falls;ID;2336;13
+ID;Melba;ID;3229;13
+ID;Boise;ID;573;13
+ID;Caldwell;ID;740;13
+ID;Jefferson County;ID;2462;13
+ID;Boise;ID;575;13
+ID;Sandpoint;ID;4702;13
+ID;Preston;ID;4253;13
+ID;Garden City;ID;1846;13
+ID;Mountain Home;ID;3487;13
+ID;Mountain Home;ID;3486;13
+ID;Sandpoint;ID;4703;13
+ID;Boise;ID;579;13
+ID;Boise;ID;578;13
+ID;Wendell;ID;5569;13
+ID;Weippe;ID;5559;13
+ID;Boise;ID;580;13
+ID;Middleton;ID;3332;13
+ID;Idaho Falls;ID;2339;13
+ID;Coolin;ID;1169;13
+ID;Coeur d'Alene;ID;1072;13
+ID;Meridian;ID;3256;13
+ID;Idaho Falls;ID;2338;13
+ID;Coeur d'Alene;ID;1073;13
+ID;Pocatello;ID;4170;13
+ID;Rigby;ID;4407;13
+ID;Council;ID;1194;13
+ID;Pocatello;ID;4169;13
+ID;Gooding;ID;1928;13
+ID;Rexburg;ID;4382;13
+ID;Homedale;ID;2197;13
+ID;Caldwell;ID;739;13
+ID;Nampa;ID;3522;13
+ID;Blackfoot;ID;550;13
+ID;Hammett;ID;2047;13
+ID;Idaho Falls;ID;2337;13
+ID;Kuna;ID;2624;13
+ID;Meridian;ID;3254;13
+ID;Meridian;ID;3253;13
+ID;Nampa;ID;3523;13
+IL;Lansing;IL;2733;14
+IL;Metropolis;IL;3287;14
+IL;Metropolis;IL;3288;14
+IL;Maeystown;IL;3137;14
+IL;Nokomis;IL;3640;14
+IL;Lakemoor;IL;2691;14
+IL;North Aurora;IL;3654;14
+IL;Lyons;IL;3117;14
+IL;North Riverside;IL;3684;14
+IL;Joilet;IL;2480;14
+IL;Joilet;IL;2481;14
+IL;Marion;IL;3183;14
+IL;Markham;IL;3185;14
+IL;Hurst;IL;2329;14
+IL;Macoupin County;IL;3124;14
+IL;Mackinaw;IL;3121;14
+IL;Jerseyville;IL;2469;14
+IL;Joliet;IL;2482;14
+IL;Lisle;IL;2893;14
+IL;Lawndale;IL;2814;14
+IL;Des Plaines;IL;1373;14
+IL;Chicago;IL;911;14
+IL;Chicago;IL;910;14
+IL;Chicago;IL;913;14
+IL;Harvey;IL;2081;14
+IL;Chicago;IL;912;14
+IL;Antioch;IL;165;14
+IL;East St. Louis;IL;1455;14
+IL;Bridgeview;IL;641;14
+IL;Elgin;IL;1512;14
+IL;Gurnee;IL;2028;14
+IL;Dolton;IL;1399;14
+IL;Stockton;IL;5084;14
+IL;Chicago;IL;920;14
+IL;Chicago;IL;919;14
+IL;Chicago;IL;918;14
+IL;Chicago;IL;923;14
+IL;Chicago;IL;922;14
+IL;Chicago;IL;921;14
+IL;Chicago;IL;917;14
+IL;Alton;IL;110;14
+IL;Chicago;IL;915;14
+IL;Chicago;IL;914;14
+IL;Chicago;IL;916;14
+IL;Deerfield;IL;1297;14
+IL;Alton;IL;109;14
+IL;Bloomingdale;IL;558;14
+IL;Belleville;IL;480;14
+IL;Robbins;IL;4435;14
+IL;Beach Park;IL;452;14
+IL;Rock Island;IL;4440;14
+IL;Rock Falls;IL;4439;14
+IL;Aurora;IL;285;14
+IL;Aurora;IL;296;14
+IL;Richton Park;IL;4404;14
+IL;Forest Park;IL;1699;14
+IL;Rantoul;IL;4325;14
+IL;River Forest;IL;4415;14
+IL;Villa Park;IL;5438;14
+IL;Quincy;IL;4297;14
+IL;Geneseo;IL;1875;14
+IL;Waukegan;IL;5535;14
+IL;Arcola;IL;183;14
+IL;Round Lake;IL;4479;14
+IL;Zion;IL;5750;14
+IL;Waukegan;IL;5536;14
+IL;Rockford;IL;4444;14
+IL;Rockford;IL;4442;14
+IL;Rock Island;IL;4441;14
+IL;Belleville;IL;482;14
+IL;Washington Park;IL;5513;14
+IL;Benton;IL;497;14
+IL;Rockford;IL;4443;14
+IL;Clinton;IL;1045;14
+IL;Chicago;IL;940;14
+IL;Chicago;IL;939;14
+IL;Shawnee National Forest;IL;4807;14
+IL;Chicago;IL;942;14
+IL;Chicago;IL;941;14
+IL;Peoria;IL;3992;14
+IL;Chicago;IL;936;14
+IL;Chicago;IL;935;14
+IL;Chicago;IL;938;14
+IL;Chicago;IL;937;14
+IL;Peoria;IL;3990;14
+IL;Chicago Heights;IL;951;14
+IL;Chicago;IL;950;14
+IL;Chicago;IL;949;14
+IL;Zion;IL;5749;14
+IL;South Elgin;IL;4890;14
+IL;Springfield;IL;4971;14
+IL;Chicago;IL;945;14
+IL;Chicago;IL;944;14
+IL;Chicago;IL;943;14
+IL;Chicago;IL;948;14
+IL;Chicago;IL;947;14
+IL;Chicago;IL;946;14
+IL;Chicago;IL;928;14
+IL;Chicago;IL;927;14
+IL;Chicago;IL;929;14
+IL;Chicago;IL;931;14
+IL;Chicago;IL;930;14
+IL;Chicago;IL;926;14
+IL;Chicago;IL;924;14
+IL;Peoria;IL;3993;14
+IL;Chicago;IL;925;14
+IL;Dalton;IL;1252;14
+IL;Danville;IL;1260;14
+IL;Chicago;IL;933;14
+IL;Chicago;IL;934;14
+IL;Chicago;IL;932;14
+IN;Springville;IN;4983;15
+IN;Crawfordsville;IN;1205;15
+IN;Muncie;IN;3501;15
+IN;Muncie;IN;3500;15
+IN;Muncie;IN;3502;15
+IN;Monon;IN;3418;15
+IN;Evansville;IN;1592;15
+IN;Evansville;IN;1593;15
+IN;Evansville;IN;1590;15
+IN;Evansville;IN;1591;15
+IN;Columbua;IN;1112;15
+IN;Dearborn County;IN;1289;15
+IN;Huntington;IN;2309;15
+IN;Shelbyville;IN;4818;15
+IN;Monroe County;IN;3426;15
+IN;Fort Wayne;IN;1743;15
+IN;Fishers;IN;1660;15
+IN;South Bend;IN;4885;15
+IN;Fort Wayne;IN;1744;15
+IN;Terre Haute;IN;5225;15
+IN;Fort Wayne;IN;1746;15
+IN;Fort Wayne;IN;1745;15
+IN;Beech Grove;IN;471;15
+IN;Lafayette;IN;2649;15
+IN;Lafayette;IN;2650;15
+IN;South Haven;IN;4896;15
+IN;South Bend;IN;4886;15
+IN;South Bend;IN;4887;15
+IN;Clarksville;IN;1015;15
+IN;Shelbyville;IN;4817;15
+IN;Memphis;IN;3235;15
+IN;Brookville;IN;673;15
+IN;Brownstown;IN;676;15
+IN;Salem;IN;4523;15
+IN;Kennard;IN;2558;15
+IN;Lawrenceburg;IN;2819;15
+IN;Knox;IN;2610;15
+IN;Merrillville;IN;3259;15
+IN;New Castle;IN;3558;15
+IN;New Castle;IN;3555;15
+IN;New Albany;IN;3551;15
+IN;Carmel;IN;777;15
+IN;Sullivan;IN;5110;15
+IN;Dyer;IN;1431;15
+IN;Crown Point;IN;1214;15
+IN;Elkhart;IN;1523;15
+IN;Evansville;IN;1588;15
+IN;Kokomo;IN;2621;15
+IN;North Manchester;IN;3676;15
+IN;Kokomo;IN;2622;15
+IN;Evansville;IN;1589;15
+IN;Muncie;IN;3503;15
+IN;Muncie;IN;3504;15
+IN;English;IN;1556;15
+IN;Terre Haute;IN;5226;15
+IN;Boonville;IN;589;15
+IN;Elkhart;IN;1524;15
+IN;Terre Haute;IN;5227;15
+IN;Lawrence;IN;2817;15
+IN;Seymour;IN;4800;15
+IN;Terre Haute;IN;5228;15
+IN;Indianapolis;IN;2364;15
+IN;Indianapolis;IN;2363;15
+IN;Indianapolis;IN;2362;15
+IN;Indianapolis;IN;2365;15
+IN;Gary;IN;1862;15
+IN;Indianapolis;IN;2367;15
+IN;Indianapolis;IN;2366;15
+IN;Indianapolis;IN;2359;15
+IN;Indianapolis;IN;2358;15
+IN;Indianapolis;IN;2357;15
+IN;Indianapolis;IN;2360;15
+IN;Walton;IN;5483;15
+IN;French Lick;IN;1797;15
+IN;Indianapolis;IN;2361;15
+IN;Indianapolis;IN;2368;15
+IN;Portland;IN;4215;15
+IN;Harmony;IN;2067;15
+IN;Harrison County;IN;2074;15
+IN;Hanover;IN;2056;15
+IN;Portage;IN;4205;15
+IN;Goshen;IN;1934;15
+IN;Greenwood;IN;2009;15
+IN;Gary;IN;1865;15
+IN;Gary;IN;1864;15
+IN;Gary;IN;1863;15
+IN;Gary;IN;1866;15
+IN;West Terre Haute;IN;5604;15
+IN;Henry County;IN;2132;15
+IN;Gary;IN;1867;15
+IN;Vincennes;IN;5439;15
+IN;Oakland City;IN;3720;15
+IN;Indianapolis;IN;2350;15
+IN;Indianapolis;IN;2351;15
+IN;Randolph County;IN;4323;15
+IN;Jeffersonville;IN;2464;15
+IN;Owen County;IN;3874;15
+IN;Avon;IN;334;15
+IN;Indianapolis;IN;2355;15
+IN;Indianapolis;IN;2356;15
+IN;Indianapolis;IN;2354;15
+IN;Indianapolis;IN;2353;15
+IN;Indianapolis;IN;2352;15
+KS;Chetopa;KS;907;16
+KS;Hutchinson;KS;2332;16
+KS;Overland Park;KS;3869;16
+KS;Overland Park;KS;3871;16
+KS;Overland Park;KS;3870;16
+KS;Lehigh;KS;2846;16
+KS;Lawrence;KS;2816;16
+KS;Medicine Lodge;KS;3227;16
+KS;Salina;KS;4529;16
+KS;Newton;KS;3627;16
+KS;Newton;KS;3625;16
+KS;Manhattan;KS;3157;16
+KS;Leavenworth;KS;2838;16
+KS;Salina;KS;4530;16
+KS;Kansas City;KS;2515;16
+KS;Wichita;KS;5652;16
+KS;Wichita;KS;5651;16
+KS;Wichita;KS;5646;16
+KS;Wichita;KS;5653;16
+KS;Wichita;KS;5648;16
+KS;Wichita;KS;5647;16
+KS;Wichita;KS;5650;16
+KS;Wichita;KS;5649;16
+KS;Colby;KS;1077;16
+KS;Hutchinson;KS;2333;16
+KS;Hays;KS;2095;16
+KS;Hays;KS;2096;16
+KS;Wichita;KS;5655;16
+KS;Wichita;KS;5654;16
+KS;Hesston;KS;2146;16
+KS;Wichita;KS;5656;16
+KS;Kansas City;KS;2514;16
+KS;Kansas City;KS;2513;16
+KS;Finney County;KS;1659;16
+KS;Assaria;KS;228;16
+KS;Topeka;KS;5269;16
+KS;Pratt;KS;4248;16
+KS;Topeka;KS;5270;16
+KS;Topeka;KS;5273;16
+KS;Olathe;KS;3785;16
+KS;Topeka;KS;5272;16
+KS;Kansas City;KS;2535;16
+KS;Wamego;KS;5485;16
+KS;Topeka;KS;5271;16
+KS;Junction City;KS;2495;16
+KS;Gardner;KS;1853;16
+KS;Kansas City;KS;2531;16
+KS;Kansas City;KS;2533;16
+KS;McPherson;KS;3216;16
+KS;Rosalia;KS;4458;16
+KS;Udall;KS;5375;16
+KS;Olathe;KS;3784;16
+KY;Princeton;KY;4258;17
+KY;Louisville;KY;3082;17
+KY;Gunlock;KY;2026;17
+KY;Chavies;KY;892;17
+KY;Cumberland County;KY;1221;17
+KY;Berea;KY;502;17
+KY;Louisville;KY;3081;17
+KY;Muhlenberg County;KY;3497;17
+KY;Fulton;KY;1833;17
+KY;Ludlow;KY;3101;17
+KY;McCracken County;KY;3207;17
+KY;Phelps;KY;4006;17
+KY;Wayne County;KY;5548;17
+KY;Trosper;KY;5291;17
+KY;Martin County;KY;3188;17
+KY;White Plains;KY;5636;17
+KY;Trigg County;KY;5286;17
+KY;Hebron;KY;2105;17
+KY;Warren County;KY;5490;17
+KY;Georgetown;KY;1880;17
+KY;Daviess County;KY;1269;17
+KY;Hiseville;KY;2174;17
+KY;Owensboro;KY;3876;17
+KY;Owingsville;KY;3878;17
+KY;Christian County;KY;971;17
+KY;Owensboro;KY;3875;17
+KY;Williamsburg;KY;5665;17
+KY;Shepherdsville;KY;4822;17
+KY;Barbourville;KY;406;17
+KY;Wilmore;KY;5679;17
+KY;Montgomery Creek;KY;3444;17
+KY;Bardstown;KY;408;17
+KY;Simpsonsville;KY;4853;17
+KY;Utica;KY;5390;17
+KY;Wolfe County;KY;5704;17
+KY;Morehead;KY;3458;17
+KY;Lancaster;KY;2724;17
+KY;Barbourville;KY;407;17
+KY;Richmond;KY;4395;17
+KY;Crestwood;KY;1210;17
+KY;Scottsville;KY;4763;17
+KY;Scott County;KY;4754;17
+KY;Louisville;KY;3073;17
+KY;Bell County;KY;476;17
+KY;Baxter;KY;444;17
+KY;Oil Springs;KY;3747;17
+KY;Paris;KY;3926;17
+KY;Shelby Gap;KY;4812;17
+KY;Paducah;KY;3889;17
+KY;Shelbyville;KY;4815;17
+KY;Sharpsburg;KY;4806;17
+KY;Fisty;KY;1661;17
+KY;Flatwoods;KY;1672;17
+KY;Flatwoods;KY;1671;17
+KY;Louisville;KY;3068;17
+KY;Louisville;KY;3067;17
+KY;Bremen;KY;633;17
+KY;Bowling Green;KY;612;17
+KY;Louisville;KY;3066;17
+KY;Elizabethtown;KY;1517;17
+KY;London;KY;2932;17
+KY;London;KY;2933;17
+KY;Louisville;KY;3069;17
+KY;Edmonton;KY;1480;17
+KY;Burkesville;KY;709;17
+KY;Louisville;KY;3072;17
+KY;Louisville;KY;3071;17
+KY;Gray;KY;1962;17
+KY;Brodhead;KY;650;17
+KY;Burkesville;KY;708;17
+KY;Jackson County;KY;2413;17
+KY;Georgetown;KY;1882;17
+KY;Louisville;KY;3060;17
+KY;Bonnyman;KY;585;17
+KY;Louisville;KY;3061;17
+KY;Elsmere;KY;1542;17
+KY;Louisville;KY;3059;17
+KY;Elkton;KY;1535;17
+KY;Russellville;KY;4499;17
+KY;Booneville;KY;588;17
+KY;Elizabethtown;KY;1519;17
+KY;Louisville;KY;3065;17
+KY;Georgetown;KY;1881;17
+KY;Elizabethtown;KY;1518;17
+KY;Nicholasville;KY;3631;17
+KY;Louisville;KY;3062;17
+KY;Louisville;KY;3064;17
+KY;Louisville;KY;3063;17
+KY;Knox County;KY;2611;17
+KY;Pine Top;KY;4132;17
+KY;Leitchfield;KY;2848;17
+KY;Lawrenceburg;KY;2821;17
+KY;Pippa Passes;KY;4142;17
+KY;Louisville;KY;3077;17
+KY;Louisville;KY;3078;17
+KY;Louisville;KY;3079;17
+KY;Dexter;KY;1390;17
+KY;Leitchfield;KY;2849;17
+KY;Louisville;KY;3076;17
+KY;Carter County;KY;796;17
+KY;Louisville;KY;3075;17
+KY;East Bernstadt;KY;1444;17
+KY;Louisville;KY;3080;17
+KY;Louisville;KY;3074;17
+LA;Winn Parish;LA;5690;18
+LA;Winn Parish;LA;5689;18
+LA;Monroe;LA;3420;18
+LA;Caddo Parish;LA;735;18
+LA;West Ouachita;LA;5600;18
+LA;Terrytown;LA;5230;18
+LA;West Monroe;LA;5596;18
+LA;Metairie;LA;3286;18
+LA;Baton Rouge;LA;431;18
+LA;Winnsboro;LA;5692;18
+LA;Terrytown;LA;5231;18
+LA;Mamou;LA;3144;18
+LA;Bogalusa;LA;571;18
+LA;St. Helena Parish;LA;4999;18
+LA;Treme;LA;5280;18
+LA;Amite;LA;125;18
+LA;Clinton;LA;1042;18
+LA;Bastrop;LA;427;18
+LA;Mandeville;LA;3155;18
+LA;Baton Rouge;LA;430;18
+LA;Baton Rouge;LA;439;18
+LA;Alexandria;LA;94;18
+LA;Breaux Bridge;LA;632;18
+LA;Baton Rouge;LA;438;18
+LA;Bossier City;LA;593;18
+LA;Bossier City;LA;594;18
+LA;Baton Rouge;LA;437;18
+LA;Whitehall;LA;5638;18
+LA;Lincoln Parish;LA;2887;18
+LA;Cade;LA;736;18
+LA;Livingston Parish;LA;2912;18
+LA;Baton Rouge;LA;440;18
+LA;Baton Rouge;LA;441;18
+LA;St. Tammany Parish;LA;5053;18
+LA;Baton Rouge;LA;433;18
+LA;Metairie;LA;3284;18
+LA;Bossier City;LA;591;18
+LA;Bernice;LA;506;18
+LA;Baton Rouge;LA;432;18
+LA;Metairie;LA;3285;18
+LA;Marksville;LA;3186;18
+LA;Baton Rouge;LA;434;18
+LA;Baton Rouge;LA;435;18
+LA;Baton Rouge;LA;436;18
+LA;Bossier City;LA;592;18
+LA;Alexandria;LA;95;18
+LA;Chalmette;LA;842;18
+LA;Avondale;LA;337;18
+LA;Haughton;LA;2088;18
+LA;Harvey;LA;2083;18
+LA;Harvey;LA;2082;18
+LA;Iota;LA;2383;18
+LA;Denham Springs;LA;1322;18
+LA;Denham Springs;LA;1323;18
+LA;Pineville;LA;4138;18
+LA;Plaquemine;LA;4160;18
+LA;Port Allen;LA;4189;18
+LA;Hammond;LA;2048;18
+LA;Gretna;LA;2014;18
+LA;Pineville;LA;4137;18
+LA;Crowley;LA;1213;18
+LA;Ethel;LA;1567;18
+LA;Lake Charles;LA;2658;18
+LA;Converse;LA;1166;18
+LA;Coushatta;LA;1196;18
+LA;Covington;LA;1198;18
+LA;Lafayette;LA;2647;18
+LA;DeRidder;LA;1283;18
+LA;Lacombe;LA;2643;18
+LA;Lake Charles;LA;2657;18
+LA;Lake Charles;LA;2656;18
+LA;Lafayette;LA;2648;18
+LA;Port Barre;LA;4192;18
+LA;New Orleans;LA;3567;18
+LA;New Orleans;LA;3568;18
+LA;New Orleans;LA;3569;18
+LA;Kenner;LA;2559;18
+LA;New Iberia;LA;3562;18
+LA;New Llano;LA;3564;18
+LA;New Orleans;LA;3573;18
+LA;New Orleans;LA;3574;18
+LA;New Orleans;LA;3575;18
+LA;New Orleans;LA;3570;18
+LA;New Orleans;LA;3571;18
+LA;New Orleans;LA;3572;18
+LA;Keithville;LA;2551;18
+LA;Franklin;LA;1776;18
+LA;Raceland;LA;4299;18
+LA;Goodbee;LA;1927;18
+LA;Gibson;LA;1886;18
+LA;Pride;LA;4255;18
+LA;East Baton Rouge;LA;1442;18
+LA;East Baton Rouge;LA;1443;18
+LA;New Iberia;LA;3561;18
+LA;Ragley;LA;4302;18
+LA;Jefferson Parish;LA;2463;18
+LA;East Baton Rouge;LA;1441;18
+LA;Houma;LA;2235;18
+LA;Evangeline Parish;LA;1585;18
+LA;Shreveport;LA;4841;18
+LA;Shreveport;LA;4838;18
+LA;Shreveport;LA;4840;18
+LA;Shreveport;LA;4837;18
+LA;Shreveport;LA;4835;18
+LA;Shreveport;LA;4834;18
+LA;Shreveport;LA;4833;18
+LA;Shreveport;LA;4832;18
+LA;Shreveport;LA;4836;18
+LA;Lakes Charles;LA;2692;18
+LA;Homer;LA;2198;18
+LA;Houma;LA;2233;18
+LA;Ouachita Parish;LA;3867;18
+LA;Shreveport;LA;4839;18
+LA;Houma;LA;2234;18
+LA;Slidell;LA;4861;18
+LA;Ouachita Parish;LA;3868;18
+MA;Spencer;MA;4933;19
+MA;Auburn;MA;272;19
+MA;Oxford;MA;3881;19
+MA;Lowell;MA;3090;19
+MA;Tewksbury;MA;5232;19
+MA;Taunton;MA;5199;19
+MA;Everett;MA;1595;19
+MA;Reading;MA;4335;19
+MA;Newbury;MA;3616;19
+MA;Webster;MA;5555;19
+MA;Revere;MA;4381;19
+MA;Pittsfield;MA;4151;19
+MA;Brockton;MA;649;19
+MA;Brockton;MA;648;19
+MA;Beverly;MA;510;19
+MA;Brookline;MA;658;19
+MA;Boston;MA;599;19
+MA;Boston;MA;598;19
+MA;Weymouth;MA;5631;19
+MA;Lynn;MA;3114;19
+MA;Boston;MA;602;19
+MA;Boston;MA;601;19
+MA;Boston;MA;600;19
+MA;Boston;MA;596;19
+MA;Lynn;MA;3112;19
+MA;Boston;MA;595;19
+MA;Lynn;MA;3113;19
+MA;Fall River;MA;1628;19
+MA;Boston;MA;597;19
+MA;Lynn;MA;3110;19
+MA;Roslindale;MA;4468;19
+MA;Milford;MA;3347;19
+MA;West Springfield;MA;5603;19
+MA;Westborough;MA;5608;19
+MA;Braintree;MA;625;19
+MA;Lynn;MA;3111;19
+MA;Winchester;MA;5684;19
+MD;Baltimore;MD;393;20
+MD;Baltimore;MD;400;20
+MD;Randallstown;MD;4321;20
+MD;Baltimore;MD;399;20
+MD;Randallstown;MD;4322;20
+MD;Baltimore;MD;387;20
+MD;Baltimore;MD;388;20
+MD;Abingdon;MD;8;20
+MD;Baltimore;MD;389;20
+MD;Baltimore;MD;396;20
+MD;Baltimore;MD;392;20
+MD;Baltimore;MD;394;20
+MD;Baltimore;MD;395;20
+MD;Baltimore;MD;397;20
+MD;Lexington Park;MD;2874;20
+MD;Baltimore;MD;390;20
+MD;Baltimore;MD;391;20
+MD;Baltimore;MD;398;20
+MD;Rising Sun;MD;4412;20
+MD;Temple Hills;MD;5222;20
+MD;Salisbury;MD;4534;20
+MD;Little Orleans;MD;2898;20
+MD;Salisbury;MD;4535;20
+MD;Temple Hills;MD;5221;20
+MD;Rising Sun;MD;4413;20
+MD;Silver Spring;MD;4846;20
+MD;Silver Spring;MD;4848;20
+MD;Silver Spring;MD;4849;20
+MD;Montgomery Village;MD;3445;20
+MD;Reisterstown;MD;4364;20
+MD;Elkridge;MD;1531;20
+MD;Fort Washington;MD;1742;20
+MD;Landover;MD;2728;20
+MD;Landover;MD;2729;20
+MD;Capitol Heights;MD;773;20
+MD;Landover;MD;2727;20
+MD;Elkridge;MD;1530;20
+MD;Clinton;MD;1051;20
+MD;Linthicum;MD;2891;20
+MD;Fort Meade;MD;1724;20
+MD;Silver Spring;MD;4847;20
+MD;Dundalk;MD;1418;20
+MD;Phoenix;MD;4044;20
+MD;Potomac;MD;4235;20
+MD;Glen Burnie;MD;1900;20
+MD;La Plata;MD;2631;20
+MD;Woodlawn;MD;5712;20
+MD;North East;MD;3661;20
+MD;Hyattsville;MD;2335;20
+MD;Bel Air;MD;472;20
+MD;Middle River;MD;3330;20
+MD;Westminster;MD;5615;20
+MD;Overlea;MD;3872;20
+MD;Owings Mills;MD;3877;20
+MD;Thurmont;MD;5249;20
+MD;Greenbelt;MD;1982;20
+MD;Pikesville;MD;4123;20
+MD;Columbia;MD;1105;20
+MD;Oxon Hill;MD;3883;20
+MD;Havre de Grace;MD;2089;20
+MD;Chestertown;MD;906;20
+MD;Emmitsburg;MD;1547;20
+MD;Elkton;MD;1534;20
+MD;Rockville;MD;4447;20
+MD;Elkton;MD;1532;20
+MD;Sparks;MD;4919;20
+MD;Mt Airy;MD;3490;20
+MD;Rosedale;MD;4463;20
+MD;Baltimore;MD;385;20
+MD;Baltimore;MD;386;20
+MD;Baltimore;MD;384;20
+MD;Baltimore;MD;382;20
+MD;Baltimore;MD;383;20
+MD;District Heights;MD;1398;20
+MD;Elkton;MD;1533;20
+MD;Essex;MD;1564;20
+MD;Davidsonville;MD;1267;20
+MD;Parkville;MD;3935;20
+MD;Frederick;MD;1787;20
+MD;Parkville;MD;3936;20
+MD;Essex;MD;1565;20
+ME;Madison;ME;3132;21
+ME;Minot;ME;3383;21
+ME;Hiram;ME;2173;21
+ME;Smyrna;ME;4868;21
+ME;Presque Isle;ME;4251;21
+ME;Presque Isle;ME;4252;21
+ME;Waldoboro;ME;5473;21
+ME;Belgrade;ME;474;21
+ME;Arundel;ME;208;21
+ME;Wales;ME;5474;21
+ME;Bangor;ME;402;21
+ME;Old Town;ME;3790;21
+ME;Limerick;ME;2879;21
+ME;Vassalboro;ME;5425;21
+ME;Old Town;ME;3791;21
+ME;Vassalboro;ME;5424;21
+ME;Portland;ME;4216;21
+ME;Orrington;ME;3864;21
+ME;Auburn;ME;271;21
+ME;Gorham;ME;1933;21
+ME;Naples;ME;3532;21
+ME;Oakfield;ME;3709;21
+MI;Benton Township;MI;500;22
+MI;Benton Harbor;MI;499;22
+MI;Belleville;MI;481;22
+MI;Kalamazoo;MI;2504;22
+MI;Troy;MI;5294;22
+MI;Beaverton;MI;467;22
+MI;Bay City;MI;446;22
+MI;Kalamazoo;MI;2503;22
+MI;Algoma Township;MI;96;22
+MI;Marion;MI;3182;22
+MI;Inkster;MI;2379;22
+MI;Marine City;MI;3180;22
+MI;Jackson;MI;2407;22
+MI;Jackson;MI;2411;22
+MI;West Olive;MI;5599;22
+MI;Ishpeming Township;MI;2395;22
+MI;Wyoming;MI;5716;22
+MI;Manistee;MI;3160;22
+MI;Southfield;MI;4910;22
+MI;Wyoming;MI;5717;22
+MI;Holland Township;MI;2187;22
+MI;Hessel;MI;2145;22
+MI;Pavilion Township;MI;3962;22
+MI;Pennfield Township;MI;3985;22
+MI;Plymouth Township;MI;4167;22
+MI;Redford Township;MI;4354;22
+MI;Flint;MI;1676;22
+MI;Bagley Township;MI;350;22
+MI;Union Township;MI;5383;22
+MI;Battle Creek;MI;442;22
+MI;Battle Creek;MI;443;22
+MI;Flint;MI;1675;22
+MI;Oak Park;MI;3704;22
+MI;Genesee Township;MI;1873;22
+MI;Waterford Township;MI;5529;22
+MI;Grand Rapids;MI;1952;22
+MI;Portage;MI;4206;22
+MI;Gaines Township;MI;1836;22
+MI;Walloon Lake;MI;5476;22
+MI;Waterford Township;MI;5528;22
+MI;Warren;MI;5487;22
+MI;Detroit;MI;1384;22
+MI;Eaton Rapids Township;MI;1461;22
+MI;Eaton County;MI;1460;22
+MI;Columbia Township;MI;1111;22
+MI;Lincoln Township;MI;2888;22
+MI;Eckford Township;MI;1469;22
+MI;Detroit;MI;1381;22
+MI;Shelby Township;MI;4814;22
+MI;Detroit;MI;1382;22
+MI;Detroit;MI;1383;22
+MI;Lansing;MI;2732;22
+MI;Dearborn Heights;MI;1290;22
+MI;St. Joseph County;MI;5005;22
+MI;Midland;MI;3335;22
+MI;Detroit;MI;1388;22
+MI;Detroit;MI;1387;22
+MI;Sebewaing;MI;4782;22
+MI;St. Joseph;MI;5003;22
+MI;Detroit;MI;1386;22
+MI;Dearborn;MI;1288;22
+MI;Dearborn;MI;1287;22
+MI;Cato Township;MI;815;22
+MI;Dearborn;MI;1286;22
+MI;Lansing;MI;2731;22
+MI;Delta Township;MI;1311;22
+MI;Detroit;MI;1377;22
+MI;Dearborn Heights;MI;1291;22
+MI;Bloomfield Township;MI;556;22
+MI;Blackman Township;MI;551;22
+MI;Detroit;MI;1378;22
+MI;Romulus;MI;4455;22
+MI;Detroit;MI;1385;22
+MI;Detroit;MI;1380;22
+MI;Trenton;MI;5285;22
+MI;Detroit;MI;1379;22
+MI;Roxand Township;MI;4483;22
+MI;Saginaw;MI;4520;22
+MI;Saginaw;MI;4518;22
+MI;Kentwood;MI;2571;22
+MI;Brighton Township;MI;643;22
+MI;Shelby Township;MI;4813;22
+MI;Kentwood;MI;2572;22
+MI;Royal Oak;MI;4488;22
+MI;St. Clair Shores;MI;4991;22
+MI;Royal Oak;MI;4489;22
+MN;Lake Elmo;MN;2660;23
+MN;Minneapolis;MN;3382;23
+MN;Minneapolis;MN;3380;23
+MN;Minneapolis;MN;3381;23
+MN;Crystal;MN;1216;23
+MN;Vineland;MN;5443;23
+MN;Virginia;MN;5445;23
+MN;Shakopee;MN;4802;23
+MN;Fridley;MN;1819;23
+MN;Coon Rapids;MN;1170;23
+MN;Hastings;MN;2084;23
+MN;St. James;MN;5000;23
+MN;Gilbert;MN;1892;23
+MN;Chaska;MN;882;23
+MN;St. Cloud;MN;4993;23
+MN;Pine County;MN;4130;23
+MN;Plymouth;MN;4165;23
+MN;St. Cloud;MN;4996;23
+MN;Minneapolis;MN;3378;23
+MN;Alexandria;MN;92;23
+MN;Minneapolis;MN;3379;23
+MN;Peterson;MN;4002;23
+MN;Minneapolis;MN;3376;23
+MN;Miltona;MN;3359;23
+MN;Minneapolis;MN;3377;23
+MN;Hermantown;MN;2138;23
+MN;Eagan;MN;1434;23
+MN;St. Paul;MN;5047;23
+MN;St. Paul;MN;5046;23
+MN;New Hope;MN;3560;23
+MN;Aitkin;MN;31;23
+MN;Stillwater;MN;5070;23
+MN;St. Paul;MN;5042;23
+MN;St. Paul;MN;5041;23
+MN;St. Paul;MN;5040;23
+MN;St. Paul;MN;5045;23
+MN;St. Paul;MN;5044;23
+MN;St. Paul;MN;5043;23
+MN;North Branch;MN;3656;23
+MN;Bemidji;MN;491;23
+MN;Bloomington;MN;559;23
+MN;Cohasset;MN;1075;23
+MN;Mora;MN;3456;23
+MN;Roseville;MN;4466;23
+MN;Richfield;MN;4388;23
+MN;Burnsville;MN;718;23
+MN;Burnsville;MN;719;23
+MN;Fairmont;MN;1623;23
+MN;Falcon Heights;MN;1627;23
+MN;Brooklyn Center;MN;666;23
+MN;Morris;MN;3468;23
+MN;Columbia Heights;MN;1110;23
+MN;Chanhassen;MN;852;23
+MN;Lakeville;MN;2695;23
+MN;Vadnais Heights;MN;5393;23
+MN;Hutchinson;MN;2334;23
+MN;Austin;MN;322;23
+MN;Albert Lea;MN;48;23
+MN;Backus;MN;348;23
+MN;Mankato;MN;3163;23
+MN;St. Paul;MN;5039;23
+MN;Eagan;MN;1433;23
+MN;St. Louis Park;MN;5037;23
+MN;Mankato;MN;3162;23
+MO;Springfield;MO;4975;24
+MO;Mountain Grove;MO;3485;24
+MO;Springfield;MO;4968;24
+MO;Sedalia;MO;4786;24
+MO;Maysville;MO;3203;24
+MO;Ozark;MO;3886;24
+MO;Sedalia;MO;4788;24
+MO;Springfield;MO;4979;24
+MO;Springfield;MO;4977;24
+MO;Springfield;MO;4973;24
+MO;Springfield;MO;4970;24
+MO;Springfield;MO;4965;24
+MO;Pettis County;MO;4004;24
+MO;Wheeling;MO;5632;24
+MO;Springfield;MO;4963;24
+MO;Monett;MO;3417;24
+MO;Springfield;MO;4980;24
+MO;St. Louis;MO;5031;24
+MO;St. Louis;MO;5030;24
+MO;St. Louis;MO;5029;24
+MO;St. Louis;MO;5034;24
+MO;St. Louis;MO;5033;24
+MO;St. Louis;MO;5032;24
+MO;St. Louis;MO;5028;24
+MO;Odessa;MO;3737;24
+MO;St. Louis;MO;5024;24
+MO;Old Mines;MO;3788;24
+MO;St. Louis;MO;5027;24
+MO;St. Louis;MO;5026;24
+MO;St. Louis;MO;5025;24
+MO;Neosho;MO;3548;24
+MO;Republic;MO;4379;24
+MO;Sullivan;MO;5111;24
+MO;Sugar Creek;MO;5107;24
+MO;McDowell;MO;3208;24
+MO;North St. Louis;MO;3687;24
+MO;O'Fallon;MO;3698;24
+MO;Sugar Creek;MO;5106;24
+MO;St. Louis;MO;5036;24
+MO;St. Louis;MO;5035;24
+MO;Nevada;MO;3550;24
+MO;Sugar Creek;MO;5105;24
+MO;University City;MO;5386;24
+MO;Raytown;MO;4334;24
+MO;St. Louis;MO;5023;24
+MO;St. Louis;MO;5006;24
+MO;St. Joseph;MO;5004;24
+MO;St. Joseph;MO;5002;24
+MO;St. Louis;MO;5008;24
+MO;Webster Groves;MO;5557;24
+MO;St. Louis;MO;5007;24
+MO;Poplar Bluff;MO;4188;24
+MO;St Louis;MO;4986;24
+MO;St Louis;MO;4985;24
+MO;Springfield;MO;4981;24
+MO;St. Joseph;MO;5001;24
+MO;Maryland Heights;MO;3191;24
+MO;St. Charles County;MO;4990;24
+MO;St. Louis;MO;5009;24
+MO;St. Louis;MO;5019;24
+MO;St. Louis;MO;5018;24
+MO;St. Louis;MO;5017;24
+MO;St. Louis;MO;5022;24
+MO;St. Louis;MO;5021;24
+MO;St. Louis;MO;5020;24
+MO;St. Louis;MO;5016;24
+MO;St. Louis;MO;5012;24
+MO;St. Louis;MO;5011;24
+MO;St. Louis;MO;5010;24
+MO;St. Louis;MO;5015;24
+MO;St. Louis;MO;5014;24
+MO;St. Louis;MO;5013;24
+MO;Kansas City;MO;2522;24
+MO;Kansas City;MO;2521;24
+MO;Kansas City;MO;2520;24
+MO;Kansas City;MO;2525;24
+MO;Kansas City;MO;2524;24
+MO;Kansas City;MO;2523;24
+MO;Kansas City;MO;2519;24
+MO;Kansas City;MO;2512;24
+MO;Kansas City;MO;2511;24
+MO;Kansas City;MO;2510;24
+MO;Kansas City;MO;2518;24
+MO;Kansas City;MO;2517;24
+MO;Kansas City;MO;2516;24
+MO;Kansas City;MO;2526;24
+MO;Kansas City;MO;2538;24
+MO;Kansas City;MO;2537;24
+MO;Kansas City;MO;2536;24
+MO;Kansas City;MO;2541;24
+MO;Kansas City;MO;2540;24
+MO;Kansas City;MO;2539;24
+MO;Kansas City;MO;2534;24
+MO;Kansas City;MO;2528;24
+MO;Kansas City;MO;2527;24
+MO;Greene County;MO;1983;24
+MO;Kansas City;MO;2532;24
+MO;Kansas City;MO;2530;24
+MO;Kansas City;MO;2529;24
+MO;Cuba;MO;1218;24
+MO;Liberty;MO;2875;24
+MO;Clinton;MO;1049;24
+MO;Jackson;MO;2401;24
+MO;Columbia;MO;1107;24
+MO;Columbia;MO;1106;24
+MO;Liberty;MO;2876;24
+MO;Lee's Summit;MO;2841;24
+MO;Independence;MO;2345;24
+MO;Leadwood;MO;2830;24
+MO;Carthage;MO;799;24
+MO;Chesterfield;MO;904;24
+MO;Cape Girardeau;MO;772;24
+MO;Independence;MO;2347;24
+MO;Columbia;MO;1109;24
+MO;Kansas City;MO;2509;24
+MO;Kansas City;MO;2508;24
+MO;Joplin;MO;2490;24
+MO;Cotter;MO;1187;24
+MO;Harrisonville;MO;2078;24
+MO;Hayti;MO;2097;24
+MO;Joplin;MO;2489;24
+MO;Jefferson City;MO;2460;24
+MO;Buffalo;MO;695;24
+MO;Holt;MO;2195;24
+MO;Johnson County;MO;2477;24
+MO;Jennings;MO;2466;24
+MO;Jefferson City;MO;2461;24
+MO;Affton;MO;22;24
+MO;Aurora;MO;289;24
+MO;Florissant;MO;1689;24
+MO;Blue Springs;MO;562;24
+MO;Bismarck;MO;546;24
+MO;Belton;MO;488;24
+MO;Adrian;MO;21;24
+MO;Fulton;MO;1832;24
+MO;Big Bear;MO;517;24
+MO;Franklin County;MO;1780;24
+MO;Belton;MO;490;24
+MO;Lakeshire;MO;2694;24
+MO;Kansas City;MO;2542;24
+MO;Barton County;MO;422;24
+MO;Lebanon;MO;2839;24
+MO;Lampe;MO;2712;24
+MO;Grandview;MO;1954;24
+MO;Blue Summit;MO;564;24
+MO;Blue Springs;MO;563;24
+MO;Everton;MO;1597;24
+MS;Pearl River County;MS;3969;25
+MS;Pelehatchie;MS;3974;25
+MS;Moss Point;MS;3478;25
+MS;Jackson;MS;2412;25
+MS;Collinsville;MS;1081;25
+MS;Moss Point;MS;3477;25
+MS;Wesson;MS;5571;25
+MS;St. Martin;MS;5038;25
+MS;Columbus;MS;1126;25
+MS;Lauderdale County;MS;2811;25
+MS;Meridian;MS;3255;25
+MS;Petal;MS;4000;25
+MS;Columbus;MS;1113;25
+MS;Madison County;MS;3134;25
+MS;Hinds County;MS;2170;25
+MS;Southaven;MS;4908;25
+MS;Southaven;MS;4909;25
+MS;Clarksdale;MS;1011;25
+MS;Pascagoula;MS;3948;25
+MS;Jackson;MS;2402;25
+MS;Stone County;MS;5089;25
+MS;Tupelo;MS;5364;25
+MS;Iuka;MS;2398;25
+MS;Florence;MS;1681;25
+MS;Iuka;MS;2399;25
+MS;Horn Lake;MS;2227;25
+MS;Tupelo;MS;5363;25
+MS;Jackson;MS;2406;25
+MS;Pearl;MS;3968;25
+MS;Jackson;MS;2408;25
+MS;Clinton;MS;1046;25
+MS;Smithville;MS;4865;25
+MS;Barton;MS;421;25
+MS;Horn Lake;MS;2228;25
+MS;Jackson;MS;2404;25
+MS;Lumberton;MS;3104;25
+MS;Gulfport;MS;2021;25
+MS;Grenada;MS;2011;25
+MS;Greenville;MS;2000;25
+MS;Lucedale;MS;3099;25
+MS;Gulfport;MS;2025;25
+MS;Neshoba County;MS;3549;25
+MS;Gulfport;MS;2024;25
+MS;Gulfport;MS;2022;25
+MS;Gulfport;MS;2023;25
+MS;DeSoto County;MS;1285;25
+MS;Braxton;MS;629;25
+MS;Pontotoc County;MS;4186;25
+MS;Tate County;MS;5198;25
+MS;Columbus;MS;1147;25
+MS;Brookhaven;MS;656;25
+MS;Greenville;MS;1996;25
+MS;Greenville;MS;1997;25
+MS;Biloxi;MS;533;25
+MS;Biloxi;MS;534;25
+MS;Ruth;MS;4500;25
+MS;Gautier;MS;1872;25
+MS;Hattiesburg;MS;2086;25
+MS;Hattiesburg;MS;2085;25
+MS;Walls;MS;5477;25
+MS;Water Valley;MS;5526;25
+MS;Hattiesburg;MS;2087;25
+MS;Columbus;MS;1149;25
+MS;Water Valley;MS;5525;25
+MS;Oxford;MS;3880;25
+MS;Hancock County;MS;2054;25
+MS;Monroe County;MS;3425;25
+MS;Fayette;MS;1639;25
+MT;Three Forks;MT;5246;26
+MT;Bigfork;MT;521;26
+MT;Missoula;MT;3393;26
+MT;Bozeman;MT;617;26
+MT;Missoula;MT;3394;26
+MT;Missoula;MT;3392;26
+MT;Huntley;MT;2315;26
+MT;Billings;MT;522;26
+MT;Billings;MT;525;26
+MT;Billings;MT;529;26
+MT;Billings;MT;530;26
+MT;Billings;MT;528;26
+MT;Billings;MT;527;26
+MT;Billings;MT;526;26
+MT;Superior;MT;5128;26
+MT;Billings;MT;532;26
+MT;Billings;MT;523;26
+MT;Billings;MT;524;26
+MT;Billings;MT;531;26
+MT;Butte;MT;723;26
+MT;Flathead County;MT;1670;26
+MT;Lodge Grass;MT;2918;26
+MT;Great Falls;MT;1967;26
+MT;Great Falls;MT;1966;26
+MT;Malta;MT;3143;26
+MT;Livingston;MT;2910;26
+MT;Great Falls;MT;1965;26
+MT;Philipsburg;MT;4031;26
+MT;Great Falls;MT;1968;26
+MT;Helena;MT;2107;26
+MT;Lewistown;MT;2867;26
+MT;Dillon;MT;1394;26
+MT;Great Falls;MT;1969;26
+MT;Shelby;MT;4810;26
+NC;Kings Mountain;NC;2593;27
+NC;Polkton;NC;4175;27
+NC;Salemburg;NC;4528;27
+NC;Newton Grove;NC;3628;27
+NC;Pollocksville;NC;4176;27
+NC;Timberlake;NC;5252;27
+NC;Graham;NC;1936;27
+NC;Graham;NC;1937;27
+NC;Thomasville;NC;5240;27
+NC;Elizabethtown;NC;1516;27
+NC;East Flat Rock;NC;1446;27
+NC;Pleasant Hill;NC;4161;27
+NC;Efland;NC;1482;27
+NC;Durham;NC;1430;27
+NC;Durham;NC;1426;27
+NC;Durham;NC;1428;27
+NC;Durham;NC;1429;27
+NC;Granite Falls;NC;1955;27
+NC;Brevard;NC;636;27
+NC;Salisbury;NC;4533;27
+NC;Salisbury;NC;4536;27
+NC;Tarboro;NC;5195;27
+NC;Tarboro;NC;5196;27
+NC;Durham;NC;1425;27
+NC;Rutherfordton;NC;4501;27
+NC;Mount Holly;NC;3480;27
+NC;Mt. Airy;NC;3491;27
+NC;Fleetwood;NC;1673;27
+NC;Franklin;NC;1777;27
+NC;Fayetteville;NC;1650;27
+NC;Fayetteville;NC;1647;27
+NC;Mt. Airy;NC;3492;27
+NC;Franklin;NC;1779;27
+NC;Fletcher;NC;1674;27
+NC;Raleigh;NC;4307;27
+NC;Raleigh;NC;4306;27
+NC;Mooresville;NC;3454;27
+NC;Ramseur;NC;4310;27
+NC;Union Grove;NC;5381;27
+NC;Raleigh;NC;4304;27
+NC;Raleigh;NC;4305;27
+NC;Morganton;NC;3462;27
+NC;Fayetteville;NC;1646;27
+NC;Ronda;NC;4456;27
+NC;Ernul;NC;1561;27
+NC;Gastonia;NC;1871;27
+NC;Robbins;NC;4434;27
+NC;Kinston;NC;2599;27
+NC;Roxboro;NC;4485;27
+NC;Rowland;NC;4482;27
+NC;Roxboro;NC;4484;27
+NC;Gastonia;NC;1870;27
+NC;Richlands;NC;4390;27
+NC;Fayetteville;NC;1644;27
+NC;Fayetteville;NC;1645;27
+NC;Trinity;NC;5290;27
+NC;Gaston County;NC;1868;27
+NC;Gastonia;NC;1869;27
+NC;Fayetteville;NC;1641;27
+NC;Fayetteville;NC;1640;27
+NC;Charlotte;NC;879;27
+NC;Charlotte;NC;878;27
+NC;Iredell County;NC;2384;27
+NC;Canton;NC;764;27
+NC;Statesville;NC;5064;27
+NC;Huntersville;NC;2307;27
+NC;Charlotte;NC;877;27
+NC;Charlotte;NC;876;27
+NC;Sparta;NC;4926;27
+NC;Spring Lake;NC;4959;27
+NC;Caldwell County;NC;741;27
+NC;Parkton;NC;3934;27
+NC;Stoneville;NC;5093;27
+NC;Canton;NC;763;27
+NC;Spruce Pine;NC;4984;27
+NC;Calypso;NC;748;27
+NC;Huntersville;NC;2306;27
+NC;Charlotte;NC;868;27
+NC;Charlotte;NC;869;27
+NC;Charlotte;NC;866;27
+NC;Charlotte;NC;867;27
+NC;Charlotte;NC;871;27
+NC;Charlotte;NC;872;27
+NC;Charlotte;NC;870;27
+NC;Charlotte;NC;873;27
+NC;Charlotte;NC;875;27
+NC;Cary;NC;801;27
+NC;Hudson;NC;2300;27
+NC;Hubert;NC;2298;27
+NC;Charlotte;NC;864;27
+NC;Charlotte;NC;865;27
+NC;Charlotte;NC;874;27
+NC;Charlotte;NC;863;27
+NC;Davidson County;NC;1266;27
+NC;Dallas;NC;1238;27
+NC;Greenville;NC;2005;27
+NC;Greenville;NC;2006;27
+NC;Cumberland County;NC;1222;27
+NC;Henderson;NC;2125;27
+NC;Sanford;NC;4706;27
+NC;Sanford;NC;4707;27
+NC;Dublin;NC;1416;27
+NC;Greensboro;NC;1988;27
+NC;Durham;NC;1424;27
+NC;Pinnacle;NC;4141;27
+NC;Greenville;NC;2002;27
+NC;Greenville;NC;2004;27
+NC;Greensboro;NC;1989;27
+NC;Greenville;NC;1998;27
+NC;Henderson County;NC;2126;27
+NC;Shelby;NC;4811;27
+NC;Jamestown;NC;2455;27
+NC;Burlington;NC;710;27
+NC;Burnsville;NC;720;27
+NC;Peachland;NC;3965;27
+NC;Clinton;NC;1048;27
+NC;Jamestown;NC;2454;27
+NC;Cofield;NC;1074;27
+NC;Jonesville;NC;2488;27
+NC;Hickory;NC;2151;27
+NC;Hendersonville;NC;2129;27
+NC;Hickory;NC;2150;27
+NC;Raleigh;NC;4309;27
+NC;Shallotte;NC;4804;27
+NC;High Point;NC;2152;27
+NC;High Point;NC;2153;27
+NC;Lenoir;NC;2859;27
+NC;Wake County;NC;5470;27
+NC;Lenoir;NC;2857;27
+NC;Lenoir;NC;2858;27
+NC;Monroe;NC;3422;27
+NC;Lexington;NC;2870;27
+NC;Wake Forest;NC;5471;27
+NC;Wake Forest;NC;5472;27
+NC;Archdale;NC;182;27
+NC;Apex;NC;171;27
+NC;WInston Salem;NC;5460;27
+NC;Leland;NC;2850;27
+NC;Apex;NC;170;27
+NC;Archdale;NC;181;27
+NC;Lenoir;NC;2856;27
+NC;Wadesboro;NC;5465;27
+NC;Lumberton;NC;3105;27
+NC;Liberty;NC;2877;27
+NC;Wilkesboro;NC;5661;27
+NC;Ashe County;NC;216;27
+NC;Watauga County;NC;5524;27
+NC;Washington;NC;5507;27
+NC;Asheville;NC;218;27
+NC;Asheville;NC;219;27
+NC;Asheboro;NC;217;27
+NC;Mocksville;NC;3400;27
+NC;Wilmington;NC;5670;27
+NC;Lincoln County;NC;2886;27
+NC;Lincolnton;NC;2889;27
+NC;Winston-Salem;NC;5697;27
+NC;Winston-Salem;NC;5696;27
+NC;Wilmington;NC;5678;27
+NC;Wilmington;NC;5677;27
+NC;Linwood;NC;2892;27
+NC;Wilson;NC;5680;27
+NC;Maiden;NC;3141;27
+NC;Bailey;NC;351;27
+NC;Welcome;NC;5564;27
+NC;Anson County;NC;157;27
+NC;Aberdeen;NC;3;27
+NC;Maiden;NC;3140;27
+NC;Lawndale;NC;2815;27
+ND;Bismarck;ND;544;28
+ND;Dickinson;ND;1391;28
+ND;Devil's Lake;ND;1389;28
+ND;Bismarck;ND;545;28
+ND;Belcourt;ND;473;28
+ND;West Fargo;ND;5578;28
+ND;Wood Lake;ND;5707;28
+ND;Mandan;ND;3153;28
+ND;Grand Forks;ND;1941;28
+ND;Stutsman County;ND;5102;28
+ND;Standing Rock Reservation;ND;5056;28
+ND;Grand Forks;ND;1942;28
+NE;Grand Island;NE;1944;29
+NE;Grand Island;NE;1943;29
+NE;Sidney;NE;4842;29
+NE;South Sioux City;NE;4906;29
+NE;Lincoln;NE;2884;29
+NE;York;NE;5729;29
+NE;Big Springs;NE;519;29
+NE;Lincoln;NE;2882;29
+NE;Lincoln;NE;2881;29
+NE;Louisville;NE;3070;29
+NE;Rushville;NE;4496;29
+NE;Lincoln;NE;2883;29
+NE;Omaha;NE;3808;29
+NE;Omaha;NE;3801;29
+NE;Omaha;NE;3802;29
+NE;Blair;NE;554;29
+NE;Omaha;NE;3798;29
+NE;Omaha;NE;3800;29
+NE;Omaha;NE;3804;29
+NE;Omaha;NE;3799;29
+NE;Omaha;NE;3803;29
+NE;Omaha;NE;3805;29
+NE;Arnold;NE;203;29
+NE;Omaha;NE;3806;29
+NE;Omaha;NE;3807;29
+NH;Bath;NH;429;30
+NH;Peterborough;NH;4001;30
+NH;Newton;NH;3626;30
+NH;Manchester;NH;3147;30
+NH;Merrimack;NH;3260;30
+NH;Derry;NH;1366;30
+NH;Manchester;NH;3149;30
+NH;Hampton;NH;2052;30
+NH;Claremont;NH;1003;30
+NH;Epping;NH;1559;30
+NH;Belmont;NH;486;30
+NH;Gonic;NH;1925;30
+NH;Canaan;NH;760;30
+NJ;Newark;NJ;3609;31
+NJ;Newark;NJ;3608;31
+NJ;Newark;NJ;3606;31
+NJ;Newark;NJ;3607;31
+NJ;Newark;NJ;3610;31
+NJ;Lyndhurst;NJ;3109;31
+NJ;Newark;NJ;3614;31
+NJ;Newark;NJ;3613;31
+NJ;Farmingdale;NJ;1632;31
+NJ;Deptford;NJ;1365;31
+NJ;Millville;NJ;3355;31
+NJ;Woodbridge;NJ;5709;31
+NJ;Millville;NJ;3354;31
+NJ;North Bergen;NJ;3655;31
+NJ;Little Egg Harbor Township;NJ;2895;31
+NJ;Byram;NJ;727;31
+NJ;Camden;NJ;753;31
+NJ;Orange;NJ;3828;31
+NJ;Jersey City;NJ;2467;31
+NJ;Irvington;NJ;2394;31
+NJ;Hardwick;NJ;2064;31
+NJ;Brick;NJ;637;31
+NJ;Camden;NJ;751;31
+NJ;Mantoloking;NJ;3171;31
+NJ;Camden;NJ;752;31
+NJ;Brick Township;NJ;638;31
+NJ;Hackensack;NJ;2034;31
+NJ;Hamilton;NJ;2044;31
+NJ;Hackensack;NJ;2033;31
+NJ;Bridgeton;NJ;640;31
+NJ;Hardwick;NJ;2063;31
+NJ;Manchester;NJ;3148;31
+NJ;Princeton;NJ;4259;31
+NJ;Vineland;NJ;5442;31
+NJ;Cranbury Township;NJ;1201;31
+NJ;Bloomfield;NJ;555;31
+NJ;Bloomingdale;NJ;557;31
+NJ;Orange;NJ;3824;31
+NJ;Asbury Park;NJ;215;31
+NJ;Wayne;NJ;5547;31
+NJ;Asbury Park;NJ;214;31
+NJ;Manchester;NJ;3150;31
+NJ;Logan Township;NJ;2925;31
+NJ;Secaucus;NJ;4785;31
+NJ;Toms River;NJ;5266;31
+NJ;Passaic;NJ;3953;31
+NJ;Atlantic City;NJ;262;31
+NJ;Paterson;NJ;3954;31
+NJ;Trenton;NJ;5284;31
+NJ;Bass River;NJ;424;31
+NJ;Trenton;NJ;5282;31
+NJ;Trenton;NJ;5283;31
+NJ;Paterson;NJ;3955;31
+NJ;Atlantic City;NJ;260;31
+NJ;Vineland;NJ;5441;31
+NJ;Pemberton;NJ;3978;31
+NJ;New Brunswick;NJ;3554;31
+NJ;Paterson;NJ;3956;31
+NJ;Paterson;NJ;3958;31
+NJ;Paterson;NJ;3957;31
+NJ;Atlantic City;NJ;261;31
+NJ;Ventnor;NJ;5428;31
+NJ;Morris Township;NJ;3469;31
+NJ;Vineland;NJ;5440;31
+NJ;Little Egg Harbor;NJ;2894;31
+NJ;Jersey City;NJ;2468;31
+NJ;Old Bridge;NJ;3786;31
+NJ;Ventnor;NJ;5427;31
+NJ;Maurice River;NJ;3201;31
+NJ;Winslow;NJ;5695;31
+NJ;Ideal Beach;NJ;2341;31
+NM;Albuquerque;NM;87;32
+NM;Artesia;NM;207;32
+NM;Crownpoint;NM;1215;32
+NM;Albuquerque;NM;85;32
+NM;Clovis;NM;1055;32
+NM;Carrizozo;NM;783;32
+NM;Albuquerque;NM;84;32
+NM;Albuquerque;NM;70;32
+NM;Albuquerque;NM;83;32
+NM;Albuquerque;NM;86;32
+NM;Hanover;NM;2058;32
+NM;Albuquerque;NM;82;32
+NM;Albuquerque;NM;69;32
+NM;Albuquerque;NM;68;32
+NM;Albuquerque;NM;67;32
+NM;Hobbs;NM;2176;32
+NM;Jal;NM;2450;32
+NM;Albuquerque;NM;77;32
+NM;Carlsbad;NM;775;32
+NM;Albuquerque;NM;75;32
+NM;Albuquerque;NM;76;32
+NM;Albuquerque;NM;78;32
+NM;Albuquerque;NM;81;32
+NM;Albuquerque;NM;80;32
+NM;Angel Fire;NM;154;32
+NM;Albuquerque;NM;79;32
+NM;Sunland Park;NM;5119;32
+NM;Carlsbad;NM;774;32
+NM;Albuquerque;NM;74;32
+NM;Hobbs;NM;2179;32
+NM;Santa Fe;NM;4729;32
+NM;Santa Fe;NM;4730;32
+NM;Artesia;NM;206;32
+NM;Penasco;NM;3981;32
+NM;Santa Fe;NM;4728;32
+NM;Hobbs;NM;2178;32
+NM;Socorro;NM;4876;32
+NM;Carlsbad;NM;776;32
+NM;Albuquerque;NM;73;32
+NM;Hobbs;NM;2177;32
+NM;Albuquerque;NM;71;32
+NM;Albuquerque;NM;72;32
+NM;Las Cruces;NM;2755;32
+NM;Las Cruces;NM;2754;32
+NM;Las Cruces;NM;2753;32
+NM;Los Lunas;NM;3058;32
+NM;Las Cruces;NM;2757;32
+NM;Las Cruces;NM;2756;32
+NM;Eldorado;NM;1510;32
+NM;Lovington;NM;3088;32
+NM;Las Cruces;NM;2749;32
+NM;Las Cruces;NM;2748;32
+NM;Las Cruces;NM;2752;32
+NM;Las Cruces;NM;2751;32
+NM;Las Cruces;NM;2750;32
+NM;Albuquerque;NM;52;32
+NM;Albuquerque;NM;51;32
+NM;Albuquerque;NM;50;32
+NM;Albuquerque;NM;55;32
+NM;Albuquerque;NM;54;32
+NM;Albuquerque;NM;53;32
+NM;Edgewood;NM;1473;32
+NM;Alamogordo;NM;41;32
+NM;Los Lunas;NM;3056;32
+NM;Los Lunas;NM;3057;32
+NM;Alamogordo;NM;43;32
+NM;Alamogordo;NM;42;32
+NM;Las Cruces;NM;2758;32
+NM;Laguna;NM;2651;32
+NM;Laguna Pueblo;NM;2653;32
+NM;Farmington;NM;1633;32
+NM;Roswell;NM;4474;32
+NM;Tucumcari;NM;5330;32
+NM;Tularosa;NM;5334;32
+NM;Farmington;NM;1634;32
+NM;Pueblo of Laguna;NM;4283;32
+NM;Aztec;NM;343;32
+NM;Fort Sumner;NM;1737;32
+NM;Farmington;NM;1635;32
+NM;Farmington;NM;1637;32
+NM;Gallup;NM;1844;32
+NM;Truth or Consequences;NM;5297;32
+NM;Ruidoso;NM;4494;32
+NM;Ruidoso;NM;4493;32
+NM;Las Cruces;NM;2747;32
+NM;Las Cruces;NM;2746;32
+NM;Naschitti;NM;3534;32
+NM;Bernalillo;NM;504;32
+NM;Rowe;NM;4481;32
+NM;Roswell;NM;4477;32
+NM;Roswell;NM;4476;32
+NM;Bernalillo;NM;503;32
+NM;Ruidoso;NM;4492;32
+NM;Rudioso;NM;4490;32
+NM;Albuquerque;NM;56;32
+NM;Deming;NM;1319;32
+NM;Albuquerque;NM;62;32
+NM;Meadowlake;NM;3220;32
+NM;Deming;NM;1318;32
+NM;Albuquerque;NM;66;32
+NM;Albuquerque;NM;61;32
+NM;Albuquerque;NM;64;32
+NM;Deming;NM;1320;32
+NM;Albuquerque;NM;63;32
+NM;Albuquerque;NM;60;32
+NM;Taos;NM;5194;32
+NM;Albuquerque;NM;57;32
+NM;Taos;NM;5193;32
+NM;Albuquerque;NM;58;32
+NM;Albuquerque;NM;59;32
+NM;San Rafael;NM;4694;32
+NM;Albuquerque;NM;65;32
+NV;Sparks;NV;4924;33
+NV;Pahrump;NV;3892;33
+NV;Sparks;NV;4923;33
+NV;Gardnerville Ranchos;NV;1854;33
+NV;Sparks;NV;4925;33
+NV;Pahrump;NV;3893;33
+NV;Reno;NV;4375;33
+NV;Las Vegas;NV;2771;33
+NV;Summerlin;NV;5113;33
+NV;Sparks;NV;4918;33
+NV;Spanish Springs;NV;4917;33
+NV;Las Vegas;NV;2772;33
+NV;Las Vegas;NV;2787;33
+NV;Las Vegas;NV;2765;33
+NV;Las Vegas;NV;2773;33
+NV;Las Vegas;NV;2803;33
+NV;Las Vegas;NV;2767;33
+NV;Las Vegas;NV;2766;33
+NV;Sparks;NV;4922;33
+NV;Las Vegas;NV;2768;33
+NV;Yerington;NV;5725;33
+NV;Sparks;NV;4920;33
+NV;Las Vegas;NV;2788;33
+NV;Sparks;NV;4921;33
+NV;Las Vegas;NV;2770;33
+NV;Reno;NV;4374;33
+NV;Las Vegas;NV;2798;33
+NV;Las Vegas;NV;2797;33
+NV;Carson City;NV;794;33
+NV;Carson City;NV;793;33
+NV;Stead;NV;5065;33
+NV;Las Vegas;NV;2769;33
+NV;Las Vegas;NV;2809;33
+NV;Las Vegas;NV;2796;33
+NV;Carson City;NV;795;33
+NV;Las Vegas;NV;2801;33
+NV;Las Vegas;NV;2806;33
+NV;Las Vegas;NV;2805;33
+NV;Las Vegas;NV;2802;33
+NV;Las Vegas;NV;2799;33
+NV;Las Vegas;NV;2808;33
+NV;Las Vegas;NV;2800;33
+NV;Las Vegas;NV;2807;33
+NV;Las Vegas;NV;2790;33
+NV;Reno;NV;4370;33
+NV;Pahrump;NV;3891;33
+NV;Reno;NV;4369;33
+NV;Reno;NV;4372;33
+NV;Reno;NV;4373;33
+NV;Las Vegas;NV;2804;33
+NV;Las Vegas;NV;2789;33
+NV;Las Vegas;NV;2791;33
+NV;Reno;NV;4366;33
+NV;Reno;NV;4367;33
+NV;Las Vegas;NV;2795;33
+NV;Reno;NV;4365;33
+NV;Reno;NV;4368;33
+NV;Las Vegas;NV;2792;33
+NV;Las Vegas;NV;2794;33
+NV;Las Vegas;NV;2793;33
+NV;Las Vegas;NV;2785;33
+NV;Las Vegas;NV;2759;33
+NV;Las Vegas;NV;2786;33
+NV;Washoe;NV;5515;33
+NV;Jean;NV;2458;33
+NV;Las Vegas;NV;2784;33
+NV;Sunridge;NV;5124;33
+NV;Las Vegas;NV;2763;33
+NV;Las Vegas;NV;2764;33
+NV;Boulder City;NV;609;33
+NV;Las Vegas;NV;2762;33
+NV;Las Vegas;NV;2760;33
+NV;Las Vegas;NV;2761;33
+NV;Lovelock;NV;3087;33
+NV;Las Vegas;NV;2781;33
+NV;Henderson;NV;2120;33
+NV;Henderson;NV;2121;33
+NV;Las Vegas;NV;2780;33
+NV;Henderson;NV;2117;33
+NV;Henderson;NV;2118;33
+NV;Henderson;NV;2119;33
+NV;Mercury;NV;3252;33
+NV;Las Vegas;NV;2783;33
+NV;Jean;NV;2459;33
+NV;Henderson;NV;2124;33
+NV;Henderson;NV;2122;33
+NV;Henderson;NV;2123;33
+NV;Las Vegas;NV;2782;33
+NV;Elko;NV;1528;33
+NV;Silver Springs;NV;4851;33
+NV;Las Vegas;NV;2775;33
+NV;North Las Vegas;NV;3671;33
+NV;Silver Springs;NV;4850;33
+NV;North Las Vegas;NV;3672;33
+NV;Las Vegas;NV;2774;33
+NV;North Las Vegas;NV;3674;33
+NV;West Wendover;NV;5607;33
+NV;North Las Vegas;NV;3673;33
+NV;North Las Vegas;NV;3669;33
+NV;Las Vegas;NV;2777;33
+NV;Las Vegas;NV;2779;33
+NV;Las Vegas;NV;2778;33
+NV;North Las Vegas;NV;3670;33
+NV;Las Vegas;NV;2776;33
+NV;Elko;NV;1529;33
+NY;Constantia;NY;1165;34
+NY;Schenectady;NY;4750;34
+NY;Deposit;NY;1364;34
+NY;Oceanside;NY;3727;34
+NY;Rochester;NY;4438;34
+NY;Coney Island;NY;1161;34
+NY;Elmira;NY;1540;34
+NY;Schenectady;NY;4749;34
+NY;Potsdam;NY;4236;34
+NY;Clarendon;NY;1005;34
+NY;Sodus;NY;4880;34
+NY;Malone;NY;3142;34
+NY;Greenport;NY;1987;34
+NY;Horseheads;NY;2232;34
+NY;Rotterdam;NY;4478;34
+NY;Queens;NY;4295;34
+NY;Maspeth;NY;3198;34
+NY;Yonkers;NY;5726;34
+NY;Geneseo;NY;1874;34
+NY;Port Jervis;NY;4195;34
+NY;Rochester;NY;4436;34
+NY;Yonkers;NY;5727;34
+NY;Shirley;NY;4828;34
+NY;Pembroke;NY;3980;34
+NY;Manlius;NY;3164;34
+NY;Fredonia;NY;1790;34
+NY;Lee;NY;2840;34
+NY;East Northport;NY;1450;34
+NY;Merrick;NY;3258;34
+NY;Greece;NY;1971;34
+NY;Queens;NY;4294;34
+NY;Manhasset;NY;3156;34
+NY;Glenville;NY;1917;34
+NY;Albany;NY;46;34
+NY;Cheektowaga;NY;894;34
+NY;Greece;NY;1970;34
+NY;Coram;NY;1174;34
+NY;Edinburg;NY;1476;34
+NY;New Paltz;NY;3576;34
+NY;New Rochelle;NY;3577;34
+NY;Brentwood;NY;635;34
+NY;Bronx;NY;652;34
+NY;Jamaica;NY;2451;34
+NY;New York;NY;3583;34
+NY;New York;NY;3584;34
+NY;New York;NY;3582;34
+NY;New York;NY;3580;34
+NY;New York;NY;3581;34
+NY;New City;NY;3559;34
+NY;Troy;NY;5295;34
+NY;Troy;NY;5293;34
+NY;Bronx;NY;655;34
+NY;Brooklyn;NY;659;34
+NY;Berne;NY;505;34
+NY;Kirkwood;NY;2605;34
+NY;Tremont;NY;5281;34
+NY;Bronx;NY;653;34
+NY;Ithaca;NY;2397;34
+NY;Newburgh;NY;3615;34
+NY;New York;NY;3599;34
+NY;New York;NY;3600;34
+NY;New York;NY;3598;34
+NY;New York;NY;3596;34
+NY;New York;NY;3597;34
+NY;New York;NY;3604;34
+NY;New York;NY;3605;34
+NY;New York;NY;3603;34
+NY;New York;NY;3601;34
+NY;New York;NY;3602;34
+NY;New York;NY;3595;34
+NY;New York;NY;3588;34
+NY;New York;NY;3589;34
+NY;New York;NY;3587;34
+NY;New York;NY;3585;34
+NY;New York;NY;3586;34
+NY;New York;NY;3593;34
+NY;New York;NY;3594;34
+NY;New York;NY;3592;34
+NY;New York;NY;3590;34
+NY;New York;NY;3591;34
+NY;Brooklyn;NY;660;34
+NY;Syracuse;NY;5150;34
+NY;Arietta;NY;186;34
+NY;Syracuse;NY;5149;34
+NY;Mount Vernon;NY;3483;34
+NY;Middletown;NY;3333;34
+NY;Canandaigua;NY;762;34
+NY;Islip;NY;2396;34
+NY;Buffalo;NY;697;34
+NY;Buffalo;NY;694;34
+NY;Montgomery;NY;3438;34
+NY;Ardsley;NY;185;34
+NY;Stanfordville;NY;5057;34
+NY;Bronx;NY;654;34
+NY;Buffalo;NY;696;34
+NY;Staten Island;NY;5063;34
+NY;Syracuse;NY;5146;34
+NY;Syracuse;NY;5147;34
+NY;Beacon;NY;453;34
+NY;Syracuse;NY;5145;34
+NY;Brooklyn;NY;664;34
+NY;Warwick;NY;5491;34
+NY;Brooklyn;NY;663;34
+NY;Brooklyn;NY;661;34
+NY;Brooklyn;NY;665;34
+OH;Ashtabula Township;OH;223;35
+OH;North Royalton;OH;3685;35
+OH;Crawford County;OH;1204;35
+OH;Kent;OH;2564;35
+OH;Columbus;OH;1150;35
+OH;Columbus;OH;1146;35
+OH;Columbus;OH;1148;35
+OH;Columbus;OH;1141;35
+OH;Columbus;OH;1143;35
+OH;Defiance;OH;1298;35
+OH;Pike County;OH;4122;35
+OH;Delaware;OH;1306;35
+OH;Celina;OH;827;35
+OH;Jeffersonville;OH;2465;35
+OH;Columbus;OH;1145;35
+OH;Columbus;OH;1144;35
+OH;Ashtabula;OH;222;35
+OH;Dayton;OH;1273;35
+OH;Brookville;OH;674;35
+OH;Dayton;OH;1274;35
+OH;Brunswick;OH;683;35
+OH;Dayton;OH;1272;35
+OH;Niles;OH;3633;35
+OH;Oak Hill;OH;3702;35
+OH;Dayton;OH;1271;35
+OH;Medina;OH;3228;35
+OH;Ashville;OH;224;35
+OH;Harrison Township;OH;2075;35
+OH;Brooklyn;OH;662;35
+OH;Washington Court House;OH;5512;35
+OH;Northwood;OH;3692;35
+OH;Dayton;OH;1275;35
+OH;Hamilton;OH;2042;35
+OH;Warren;OH;5488;35
+OH;Hamilton;OH;2045;35
+OH;Whitehall;OH;5637;35
+OH;Richmond Heights;OH;4403;35
+OH;Mt. Auburn;OH;3493;35
+OH;Fairview;OH;1625;35
+OH;Mansfield;OH;3169;35
+OH;Madison Township;OH;3135;35
+OH;Mansfield;OH;3167;35
+OH;Mansfield;OH;3168;35
+OH;Fairborn;OH;1609;35
+OH;Akron;OH;33;35
+OH;Rome;OH;4454;35
+OH;Powatan Point;OH;4242;35
+OH;Fairfield;OH;1617;35
+OH;Fairfield;OH;1614;35
+OH;Akron;OH;32;35
+OH;Moraine;OH;3457;35
+OH;Uniontown;OH;5385;35
+OH;Van Wert;OH;5412;35
+OH;Zanesville;OH;5748;35
+OH;Barberton;OH;404;35
+OH;Montpelier;OH;3449;35
+OH;Lancaster;OH;2714;35
+OH;Madison Township;OH;3136;35
+OH;Franklin County;OH;1781;35
+OH;Franklinton;OH;1785;35
+OH;Findlay;OH;1658;35
+OH;Union Township;OH;5382;35
+OH;Vandalia;OH;5423;35
+OH;Twinsburg;OH;5372;35
+OH;Akron;OH;34;35
+OH;Toledo;OH;5260;35
+OH;Toledo;OH;5259;35
+OH;Toledo;OH;5258;35
+OH;Kettering;OH;2576;35
+OH;Toledo;OH;5261;35
+OH;Kettering;OH;2578;35
+OH;Kettering;OH;2577;35
+OH;Kent;OH;2569;35
+OH;Tiffin;OH;5251;35
+OH;Willoughby;OH;5669;35
+OH;Green;OH;1978;35
+OH;Akron;OH;38;35
+OH;New Straitsville;OH;3578;35
+OH;East Cleveland;OH;1445;35
+OH;Akron;OH;35;35
+OH;Elyria;OH;1543;35
+OH;Elmwood Place;OH;1541;35
+OH;Wadsworth;OH;5466;35
+OH;Euclid;OH;1569;35
+OH;Englewood;OH;1554;35
+OH;Geneva Township;OH;1878;35
+OH;Trotwood;OH;5292;35
+OH;Martins Ferry;OH;3190;35
+OH;Toledo;OH;5262;35
+OH;Akron;OH;37;35
+OH;Girard;OH;1897;35
+OH;Beverly;OH;511;35
+OH;Akron;OH;36;35
+OH;Cleveland;OH;1037;35
+OH;Jasper;OH;2456;35
+OH;Perry Township;OH;3996;35
+OH;Columbus;OH;1117;35
+OH;Cleveland;OH;1038;35
+OH;Hockingport;OH;2180;35
+OH;Columbus;OH;1116;35
+OH;Canton;OH;765;35
+OH;Cleveland;OH;1039;35
+OH;Columbus;OH;1118;35
+OH;Cleveland;OH;1036;35
+OH;Butler Township;OH;722;35
+OH;Columbus;OH;1121;35
+OH;Parma;OH;3939;35
+OH;Waverly;OH;5546;35
+OH;Cincinnati;OH;979;35
+OH;Columbus;OH;1119;35
+OH;Columbus;OH;1120;35
+OH;Apple Creek;OH;173;35
+OH;Cincinnati;OH;983;35
+OH;Springfield;OH;4964;35
+OH;Lima;OH;2878;35
+OH;Cincinnati;OH;984;35
+OH;Cincinnati;OH;982;35
+OH;Springfield;OH;4976;35
+OH;Colebrook Township;OH;1078;35
+OH;Cincinnati;OH;981;35
+OH;Cincinnati;OH;980;35
+OH;Cincinnati;OH;985;35
+OH;Cleveland;OH;1040;35
+OH;Alliance;OH;104;35
+OH;Columbus;OH;1115;35
+OH;Columbus;OH;1114;35
+OH;St. Clair Township;OH;4992;35
+OH;Westlake;OH;5610;35
+OH;Struthers;OH;5100;35
+OH;Westerville;OH;5609;35
+OH;Circleville;OH;988;35
+OH;Columbus;OH;1129;35
+OH;Hudson;OH;2299;35
+OH;Columbus;OH;1131;35
+OH;Columbus;OH;1130;35
+OH;Sylvania Township;OH;5141;35
+OH;Sylvania Township;OH;5142;35
+OH;Columbus;OH;1128;35
+OH;Columbus;OH;1127;35
+OH;Howland Township;OH;2297;35
+OH;Southington;OH;4911;35
+OH;Columbus;OH;1135;35
+OH;Columbus;OH;1137;35
+OH;Columbus;OH;1136;35
+OH;Columbus;OH;1132;35
+OH;Columbus;OH;1139;35
+OH;Columbus;OH;1134;35
+OH;Columbus;OH;1133;35
+OH;Parma;OH;3938;35
+OH;Sugarcreek;OH;5109;35
+OH;Hilltop;OH;2163;35
+OH;Columbus;OH;1122;35
+OH;Parma;OH;3937;35
+OH;Cleveland;OH;1035;35
+OH;Cleveland;OH;1034;35
+OH;Columbus;OH;1123;35
+OH;Steubenville;OH;5067;35
+OH;Miami Township;OH;3327;35
+OH;Columbus;OH;1124;35
+OH;Columbus;OH;1140;35
+OK;Okmulgee County;OK;3783;36
+OK;Byars;OK;725;36
+OK;Eufaula;OK;1571;36
+OK;Wagoner;OK;5468;36
+OK;Rogers County;OK;4451;36
+OK;Poteau;OK;4233;36
+OK;Muskogee;OK;3509;36
+OK;Roland;OK;4452;36
+OK;Muskogee;OK;3510;36
+OK;Enid;OK;1557;36
+OK;Mustang;OK;3511;36
+OK;Pottawatomie County;OK;4237;36
+OK;Bixby;OK;547;36
+OK;Watts;OK;5534;36
+OK;Rush Springs;OK;4495;36
+OK;Ponca City;OK;4184;36
+OK;Cache;OK;734;36
+OK;Cache;OK;733;36
+OK;Sperry;OK;4935;36
+OK;Kiowa;OK;2600;36
+OK;Rufe;OK;4491;36
+OK;Midwest City;OK;3345;36
+OK;Wagoner;OK;5467;36
+OK;Porteau;OK;4207;36
+OK;Tom;OK;5264;36
+OK;Bethany;OK;507;36
+OK;Leedey;OK;2842;36
+OK;Byng;OK;726;36
+OK;Tulsa;OK;5357;36
+OK;Tulsa;OK;5356;36
+OK;Stillwater;OK;5071;36
+OK;Lawton;OK;2827;36
+OK;Tulsa;OK;5359;36
+OK;Tulsa;OK;5358;36
+OK;Tulsa;OK;5355;36
+OK;Tulsa;OK;5353;36
+OK;Ada;OK;12;36
+OK;Ada;OK;13;36
+OK;Anadarko;OK;127;36
+OK;Vinita;OK;5444;36
+OK;Tulsa;OK;5354;36
+OK;Lawton;OK;2826;36
+OK;Moore;OK;3453;36
+OK;Fort Smith;OK;1735;36
+OK;Catoosa;OK;816;36
+OK;Bartlesville;OK;418;36
+OK;Catoosa;OK;817;36
+OK;Bartlesville;OK;419;36
+OK;Owasso;OK;3873;36
+OK;Lawton;OK;2825;36
+OK;Tulsa;OK;5361;36
+OK;Tulsa;OK;5360;36
+OK;Miami;OK;3311;36
+OK;Stillwater;OK;5069;36
+OK;Ada;OK;11;36
+OK;Tulsa;OK;5341;36
+OK;Tulsa;OK;5340;36
+OK;Tulsa;OK;5339;36
+OK;Chickasha;OK;954;36
+OK;Chickasha;OK;955;36
+OK;Tulsa;OK;5342;36
+OK;Prague;OK;4247;36
+OK;Chickasha;OK;956;36
+OK;Tulsa;OK;5336;36
+OK;Muskogee;OK;3508;36
+OK;Fairfax;OK;1613;36
+OK;Tulsa;OK;5338;36
+OK;Tulsa;OK;5337;36
+OK;Fairland;OK;1621;36
+OK;Tulsa;OK;5350;36
+OK;Tulsa;OK;5349;36
+OK;Pryor;OK;4264;36
+OK;Tulsa;OK;5352;36
+OK;Mannford;OK;3165;36
+OK;Tulsa;OK;5351;36
+OK;Tulsa;OK;5348;36
+OK;Tulsa;OK;5344;36
+OK;Tulsa;OK;5343;36
+OK;Chickasha;OK;953;36
+OK;Tulsa;OK;5347;36
+OK;Tulsa;OK;5346;36
+OK;Tulsa;OK;5345;36
+OK;Sand Springs;OK;4700;36
+OK;Kellyville;OK;2553;36
+OK;Noble County;OK;3637;36
+OK;Sand Springs;OK;4699;36
+OK;Oklahoma City;OK;3756;36
+OK;Logan County;OK;2924;36
+OK;Boswell;OK;603;36
+OK;Oklahoma City;OK;3753;36
+OK;Broken Bow;OK;651;36
+OK;Oklahoma City;OK;3752;36
+OK;Guthrie;OK;2030;36
+OK;Oklahoma City;OK;3755;36
+OK;Oklahoma City;OK;3754;36
+OK;Guthrie;OK;2029;36
+OK;Oklahoma City;OK;3761;36
+OK;Oklahoma City;OK;3760;36
+OK;Del City;OK;1299;36
+OK;Blackwell;OK;553;36
+OK;Coal County;OK;1058;36
+OK;Oklahoma City;OK;3763;36
+OK;Oklahoma City;OK;3762;36
+OK;Wilburton;OK;5658;36
+OK;Oklahoma City;OK;3758;36
+OK;Oklahoma City;OK;3757;36
+OK;Oklahoma City;OK;3759;36
+OK;Colbert;OK;1076;36
+OK;The Village;OK;5235;36
+OK;Hominy;OK;2207;36
+OK;Tahlequah;OK;5165;36
+OK;Tahlequah;OK;5164;36
+OK;Tahlequah;OK;5163;36
+OK;Tahlequah;OK;5166;36
+OK;Bunch;OK;703;36
+OK;Healdton;OK;2104;36
+OK;Talihina;OK;5168;36
+OK;Wewoka;OK;5630;36
+OK;Wetumka;OK;5629;36
+OK;Millerton;OK;3352;36
+OK;Oaks;OK;3723;36
+OK;Tahlequah;OK;5162;36
+OK;Schulter;OK;4753;36
+OK;Henryetta;OK;2134;36
+OK;Okemah;OK;3749;36
+OK;Okarche;OK;3748;36
+OK;Jay;OK;2457;36
+OK;Cushing;OK;1227;36
+OK;Oklahoma City;OK;3751;36
+OK;Oklahoma City;OK;3750;36
+OK;Norman;OK;3652;36
+OK;Burns Flat;OK;717;36
+OK;Cookson;OK;1168;36
+OK;Ardmore;OK;184;36
+OK;Kansas;OK;2507;36
+OK;Washita County;OK;5514;36
+OK;Norwood;OK;3696;36
+OK;Sapulpa;OK;4739;36
+OK;McAlester;OK;3205;36
+OK;Edmond;OK;1478;36
+OK;Oklahoma City;OK;3770;36
+OK;Oklahoma City;OK;3769;36
+OK;Pittsburg;OK;4143;36
+OK;Oklahoma City;OK;3768;36
+OK;Allen;OK;99;36
+OK;Sallisaw;OK;4537;36
+OK;McLoud;OK;3213;36
+OK;Oklahoma City;OK;3774;36
+OK;Oklahoma City;OK;3773;36
+OK;Pink;OK;4140;36
+OK;Edmond;OK;1479;36
+OK;Sallisaw;OK;4539;36
+OK;Oklahoma City;OK;3771;36
+OK;Oklahoma City;OK;3772;36
+OK;Oklahoma City;OK;3779;36
+OK;Oklahoma City;OK;3775;36
+OK;Claremore;OK;1004;36
+OK;Oklahoma City;OK;3776;36
+OK;McAlester;OK;3206;36
+OK;Oklahoma City;OK;3764;36
+OK;Sallisaw;OK;4538;36
+OK;Oklahoma City;OK;3777;36
+OK;Okmulgee;OK;3782;36
+OK;Oklahoma City;OK;3765;36
+OK;Tishomingo;OK;5255;36
+OK;Grant;OK;1956;36
+OK;Oklahoma City;OK;3780;36
+OK;Oklahoma City;OK;3778;36
+OK;Oklahoma City;OK;3766;36
+OK;Okmulgee;OK;3781;36
+OK;Oklahoma City;OK;3767;36
+OR;Burns;OR;716;37
+OR;Cottage Grove;OR;1186;37
+OR;Clackamas County;OR;998;37
+OR;Bandon;OR;401;37
+OR;Salem;OR;4527;37
+OR;Florence;OR;1683;37
+OR;Central Point;OR;835;37
+OR;Seaside;OR;4767;37
+OR;Seaside;OR;4766;37
+OR;Cave Junction;OR;818;37
+OR;Clackamas County;OR;999;37
+OR;Coos Bay;OR;1171;37
+OR;Salem;OR;4526;37
+OR;Salem;OR;4525;37
+OR;Salem;OR;4524;37
+OR;Washington County;OR;5510;37
+OR;Silverton;OR;4852;37
+OR;The Dalles;OR;5234;37
+OR;Springfield;OR;4967;37
+OR;Wilderville;OR;5659;37
+OR;Colton;OR;1103;37
+OR;Boring;OR;590;37
+OR;Beaverton;OR;464;37
+OR;Springfield;OR;4974;37
+OR;Eugene;OR;1574;37
+OR;Springfield;OR;4969;37
+OR;Eugene;OR;1575;37
+OR;Eugene;OR;1576;37
+OR;Eugene;OR;1572;37
+OR;Eugene;OR;1573;37
+OR;Eugene;OR;1577;37
+OR;West Linn;OR;5590;37
+OR;Sherwood;OR;4827;37
+OR;Bend;OR;494;37
+OR;Aloha;OR;105;37
+OR;Clackamas County;OR;997;37
+OR;Tualatin;OR;5298;37
+OR;Amity;OR;126;37
+OR;Aloha;OR;106;37
+OR;Dallas;OR;1247;37
+OR;Beaverton;OR;466;37
+OR;Beaverton;OR;465;37
+OR;Bend;OR;492;37
+OR;Bend;OR;493;37
+OR;Wolf Creek;OR;5702;37
+OR;Welches;OR;5563;37
+OR;Medford;OR;3226;37
+OR;Medford;OR;3225;37
+OR;Medford;OR;3224;37
+OR;Klamath Falls;OR;2609;37
+OR;Portland;OR;4220;37
+OR;Portland;OR;4221;37
+OR;King City;OR;2582;37
+OR;Medford;OR;3223;37
+OR;Josephine County;OR;2491;37
+OR;Portland;OR;4224;37
+OR;McMinnville;OR;3214;37
+OR;Portland;OR;4223;37
+OR;Portland;OR;4222;37
+OR;Keizer;OR;2552;37
+OR;Hillsboro;OR;2160;37
+OR;Portland;OR;4212;37
+OR;Klamath Falls;OR;2608;37
+OR;Portland;OR;4211;37
+OR;Gresham;OR;2012;37
+OR;Portland;OR;4214;37
+OR;Hillsboro;OR;2161;37
+OR;Portland;OR;4213;37
+OR;Lincoln CIty;OR;2885;37
+OR;Gresham;OR;2013;37
+OR;Klamath Falls;OR;2607;37
+OR;Portland;OR;4219;37
+OR;Portland;OR;4218;37
+OR;Hillsboro;OR;2162;37
+OR;Portland;OR;4217;37
+OR;Hillsboro;OR;2159;37
+OR;Portland;OR;4225;37
+OR;Milwaukie;OR;3375;37
+OR;Portland;OR;4229;37
+OR;Grants Pass;OR;1958;37
+OR;Oregon City;OR;3838;37
+OR;Portland;OR;4228;37
+OR;Ontario;OR;3819;37
+OR;Oakridge;OR;3722;37
+OR;Polk County;OR;4174;37
+OR;Portland;OR;4227;37
+OR;Portland;OR;4226;37
+PA;Philadelphia;PA;4019;38
+PA;Philadelphia;PA;4018;38
+PA;Philadelphia;PA;4017;38
+PA;Philadelphia;PA;4016;38
+PA;Philadelphia;PA;4015;38
+PA;Mount Washington;PA;3484;38
+PA;Union City;PA;5377;38
+PA;Union Township;PA;5384;38
+PA;Greensburg;PA;1990;38
+PA;Philadelphia;PA;4020;38
+PA;Philadelphia;PA;4021;38
+PA;Philadelphia;PA;4022;38
+PA;Erie;PA;1560;38
+PA;Philadelphia;PA;4013;38
+PA;Ross Township;PA;4469;38
+PA;Knoxville;PA;2613;38
+PA;Manchester Township;PA;3151;38
+PA;Philadelphia;PA;4011;38
+PA;Pottstown;PA;4239;38
+PA;Fairchance;PA;1610;38
+PA;Myerstown;PA;3512;38
+PA;Philadelphia;PA;4014;38
+PA;Philadelphia;PA;4012;38
+PA;Pottstown;PA;4238;38
+PA;Campbelltown;PA;757;38
+PA;Straban Township;PA;5094;38
+PA;Canaan Township;PA;761;38
+PA;Stewartstown;PA;5068;38
+PA;Canton Township;PA;766;38
+PA;Old Forge;PA;3787;38
+PA;East Stroudsburg;PA;1456;38
+PA;Plymouth Township;PA;4166;38
+PA;Stroudsburg;PA;5098;38
+PA;Stroudsburg;PA;5099;38
+PA;Huntingdon County;PA;2308;38
+PA;Chester;PA;903;38
+PA;Chester;PA;902;38
+PA;South Whitehall Township;PA;4907;38
+PA;Somerset;PA;4882;38
+PA;South Greensburg;PA;4895;38
+PA;Hummelstown;PA;2304;38
+PA;State College;PA;5062;38
+PA;Chambersburg;PA;843;38
+PA;Chester;PA;901;38
+PA;Smithfield Township;PA;4864;38
+PA;King of Prussia;PA;2584;38
+PA;Nelson Township;PA;3547;38
+PA;New Kensington;PA;3563;38
+PA;Bloomsburg;PA;560;38
+PA;Three Springs;PA;5248;38
+PA;Sharon;PA;4805;38
+PA;Shaler Township;PA;4803;38
+PA;Germantown;PA;1883;38
+PA;Perryopolis;PA;3997;38
+PA;Dover Township;PA;1411;38
+PA;Penn Township;PA;3984;38
+PA;Pittsburgh;PA;4150;38
+PA;Penn Hills;PA;3983;38
+PA;Johnstown;PA;2479;38
+PA;Jim Thorpe;PA;2471;38
+PA;Pittston;PA;4152;38
+PA;Pittsburgh;PA;4147;38
+PA;Pittsburgh;PA;4146;38
+PA;Pittsburgh;PA;4148;38
+PA;Bristol Township;PA;647;38
+PA;Pittsburgh;PA;4149;38
+PA;Allentown;PA;101;38
+PA;Allentown;PA;102;38
+PA;Allentown;PA;103;38
+PA;Lewistown;PA;2868;38
+PA;Philadelphia;PA;4028;38
+PA;Franklin Township;PA;1784;38
+PA;Lower Burrell;PA;3092;38
+PA;Lower Macungie Township;PA;3093;38
+PA;Washington;PA;5509;38
+PA;Philadelphia;PA;4025;38
+PA;Aspers;PA;227;38
+PA;Philadelphia;PA;4026;38
+PA;Philadelphia;PA;4027;38
+PA;West Chester;PA;5574;38
+PA;Lower Mount Bethel;PA;3094;38
+PA;Philadelphia;PA;4029;38
+PA;Mead Township;PA;3217;38
+PA;Wilkinsburg;PA;5662;38
+PA;Harrisburg;PA;2070;38
+PA;Forks Township;PA;1702;38
+PA;Wilkinsburg;PA;5664;38
+PA;Fort Littleton;PA;1720;38
+PA;Wilkinsburg;PA;5663;38
+PA;Harrisburg;PA;2071;38
+PA;Hanover Township;PA;2059;38
+PA;Hazleton;PA;2103;38
+PA;Philadephia;PA;4030;38
+PA;Reading;PA;4336;38
+PA;Reading;PA;4337;38
+PA;Harrisburg;PA;2072;38
+PA;Harrisburg;PA;2073;38
+PA;Lancaster;PA;2723;38
+PA;York County;PA;5734;38
+PA;Abington Township;PA;9;38
+PA;Lancaster;PA;2715;38
+PA;Philadelphia;PA;4024;38
+PA;York;PA;5732;38
+PA;Volant;PA;5459;38
+PA;Avella;PA;332;38
+PA;Lancaster City;PA;2726;38
+PA;Philadelphia;PA;4023;38
+PA;Lancaster;PA;2719;38
+PA;Prompton;PA;4261;38
+PA;York;PA;5731;38
+PA;Manchester Township;PA;3152;38
+PA;Forksville;PA;1703;38
+PA;Upper Darby;PA;5388;38
+PA;Lancaster;PA;2713;38
+RI;Tiverton;RI;5257;39
+RI;Pawtucket;RI;3963;39
+RI;Pawtucket;RI;3964;39
+RI;Providence;RI;4262;39
+SC;Johns Island;SC;2473;40
+SC;Spartanburg;SC;4931;40
+SC;Spartanburg;SC;4930;40
+SC;Horry County;SC;2230;40
+SC;Swansea;SC;5134;40
+SC;Horry County;SC;2231;40
+SC;Hardeeville;SC;2061;40
+SC;Hardeeville;SC;2062;40
+SC;North Charleston;SC;3659;40
+SC;Pendleton;SC;3982;40
+SC;Fountain Inn;SC;1767;40
+SC;Easley;SC;1440;40
+SC;North Charleston;SC;3660;40
+SC;North Charleston;SC;3658;40
+SC;Spartanburg;SC;4929;40
+SC;Pelzer;SC;3977;40
+SC;Simpsonville;SC;4854;40
+SC;Johnsonville;SC;2478;40
+SC;Fountain Inn;SC;1766;40
+SC;Surfside Beach;SC;5129;40
+SC;Aiken;SC;29;40
+SC;Aiken;SC;28;40
+SC;Aiken;SC;27;40
+SC;Inman;SC;2380;40
+SC;Orangeburg;SC;3835;40
+SC;Chester;SC;900;40
+SC;Chester;SC;899;40
+SC;Charleston;SC;859;40
+SC;Cayce;SC;819;40
+SC;York;SC;5730;40
+SC;Aiken;SC;26;40
+SC;Huger;SC;2301;40
+SC;Horry County;SC;2229;40
+SC;Summerville;SC;5114;40
+SC;Chesterfield County;SC;905;40
+SC;James Island;SC;2452;40
+SC;Sun City;SC;5116;40
+SC;Edmund;SC;1481;40
+SC;Sumter;SC;5115;40
+SC;Columbia;SC;1104;40
+SC;Campobello;SC;759;40
+SC;Irmo;SC;2386;40
+SC;Irmo;SC;2385;40
+SC;Pelion;SC;3975;40
+SC;Iva;SC;2400;40
+SC;Camp Croft;SC;754;40
+SC;North Charleston;SC;3657;40
+SC;Piedmont;SC;4118;40
+SC;Latta;SC;2810;40
+SC;Andrews;SC;153;40
+SC;Walterboro;SC;5481;40
+SC;Myrtle Beach;SC;3518;40
+SC;Myrtle Beach;SC;3519;40
+SC;Seneca;SC;4796;40
+SC;Anderson;SC;150;40
+SC;Lexington;SC;2869;40
+SC;Lexington County;SC;2872;40
+SC;Lexington County;SC;2873;40
+SC;Enoree;SC;1558;40
+SC;Greenville;SC;2001;40
+SC;Greenville;SC;2003;40
+SC;Greenville County;SC;2007;40
+SC;Belton;SC;489;40
+SC;Greenville;SC;1994;40
+SC;Greenville;SC;1992;40
+SC;Lancaster;SC;2722;40
+SC;Greenville;SC;1995;40
+SC;Union County;SC;5380;40
+SC;Union County;SC;5379;40
+SC;Lake View;SC;2679;40
+SC;Lake City;SC;2659;40
+SC;Moncks Corner;SC;3416;40
+SC;Myrtle Beach;SC;3516;40
+SC;Myrtle Beach;SC;3517;40
+SC;Myrtle Beach;SC;3515;40
+SC;Ladson;SC;2645;40
+SC;Landrum;SC;2730;40
+SC;Myrtle Beach;SC;3514;40
+SC;Darlington County;SC;1262;40
+SC;Piedmont;SC;4120;40
+SC;Greenwood;SC;2010;40
+SC;Darlington County;SC;1263;40
+SC;Florence;SC;1686;40
+SC;Taylors;SC;5201;40
+SC;Taylors;SC;5200;40
+SC;Dalzell;SC;1254;40
+SC;Hartsville;SC;2080;40
+SC;Blacksburg;SC;552;40
+SC;Boiling Springs;SC;572;40
+SC;Goose Creek;SC;1931;40
+SC;Little Mountain;SC;2897;40
+SC;Greenville County;SC;2008;40
+SC;Florence;SC;1680;40
+SD;Parmelee;SD;3940;41
+SD;Sioux Falls;SD;4858;41
+SD;Sioux Falls;SD;4857;41
+SD;Box Elder;SD;613;41
+SD;New Underwood;SD;3579;41
+SD;Kyle;SD;2625;41
+SD;Rapid City;SD;4326;41
+SD;White Lake;SD;5635;41
+SD;Rapid City;SD;4331;41
+SD;Rapid City;SD;4330;41
+SD;Rapid City;SD;4329;41
+SD;Rapid City;SD;4328;41
+SD;Rapid City;SD;4327;41
+SD;Rapid Valley;SD;4332;41
+SD;Mitchell;SD;3396;41
+SD;Lead;SD;2829;41
+SD;Rosebud;SD;4462;41
+SD;Rosebud;SD;4461;41
+TN;Hohenwald;TN;2184;42
+TN;Counce;TN;1193;42
+TN;Somerville;TN;4884;42
+TN;Clarksville;TN;1018;42
+TN;Soddy-Daisy;TN;4879;42
+TN;Soddy Daisy;TN;4877;42
+TN;Soddy-Daisy;TN;4878;42
+TN;Hixson;TN;2175;42
+TN;Collierville;TN;1080;42
+TN;Clinton;TN;1047;42
+TN;Hendersonville;TN;2128;42
+TN;Cocke County;TN;1065;42
+TN;Hamilton County;TN;2046;42
+TN;Sevierville;TN;4797;42
+TN;Smith County;TN;4863;42
+TN;Columbia;TN;1108;42
+TN;Cumberland County;TN;1223;42
+TN;Hohenwald;TN;2183;42
+TN;Cosby;TN;1185;42
+TN;Shelbyville;TN;4819;42
+TN;Smyrna;TN;4866;42
+TN;Clinton;TN;1041;42
+TN;Bartlett;TN;420;42
+TN;Monteagle;TN;3430;42
+TN;Walter Hill;TN;5480;42
+TN;Morristown;TN;3471;42
+TN;Morristown;TN;3470;42
+TN;Lakeland;TN;2682;42
+TN;West Knox;TN;5589;42
+TN;Lenoir City;TN;2860;42
+TN;Lenoir City;TN;2861;42
+TN;Arlington;TN;201;42
+TN;Antioch;TN;162;42
+TN;Lawrenceburg;TN;2820;42
+TN;Morristown;TN;3472;42
+TN;Knoxville;TN;2619;42
+TN;Knoxville;TN;2620;42
+TN;Tullahoma;TN;5335;42
+TN;Knoxville;TN;2617;42
+TN;Knoxville;TN;2618;42
+TN;Bethel Springs;TN;508;42
+TN;Mt. Pleasant;TN;3494;42
+TN;Moscow;TN;3475;42
+TN;Morristown;TN;3473;42
+TN;LaFollette;TN;2635;42
+TN;LaFollette;TN;2636;42
+TN;Mufreesboro;TN;3496;42
+TN;Lewisburg;TN;2866;42
+TN;Memphis;TN;3233;42
+TN;Memphis;TN;3232;42
+TN;McMinnville;TN;3215;42
+TN;Memphis;TN;3237;42
+TN;Memphis;TN;3236;42
+TN;Memphis;TN;3234;42
+TN;Alamo;TN;40;42
+TN;Alamo;TN;39;42
+TN;Maryville;TN;3195;42
+TN;McLemoresville;TN;3212;42
+TN;Winchester;TN;5683;42
+TN;Maury County;TN;3202;42
+TN;Memphis;TN;3238;42
+TN;Whitehaven;TN;5639;42
+TN;Whitehaven;TN;5640;42
+TN;Memphis;TN;3245;42
+TN;Livingston;TN;2911;42
+TN;Memphis;TN;3247;42
+TN;Memphis;TN;3246;42
+TN;Memphis;TN;3241;42
+TN;Memphis;TN;3240;42
+TN;Memphis;TN;3239;42
+TN;Memphis;TN;3244;42
+TN;Memphis;TN;3243;42
+TN;Memphis;TN;3242;42
+TN;Chattanooga;TN;886;42
+TN;Chattanooga;TN;885;42
+TN;Charleston;TN;857;42
+TN;Chattanooga;TN;889;42
+TN;Chattanooga;TN;888;42
+TN;Chattanooga;TN;887;42
+TN;Ooltewah;TN;3820;42
+TN;Oneida;TN;3811;42
+TN;Jackson;TN;2403;42
+TN;300 block of State Line Road;TN;0;42
+TN;Carthage;TN;800;42
+TN;Humboldt;TN;2303;42
+TN;Chattanooga;TN;890;42
+TN;South Knoxville;TN;4897;42
+TN;Clarkrange;TN;1009;42
+TN;Claiborne County;TN;1000;42
+TN;Clarksville;TN;1017;42
+TN;Clarksville;TN;1016;42
+TN;Clarksville;TN;1013;42
+TN;Church Hill;TN;977;42
+TN;Cheatham County;TN;893;42
+TN;Chattanooga;TN;891;42
+TN;Sparta;TN;4928;42
+TN;Spring Hill;TN;4956;42
+TN;Church Hill;TN;978;42
+TN;Bulls Gap;TN;702;42
+TN;Nashville;TN;3541;42
+TN;Nashville;TN;3540;42
+TN;Nashville;TN;3539;42
+TN;Newport;TN;3619;42
+TN;Kingsport;TN;2597;42
+TN;Nashville;TN;3542;42
+TN;Knoxville;TN;2614;42
+TN;Knoxville;TN;2615;42
+TN;Knoxville;TN;2616;42
+TN;Nashville;TN;3538;42
+TN;Nashville;TN;3537;42
+TN;Nashville;TN;3536;42
+TN;Blountville;TN;561;42
+TN;Jonesborough;TN;2486;42
+TN;Jonesborough;TN;2487;42
+TN;Oak Ridge;TN;3706;42
+TN;Johnson City;TN;2474;42
+TN;Johnson City;TN;2475;42
+TN;Johnson City;TN;2476;42
+TN;Bradley County;TN;624;42
+TN;Bon Aqua;TN;583;42
+TN;Bluff City;TN;566;42
+TN;Oak Ridge;TN;3705;42
+TN;Bristol;TN;646;42
+TN;Bristol;TN;644;42
+TN;Etowah;TN;1568;42
+TN;Franklin;TN;1778;42
+TN;Estill Springs;TN;1566;42
+TN;Dickson;TN;1392;42
+TN;Greeneville;TN;1985;42
+TN;Rockwood;TN;4450;42
+TN;DeKalb County;TN;1277;42
+TN;Franklin County;TN;1783;42
+TN;Elizabethton;TN;1515;42
+TN;Pigeon Forge;TN;4121;42
+TN;Greenville;TN;1999;42
+TN;Greeneville;TN;1984;42
+TN;Reagan;TN;4338;42
+TN;Sale Creek;TN;4522;42
+TN;Gray;TN;1963;42
+TN;Elizabethton;TN;1514;42
+TN;Elizabethon;TN;1513;42
+TN;East Ridge;TN;1454;42
+TN;Gibson County;TN;1887;42
+TN;Germantown;TN;1884;42
+TN;Greenback;TN;1981;42
+TN;Dyersburg;TN;1432;42
+TN;Gallatin;TN;1843;42
+TN;Fairview;TN;1624;42
+TN;Raleigh;TN;4308;42
+TN;Decatur County;TN;1294;42
+TN;Fairview;TN;1626;42
+TX;Houston;TX;2283;43
+TX;El Paso;TX;1498;43
+TX;El Paso;TX;1497;43
+TX;Odessa;TX;3731;43
+TX;Odessa;TX;3732;43
+TX;El Paso;TX;1496;43
+TX;League City;TX;2833;43
+TX;El Paso;TX;1499;43
+TX;Weslaco;TX;5570;43
+TX;Galveston;TX;1845;43
+TX;Garland;TX;1855;43
+TX;Houston;TX;2281;43
+TX;League City;TX;2832;43
+TX;Grand Prairie;TX;1950;43
+TX;Houston;TX;2282;43
+TX;League City;TX;2831;43
+TX;El Paso;TX;1495;43
+TX;Houston;TX;2287;43
+TX;Houston;TX;2285;43
+TX;Houston;TX;2286;43
+TX;El Paso;TX;1494;43
+TX;Odessa;TX;3738;43
+TX;Houston;TX;2288;43
+TX;Odessa;TX;3736;43
+TX;Grand Prarie;TX;1951;43
+TX;Odessa;TX;3735;43
+TX;Odessa;TX;3733;43
+TX;Odessa;TX;3734;43
+TX;Houston;TX;2284;43
+TX;Sweetwater;TX;5135;43
+TX;Amarillo;TX;123;43
+TX;Amarillo;TX;122;43
+TX;Midland;TX;3336;43
+TX;Webster;TX;5554;43
+TX;Oak Cliff;TX;3699;43
+TX;El Paso;TX;1503;43
+TX;North Laredo;TX;3668;43
+TX;Brookshire;TX;667;43
+TX;Jourdanton;TX;2494;43
+TX;Oak Cliff;TX;3700;43
+TX;Midland;TX;3339;43
+TX;El Paso;TX;1504;43
+TX;Weatherford;TX;5553;43
+TX;Houston;TX;2277;43
+TX;Houston;TX;2275;43
+TX;Houston;TX;2276;43
+TX;El Paso;TX;1506;43
+TX;El Paso;TX;1505;43
+TX;Katy;TX;2544;43
+TX;El Paso;TX;1507;43
+TX;Houston;TX;2279;43
+TX;El Paso;TX;1500;43
+TX;Tahoka;TX;5167;43
+TX;Houston;TX;2278;43
+TX;Midland;TX;3337;43
+TX;Garland;TX;1856;43
+TX;Ponder;TX;4185;43
+TX;Houston;TX;2280;43
+TX;El Paso;TX;1501;43
+TX;Brownsville;TX;679;43
+TX;Brownsville;TX;680;43
+TX;Brownsville;TX;677;43
+TX;Brownsville;TX;678;43
+TX;Midland;TX;3338;43
+TX;El Paso;TX;1502;43
+TX;Brownsville;TX;681;43
+TX;Saginaw;TX;4519;43
+TX;San Antonio;TX;4565;43
+TX;Humble;TX;2302;43
+TX;West Odessa;TX;5597;43
+TX;San Antonio;TX;4564;43
+TX;San Antonio;TX;4567;43
+TX;Houston;TX;2295;43
+TX;Austin;TX;324;43
+TX;Houston;TX;2296;43
+TX;Amarillo;TX;116;43
+TX;San Antonio;TX;4561;43
+TX;Huntsville;TX;2323;43
+TX;Carrollton;TX;789;43
+TX;Amarillo;TX;118;43
+TX;San Antonio;TX;4562;43
+TX;San Antonio;TX;4563;43
+TX;Carrollton;TX;790;43
+TX;Amarillo;TX;117;43
+TX;Houston;TX;2292;43
+TX;Houston;TX;2291;43
+TX;Cedar Hill;TX;822;43
+TX;Cedar Lake;TX;823;43
+TX;Channelview;TX;853;43
+TX;Chapeno;TX;854;43
+TX;Houston;TX;2290;43
+TX;San Antonio;TX;4569;43
+TX;San Antonio;TX;4568;43
+TX;Amarillo;TX;114;43
+TX;Alvin;TX;113;43
+TX;West Odessa;TX;5598;43
+TX;Amarillo;TX;115;43
+TX;Houston;TX;2293;43
+TX;Fulshear;TX;1831;43
+TX;League City;TX;2835;43
+TX;Houston;TX;2294;43
+TX;Fritch;TX;1822;43
+TX;Irving;TX;2393;43
+TX;Onalaska;TX;3810;43
+TX;Amarillo;TX;120;43
+TX;Irving;TX;2392;43
+TX;Irving;TX;2391;43
+TX;San Antonio;TX;4571;43
+TX;Stratford;TX;5096;43
+TX;San Antonio;TX;4572;43
+TX;Mesquite;TX;3283;43
+TX;Burnet;TX;715;43
+TX;Houston;TX;2289;43
+TX;Sunset;TX;5127;43
+TX;Fuqua;TX;1834;43
+TX;League City;TX;2834;43
+TX;Leon County;TX;2863;43
+TX;Amarillo;TX;121;43
+TX;Canutillo;TX;768;43
+TX;San Angelo;TX;4559;43
+TX;San Angelo;TX;4557;43
+TX;San Angelo;TX;4558;43
+TX;Carrollton;TX;786;43
+TX;Hurst;TX;2330;43
+TX;San Antonio;TX;4560;43
+TX;Hutchins;TX;2331;43
+TX;Amarillo;TX;119;43
+TX;Irving;TX;2389;43
+TX;Campbellton;TX;756;43
+TX;Irving;TX;2390;43
+TX;Camp Wood;TX;755;43
+TX;El Paso;TX;1493;43
+TX;San Angelo;TX;4556;43
+TX;San Antonio;TX;4570;43
+TX;Irving;TX;2388;43
+TX;Austin;TX;306;43
+TX;Lake Jackson;TX;2673;43
+TX;Lantana;TX;2734;43
+TX;Austin;TX;307;43
+TX;Lake Jackson;TX;2670;43
+TX;La Porte;TX;2632;43
+TX;Lake Jackson;TX;2672;43
+TX;Lake Jackson;TX;2671;43
+TX;Garland;TX;1857;43
+TX;Beaumont;TX;456;43
+TX;Fairfield;TX;1616;43
+TX;Garland;TX;1860;43
+TX;Beaumont;TX;455;43
+TX;Austin;TX;308;43
+TX;Garland;TX;1861;43
+TX;Fairfield;TX;1615;43
+TX;Austin;TX;309;43
+TX;Austin;TX;305;43
+TX;Waco;TX;5464;43
+TX;Beckville;TX;469;43
+TX;Myra;TX;3513;43
+TX;Waco;TX;5463;43
+TX;Laredo;TX;2739;43
+TX;Bellville;TX;485;43
+TX;Bedford;TX;470;43
+TX;Laredo;TX;2738;43
+TX;Waco;TX;5462;43
+TX;Beaumont;TX;459;43
+TX;Austin;TX;304;43
+TX;La Marque;TX;2628;43
+TX;Beaumont;TX;458;43
+TX;Progreso;TX;4260;43
+TX;Waco;TX;5461;43
+TX;Austin;TX;303;43
+TX;Beaumont;TX;461;43
+TX;Baytown;TX;451;43
+TX;Farmers Branch;TX;1630;43
+TX;Bacliff;TX;349;43
+TX;Azle;TX;341;43
+TX;Azle;TX;342;43
+TX;Balch Springs;TX;379;43
+TX;Austin;TX;319;43
+TX;Lancaster;TX;2718;43
+TX;Austin;TX;321;43
+TX;Farmers Branch;TX;1631;43
+TX;Austin;TX;327;43
+TX;Austin;TX;328;43
+TX;Austin;TX;325;43
+TX;Austin;TX;326;43
+TX;Austin;TX;330;43
+TX;Austin;TX;331;43
+TX;Austin;TX;323;43
+TX;Austin;TX;329;43
+TX;Austin;TX;318;43
+TX;Bay City;TX;445;43
+TX;Austin;TX;311;43
+TX;Austin;TX;313;43
+TX;Austin;TX;312;43
+TX;Baytown;TX;449;43
+TX;Baytown;TX;450;43
+TX;Austin;TX;310;43
+TX;Baytown;TX;448;43
+TX;Victoria;TX;5433;43
+TX;Rio Bravo;TX;4409;43
+TX;Vernon;TX;5429;43
+TX;Garland;TX;1858;43
+TX;Austin;TX;317;43
+TX;Austin;TX;314;43
+TX;Garland;TX;1859;43
+TX;Austin;TX;316;43
+TX;Austin;TX;315;43
+TX;Laredo;TX;2740;43
+TX;Arlington;TX;191;43
+TX;Ellis County;TX;1537;43
+TX;Arlington;TX;193;43
+TX;Arlington;TX;192;43
+TX;The Colony;TX;5233;43
+TX;Boerne;TX;568;43
+TX;Watagua;TX;5522;43
+TX;Watauga;TX;5523;43
+TX;Gonzales County;TX;1926;43
+TX;Elmendorf;TX;1539;43
+TX;Arlington;TX;198;43
+TX;Arlington;TX;200;43
+TX;Arlington;TX;199;43
+TX;Arlington;TX;196;43
+TX;Arlington;TX;195;43
+TX;Arlington;TX;197;43
+TX;Ellis County;TX;1538;43
+TX;Boerne;TX;569;43
+TX;Midland;TX;3340;43
+TX;Weatherford;TX;5550;43
+TX;Bracketville;TX;618;43
+TX;Port Arthur;TX;4190;43
+TX;Weatherford;TX;5552;43
+TX;Katy;TX;2545;43
+TX;Weatherford;TX;5551;43
+TX;Nocona;TX;3638;43
+TX;Midland;TX;3341;43
+TX;Port Arthur;TX;4191;43
+TX;Arlington;TX;189;43
+TX;Boerne;TX;570;43
+TX;Terrell;TX;5229;43
+TX;Temple;TX;5219;43
+TX;Temple;TX;5218;43
+TX;Midlothian;TX;3342;43
+TX;Temple;TX;5220;43
+TX;Kerrville;TX;2573;43
+TX;Rosenberg;TX;4465;43
+TX;Knox County;TX;2612;43
+TX;Bexar County;TX;514;43
+TX;Bexar County;TX;515;43
+TX;Round Rock;TX;4480;43
+TX;Monahans;TX;3415;43
+TX;Rosser;TX;4470;43
+TX;Georgetown;TX;1879;43
+TX;Bexar County;TX;513;43
+TX;Euless;TX;1578;43
+TX;Nacogdoches;TX;3520;43
+TX;Laredo;TX;2741;43
+TX;Euless;TX;1579;43
+TX;Kountze;TX;2623;43
+TX;Rockwall;TX;4449;43
+TX;Nacogdoches;TX;3521;43
+TX;Poteet;TX;4234;43
+TX;Giddings;TX;1888;43
+TX;Gladewater;TX;1899;43
+TX;Arlington;TX;202;43
+TX;Gilmer;TX;1895;43
+TX;Tomball;TX;5265;43
+TX;Kerrville;TX;2575;43
+TX;Kerrville;TX;2574;43
+TX;Killeen;TX;2580;43
+TX;Killeen;TX;2579;43
+TX;Kingsbury;TX;2594;43
+TX;Mission;TX;3389;43
+TX;New Boston;TX;3552;43
+TX;Missouri City;TX;3395;43
+TX;Mission;TX;3390;43
+TX;Mission;TX;3387;43
+TX;Mission;TX;3386;43
+TX;Mission;TX;3388;43
+TX;Kingwood;TX;2598;43
+TX;Houston;TX;2274;43
+TX;Silsbee;TX;4845;43
+TX;Longview;TX;2962;43
+TX;Clute;TX;1057;43
+TX;Cochran County;TX;1064;43
+TX;Sierra Blanca;TX;4843;43
+TX;Pearland;TX;3972;43
+TX;Wink;TX;5688;43
+TX;Pearland;TX;3970;43
+TX;Pearland;TX;3971;43
+TX;Longview;TX;2961;43
+TX;Pattison;TX;3959;43
+TX;Longview;TX;2958;43
+TX;McKinney;TX;3210;43
+TX;Wimberley;TX;5681;43
+TX;Wimberley;TX;5682;43
+TX;Fort Worth;TX;1749;43
+TX;Cloverleaf;TX;1053;43
+TX;Hopkins County;TX;2226;43
+TX;Fort Worth;TX;1752;43
+TX;Shelbyville;TX;4816;43
+TX;Maryneal;TX;3192;43
+TX;Marshall;TX;3187;43
+TX;Winters;TX;5700;43
+TX;Wolfe City;TX;5703;43
+TX;Fort Worth;TX;1754;43
+TX;Pharr;TX;4005;43
+TX;Fort Worth;TX;1753;43
+TX;Plainview;TX;4153;43
+TX;Winnie;TX;5691;43
+TX;Lorena;TX;2964;43
+TX;Fort Worth;TX;1750;43
+TX;Fort Worth;TX;1751;43
+TX;Dumas;TX;1417;43
+TX;Mathis;TX;3199;43
+TX;Sherman;TX;4825;43
+TX;Sherman;TX;4824;43
+TX;San Antonio;TX;4602;43
+TX;Willis;TX;5667;43
+TX;San Antonio;TX;4600;43
+TX;San Antonio;TX;4601;43
+TX;Longview;TX;2955;43
+TX;Houston;TX;2236;43
+TX;San Antonio;TX;4604;43
+TX;Houston;TX;2237;43
+TX;San Antonio;TX;4603;43
+TX;San Antonio;TX;4596;43
+TX;San Antonio;TX;4597;43
+TX;Houston;TX;2239;43
+TX;Floresville;TX;1687;43
+TX;Willis;TX;5666;43
+TX;San Antonio;TX;4599;43
+TX;Clarksville;TX;1014;43
+TX;San Antonio;TX;4598;43
+TX;Houston;TX;2238;43
+TX;Plano;TX;4155;43
+TX;Longview;TX;2957;43
+TX;Pasadena;TX;3945;43
+TX;Plano;TX;4156;43
+TX;Edinburg;TX;1475;43
+TX;Plano;TX;4154;43
+TX;Fort Worth;TX;1748;43
+TX;Edinburg;TX;1474;43
+TX;Fort Worth;TX;1747;43
+TX;San Antonio;TX;4607;43
+TX;San Benito;TX;4608;43
+TX;San Antonio;TX;4605;43
+TX;San Antonio;TX;4606;43
+TX;El Paso;TX;1492;43
+TX;Fort Stockton;TX;1736;43
+TX;Pasadena;TX;3944;43
+TX;Socorro;TX;4875;43
+TX;Snyder;TX;4874;43
+TX;Corpus Christi;TX;1184;43
+TX;Dallas;TX;1245;43
+TX;Corpus Christi;TX;1182;43
+TX;Corpus Christi;TX;1183;43
+TX;Groveton;TX;2017;43
+TX;Dallas;TX;1242;43
+TX;Dallas;TX;1241;43
+TX;Dallas;TX;1244;43
+TX;Dallas;TX;1243;43
+TX;Fort Worth;TX;1763;43
+TX;Dallas;TX;1246;43
+TX;San Marcos;TX;4691;43
+TX;Conroe;TX;1164;43
+TX;Abilene;TX;6;43
+TX;Corpus Christi;TX;1180;43
+TX;Corpus Christi;TX;1181;43
+TX;Corpus Christi;TX;1178;43
+TX;Corpus Christi;TX;1179;43
+TX;Dallas;TX;1235;43
+TX;Dallas;TX;1236;43
+TX;Dalhart;TX;1233;43
+TX;Dallas;TX;1234;43
+TX;Dallas;TX;1237;43
+TX;Dallas;TX;1239;43
+TX;San Antonio;TX;4566;43
+TX;Sanger;TX;4708;43
+TX;Dallas;TX;1240;43
+TX;Abilene;TX;4;43
+TX;Harris County;TX;2068;43
+TX;Harris County;TX;2069;43
+TX;Abilene;TX;5;43
+TX;Crowell;TX;1212;43
+TX;Guadalupe County;TX;2020;43
+TX;Sandia;TX;4701;43
+TX;Harmony;TX;2066;43
+TX;Harker Heights;TX;2065;43
+TX;Denton;TX;1325;43
+TX;Denton;TX;1324;43
+TX;Denton;TX;1327;43
+TX;Denton;TX;1326;43
+TX;Del Rio;TX;1301;43
+TX;Fort Worth;TX;1756;43
+TX;Fort Worth;TX;1757;43
+TX;DeSoto;TX;1284;43
+TX;Fort Worth;TX;1755;43
+TX;Lubbock;TX;3097;43
+TX;Lubbock;TX;3098;43
+TX;Wood County;TX;5706;43
+TX;Dilley;TX;1393;43
+TX;Lufkin;TX;3103;43
+TX;Denton;TX;1328;43
+TX;Seminole;TX;4793;43
+TX;Greenspoint;TX;1991;43
+TX;Denton County;TX;1329;43
+TX;Addison;TX;18;43
+TX;Conroe;TX;1162;43
+TX;Seagoville;TX;4764;43
+TX;Hereford;TX;2137;43
+TX;Conroe;TX;1163;43
+TX;Schertz;TX;4751;43
+TX;Henderson County;TX;2127;43
+TX;Dallas;TX;1248;43
+TX;Schertz;TX;4752;43
+TX;Mansfield;TX;3170;43
+TX;Fort Worth;TX;1759;43
+TX;Mabank;TX;3118;43
+TX;Fort Worth;TX;1758;43
+TX;Fort Worth;TX;1760;43
+TX;Dallas;TX;1250;43
+TX;Dallas;TX;1249;43
+TX;Fort Worth;TX;1761;43
+TX;Fort Worth;TX;1762;43
+TX;Wichita Falls;TX;5657;43
+TX;Freeport;TX;1791;43
+TX;Llano;TX;2914;43
+TX;Houston;TX;2268;43
+TX;Houston;TX;2267;43
+TX;Littlefield;TX;2908;43
+TX;San Antonio;TX;4593;43
+TX;Allen;TX;100;43
+TX;Friendswood;TX;1821;43
+TX;Llano;TX;2915;43
+TX;Lockhart;TX;2916;43
+TX;Palestine;TX;3897;43
+TX;San Antonio;TX;4589;43
+TX;Cisco;TX;989;43
+TX;Childress;TX;962;43
+TX;San Antonio;TX;4580;43
+TX;Houston;TX;2249;43
+TX;Houston;TX;2266;43
+TX;Palestine;TX;3898;43
+TX;Houston;TX;2265;43
+TX;Spring;TX;4954;43
+TX;Spring;TX;4953;43
+TX;San Antonio;TX;4592;43
+TX;Houston;TX;2251;43
+TX;Refugio;TX;4363;43
+TX;San Antonio;TX;4583;43
+TX;Houston;TX;2269;43
+TX;Houston;TX;2271;43
+TX;Splendora;TX;4936;43
+TX;Houston;TX;2252;43
+TX;San Antonio;TX;4585;43
+TX;San Antonio;TX;4584;43
+TX;Quanah;TX;4291;43
+TX;San Antonio;TX;4581;43
+TX;San Antonio;TX;4590;43
+TX;Springtown;TX;4982;43
+TX;San Antonio;TX;4591;43
+TX;Reno;TX;4371;43
+TX;Allen;TX;98;43
+TX;Houston;TX;2250;43
+TX;Whitewright;TX;5641;43
+TX;San Antonio;TX;4586;43
+TX;Levelland;TX;2864;43
+TX;Houston;TX;2272;43
+TX;Paris;TX;3924;43
+TX;Quinlan;TX;4298;43
+TX;Houston;TX;2240;43
+TX;Cinco Ranch;TX;986;43
+TX;Houston;TX;2254;43
+TX;Houston;TX;2273;43
+TX;Houston;TX;2261;43
+TX;San Antonio;TX;4588;43
+TX;Houston;TX;2260;43
+TX;Houston;TX;2244;43
+TX;Houston;TX;2255;43
+TX;Paris;TX;3927;43
+TX;Houston;TX;2243;43
+TX;Houston;TX;2242;43
+TX;Houston;TX;2259;43
+TX;Houston;TX;2241;43
+TX;Houston;TX;2257;43
+TX;Houston;TX;2256;43
+TX;Houston;TX;2258;43
+TX;San Antonio;TX;4595;43
+TX;San Antonio;TX;4594;43
+TX;Houston;TX;2262;43
+TX;San Antonio;TX;4574;43
+TX;San Antonio;TX;4575;43
+TX;San Antonio;TX;4573;43
+TX;Panhandle;TX;3918;43
+TX;Houston;TX;2253;43
+TX;San Antonio;TX;4576;43
+TX;Houston;TX;2248;43
+TX;Paris;TX;3925;43
+TX;San Antonio;TX;4579;43
+TX;San Antonio;TX;4577;43
+TX;San Antonio;TX;4578;43
+TX;Houston;TX;2246;43
+TX;Houston;TX;2263;43
+TX;San Antonio;TX;4587;43
+TX;Cinco Ranch;TX;987;43
+TX;Houston;TX;2247;43
+TX;San Antonio;TX;4582;43
+TX;Houston;TX;2245;43
+TX;Houston;TX;2264;43
+UT;Herriman;UT;2141;44
+UT;Salt Lake City;UT;4550;44
+UT;Tooele;UT;5268;44
+UT;West Valley City;UT;5605;44
+UT;Centerville;UT;834;44
+UT;Salt Lake City;UT;4551;44
+UT;Huntsville;UT;2317;44
+UT;Emery County;UT;1544;44
+UT;Roy;UT;4486;44
+UT;Magna;UT;3138;44
+UT;Orem;UT;3839;44
+UT;Riverton;UT;4426;44
+UT;Roosevelt;UT;4457;44
+UT;Roy;UT;4487;44
+UT;Salt Lake City;UT;4553;44
+UT;Draper;UT;1413;44
+UT;Salt Lake City;UT;4552;44
+UT;Salt Lake City;UT;4554;44
+UT;Provo;UT;4263;44
+UT;Cedar City;UT;821;44
+UT;Montezuma Creek;UT;3436;44
+UT;Ogden;UT;3741;44
+UT;Kearns;UT;2548;44
+UT;Kearns;UT;2549;44
+UT;Ogden;UT;3740;44
+UT;Clinton;UT;1043;44
+UT;Taylorsville;UT;5202;44
+UT;Ogden;UT;3739;44
+UT;Ogden;UT;3742;44
+UT;West Jordan;UT;5585;44
+UT;Salt Lake City;UT;4540;44
+UT;Aragonite;UT;179;44
+UT;West Jordan;UT;5584;44
+UT;Ogden;UT;3743;44
+UT;Ogden;UT;3744;44
+UT;Ogden;UT;3745;44
+UT;South Salt Lake;UT;4905;44
+UT;Syracuse;UT;5148;44
+UT;Logan Canyon;UT;2923;44
+UT;Wellington;UT;5566;44
+UT;South Ogden;UT;4903;44
+UT;Layton;UT;2828;44
+UT;South Salt Lake;UT;4904;44
+UT;Logan;UT;2922;44
+UT;West Jordan;UT;5581;44
+UT;West Jordan;UT;5582;44
+UT;West Jordan;UT;5583;44
+UT;Parowan;UT;3941;44
+UT;Clearfield;UT;1025;44
+UT;Spanish Fork;UT;4915;44
+UT;Spanish Fork;UT;4916;44
+UT;Salt Lake City;UT;4541;44
+UT;Cottonwood Heights;UT;1192;44
+UT;Salt Lake City;UT;4546;44
+UT;Sugar House;UT;5108;44
+UT;Salt Lake City;UT;4543;44
+UT;Holladay;UT;2186;44
+UT;West Valley City;UT;5606;44
+UT;Salt Lake City;UT;4549;44
+UT;Salt Lake City;UT;4548;44
+UT;Salt Lake City;UT;4545;44
+UT;Eagle Mountain;UT;1438;44
+UT;Sandy;UT;4704;44
+UT;Salt Lake City;UT;4542;44
+UT;Bountiful;UT;611;44
+UT;Salt Lake City;UT;4544;44
+UT;Clinton;UT;1050;44
+UT;West Jordan;UT;5586;44
+UT;Millcreek;UT;3351;44
+UT;Milcreek;UT;3346;44
+UT;Midvale;UT;3343;44
+UT;Salt Lake City;UT;4547;44
+VA;Henrico;VA;2130;45
+VA;Charlottesville;VA;880;45
+VA;Concord;VA;1160;45
+VA;Virginia Beach;VA;5448;45
+VA;Harrisonburg;VA;2076;45
+VA;Roanoke;VA;4433;45
+VA;Roanoke;VA;4432;45
+VA;Virginia Beach;VA;5449;45
+VA;Richmond;VA;4392;45
+VA;Virginia Beach;VA;5447;45
+VA;Roanoke;VA;4431;45
+VA;Roanoke;VA;4430;45
+VA;Montgomery County;VA;3443;45
+VA;Powhatan County;VA;4246;45
+VA;Chesapeake;VA;896;45
+VA;Grundy;VA;2019;45
+VA;Abingdon;VA;7;45
+VA;Haymarket;VA;2093;45
+VA;Alexandria;VA;93;45
+VA;Culpeper;VA;1219;45
+VA;Harrisonburg;VA;2077;45
+VA;Virginia Beach;VA;5446;45
+VA;Hampton;VA;2050;45
+VA;Bassett;VA;426;45
+VA;Scott County;VA;4755;45
+VA;Chase City;VA;881;45
+VA;Falls Church;VA;1629;45
+VA;Chester;VA;898;45
+VA;Chesapeake;VA;897;45
+VA;Virginia Beach;VA;5450;45
+VA;Newport News;VA;3623;45
+VA;Newport News;VA;3624;45
+VA;Newport News;VA;3621;45
+VA;Newport News;VA;3622;45
+VA;Suffolk;VA;5104;45
+VA;Hopewell;VA;2224;45
+VA;Pearisburg;VA;3967;45
+VA;Arlington;VA;190;45
+VA;Winchester;VA;5686;45
+VA;Pulaski;VA;4285;45
+VA;Richmond;VA;4397;45
+VA;Richmond;VA;4398;45
+VA;Arvonia;VA;213;45
+VA;Richmond;VA;4396;45
+VA;Colonial Heights;VA;1082;45
+VA;Timberville;VA;5254;45
+VA;Timberville;VA;5253;45
+VA;Norfolk;VA;3651;45
+VA;Norman;VA;3653;45
+VA;Norfolk;VA;3649;45
+VA;Norfolk;VA;3650;45
+VA;Mecklenburg;VA;3222;45
+VA;Richmond;VA;4394;45
+VA;Sussex County;VA;5133;45
+VA;Buchanan;VA;686;45
+VA;Norfolk;VA;3648;45
+VA;Waynesboro;VA;5549;45
+VA;Bristol;VA;645;45
+VA;Hopewell;VA;2225;45
+VA;Arlington;VA;188;45
+VA;Norfolk;VA;3646;45
+VA;Norfolk;VA;3647;45
+VA;Grayson County;VA;1964;45
+VA;Norfolk;VA;3645;45
+VA;Farmville;VA;1638;45
+VA;Richmond County;VA;4402;45
+VA;Wytheville;VA;5719;45
+VA;Wythe County;VA;5718;45
+VA;Portsmouth;VA;4232;45
+VA;Portsmouth;VA;4231;45
+VA;Lynchburg;VA;3108;45
+VA;Richmond;VA;4401;45
+VA;York County;VA;5735;45
+VA;Fairfax;VA;1612;45
+VA;Henrico;VA;2131;45
+VA;Virginia Beach;VA;5451;45
+VA;Virginia Beach;VA;5452;45
+VA;Danville;VA;1257;45
+VA;Danville;VA;1259;45
+VA;Herndon;VA;2140;45
+VA;Stafford;VA;5054;45
+VA;Spotsylvania;VA;4952;45
+VA;Hiltons;VA;2169;45
+VA;Wise County;VA;5701;45
+VA;Richmond;VA;4399;45
+VA;Fredericksburg;VA;1788;45
+VA;Glade Spring;VA;1898;45
+VA;King George;VA;2583;45
+VA;Hinton;VA;2171;45
+VA;Pulaski;VA;4284;45
+VA;Aldie;VA;89;45
+VA;Independence;VA;2346;45
+VA;Alexandria;VA;91;45
+VA;Portsmouth;VA;4230;45
+VA;Emporia;VA;1548;45
+VA;Woodbridge;VA;5708;45
+VA;Woodford;VA;5710;45
+VA;Lexington;VA;2871;45
+VT;Winooski;VT;5693;46
+VT;Montpelier;VT;3447;46
+VT;Rutland;VT;4502;46
+VT;Poultney;VT;4241;46
+VT;Tunbridge;VT;5362;46
+VT;Burlington;VT;712;46
+VT;Burlington;VT;713;46
+VT;Bolton;VT;581;46
+VT;Montpelier;VT;3448;46
+WA;Seattle;WA;4777;47
+WA;Spokane;WA;4943;47
+WA;Lynnwood;WA;3115;47
+WA;Frederickstown;WA;1789;47
+WA;Spokane;WA;4944;47
+WA;Bothell;WA;604;47
+WA;Kelso;WA;2555;47
+WA;Kelso;WA;2554;47
+WA;Federal Way;WA;1655;47
+WA;Spokane;WA;4942;47
+WA;Seattle;WA;4776;47
+WA;Renton;WA;4376;47
+WA;Elk Plain;WA;1522;47
+WA;Renton;WA;4377;47
+WA;Seattle;WA;4775;47
+WA;Spokane;WA;4948;47
+WA;Spokane;WA;4946;47
+WA;Spokane;WA;4945;47
+WA;Spokane;WA;4947;47
+WA;Bremerton;WA;634;47
+WA;Renton;WA;4378;47
+WA;Kent;WA;2566;47
+WA;Spokane;WA;4937;47
+WA;Kent;WA;2565;47
+WA;Puyallup;WA;4290;47
+WA;Federal Way;WA;1656;47
+WA;Fife;WA;1657;47
+WA;Kent;WA;2568;47
+WA;Kent Station;WA;2570;47
+WA;Redmond;WA;4359;47
+WA;Kent;WA;2567;47
+WA;Thurston County;WA;5250;47
+WA;Spokane;WA;4939;47
+WA;Seattle;WA;4774;47
+WA;Spokane;WA;4940;47
+WA;Kennewick;WA;2560;47
+WA;Spokane;WA;4941;47
+WA;Spokane;WA;4938;47
+WA;Kennewick;WA;2562;47
+WA;Seattle;WA;4773;47
+WA;Kennewick;WA;2561;47
+WA;Franklin County;WA;1782;47
+WA;Puyallup;WA;4289;47
+WA;Spokane Valley;WA;4951;47
+WA;Spokane;WA;4950;47
+WA;Olympia;WA;3796;47
+WA;Seattle;WA;4780;47
+WA;Seattle;WA;4779;47
+WA;Sumas;WA;5112;47
+WA;Yakima;WA;5720;47
+WA;Burien;WA;706;47
+WA;Alderwood Manor;WA;88;47
+WA;Grapeview;WA;1959;47
+WA;Seattle;WA;4778;47
+WA;Woodland;WA;5711;47
+WA;Des Moines;WA;1367;47
+WA;Des Moines;WA;1369;47
+WA;Hillyard;WA;2164;47
+WA;Centralia;WA;836;47
+WA;Cheney;WA;895;47
+WA;Airway Heights;WA;30;47
+WA;Seattle;WA;4781;47
+WA;Deer Park;WA;1296;47
+WA;Stanwood;WA;5060;47
+WA;Hunters;WA;2305;47
+WA;Federal Way;WA;1652;47
+WA;Tacoma;WA;5161;47
+WA;Yakima;WA;5721;47
+WA;Tacoma;WA;5160;47
+WA;Tacoma;WA;5159;47
+WA;Federal Way;WA;1654;47
+WA;Graham;WA;1939;47
+WA;Oak Harbor;WA;3701;47
+WA;Spokane;WA;4949;47
+WA;Yakima;WA;5723;47
+WA;Yakima;WA;5722;47
+WA;Graham;WA;1938;47
+WA;Tacoma;WA;5153;47
+WA;Tacoma;WA;5154;47
+WA;Richland;WA;4389;47
+WA;Tacoma;WA;5151;47
+WA;Tacoma;WA;5152;47
+WA;Federal Way;WA;1653;47
+WA;Wenatchee;WA;5568;47
+WA;Tacoma;WA;5158;47
+WA;Tacoma;WA;5157;47
+WA;Tacoma;WA;5155;47
+WA;Tacoma;WA;5156;47
+WA;Port Orchard;WA;4198;47
+WA;Muckleshoot Indian Reservation;WA;3495;47
+WA;Ebey Island;WA;1468;47
+WA;Lacey;WA;2642;47
+WA;Lacey;WA;2640;47
+WA;Lacey;WA;2641;47
+WA;Longview;WA;2959;47
+WA;Moses Lake;WA;3476;47
+WA;Lake Stevens;WA;2678;47
+WA;Hazel Dell;WA;2102;47
+WA;Longview;WA;2960;47
+WA;Lake Stevens;WA;2677;47
+WA;Rochester;WA;4437;47
+WA;Pasco;WA;3949;47
+WA;Poulsbo;WA;4240;47
+WA;Shoreline;WA;4830;47
+WA;Snohomish;WA;4873;47
+WA;Burien;WA;707;47
+WA;Tukwila;WA;5331;47
+WA;Pasco;WA;3951;47
+WA;Montesano;WA;3435;47
+WA;Auburn;WA;274;47
+WA;Pasco;WA;3950;47
+WA;Vancouver;WA;5419;47
+WA;Vancouver;WA;5418;47
+WA;Vancouver;WA;5420;47
+WA;Vancouver;WA;5422;47
+WA;Vancouver;WA;5421;47
+WA;Vancouver;WA;5417;47
+WA;Vancouver;WA;5413;47
+WA;Bainbridge Island;WA;354;47
+WA;Vancouver;WA;5414;47
+WA;Vancouver;WA;5416;47
+WA;Vancouver;WA;5415;47
+WA;Eatonville;WA;1462;47
+WA;East Wenatchee;WA;1458;47
+WA;Longview;WA;2963;47
+WA;Eatonville;WA;1463;47
+WA;Riverside;WA;4421;47
+WA;Lakewood;WA;2697;47
+WA;Lakewood;WA;2705;47
+WA;Ritzville;WA;4414;47
+WA;Aberdeen;WA;2;47
+WA;Lakewood;WA;2699;47
+WA;Lakewood;WA;2701;47
+WA;Kirkland;WA;2603;47
+WA;Kirkland;WA;2604;47
+WA;Kirkland;WA;2601;47
+WA;Kirkland;WA;2602;47
+WA;Shelton;WA;4821;47
+WA;Seattle;WA;4771;47
+WA;Benton City;WA;498;47
+WA;Wapato;WA;5486;47
+WA;Kittitas;WA;2606;47
+WA;Toppenish;WA;5274;47
+WA;Shelton;WA;4820;47
+WA;Spanaway;WA;4914;47
+WA;Beaver;WA;462;47
+WA;Glenoma;WA;1916;47
+WA;Spanaway;WA;4913;47
+WA;Black Diamond;WA;548;47
+WA;Seattle;WA;4772;47
+WA;Parkland;WA;3932;47
+WA;Marysville;WA;3193;47
+WA;Walla Walla;WA;5475;47
+WA;Auburn;WA;269;47
+WA;Cle Elum;WA;1023;47
+WA;Auburn;WA;267;47
+WA;Auburn;WA;270;47
+WA;Everett;WA;1596;47
+WA;Auburn;WA;273;47
+WA;Bellingham;WA;484;47
+WA;Ridgefield;WA;4405;47
+WA;Longview;WA;2956;47
+WA;Everett;WA;1594;47
+WA;Seattle;WA;4770;47
+WA;Seattle;WA;4769;47
+WI;South Milwaukee;WI;4902;48
+WI;Sheboygan;WI;4808;48
+WI;Sparta;WI;4927;48
+WI;Franklin;WI;1775;48
+WI;St. Croix Falls;WI;4997;48
+WI;Sheboygan;WI;4809;48
+WI;Paddock Lake;WI;3888;48
+WI;Pardeeville;WI;3923;48
+WI;Weston;WI;5626;48
+WI;East Troy;WI;1457;48
+WI;Racine;WI;4300;48
+WI;Eau Claire;WI;1465;48
+WI;Eau Claire;WI;1464;48
+WI;Menasha;WI;3249;48
+WI;Eau Claire;WI;1466;48
+WI;Eau Claire;WI;1467;48
+WI;Clark County;WI;1006;48
+WI;Fox Crossing;WI;1772;48
+WI;Racine;WI;4301;48
+WI;Peshtigo;WI;3999;48
+WI;Fox Crossing;WI;1771;48
+WI;Green Bay;WI;1980;48
+WI;Pembine;WI;3979;48
+WI;Fond du Lac;WI;1693;48
+WI;Green Bay;WI;1979;48
+WI;Milwaukee;WI;3370;48
+WI;Milwaukee;WI;3371;48
+WI;Milwaukee;WI;3369;48
+WI;Arpin;WI;204;48
+WI;New London;WI;3565;48
+WI;Milwaukee;WI;3374;48
+WI;Ashland;WI;221;48
+WI;Milwaukee;WI;3372;48
+WI;Milwaukee;WI;3373;48
+WI;Milwaukee;WI;3364;48
+WI;Fox Crossing;WI;1770;48
+WI;Kenosha;WI;2563;48
+WI;Goodman;WI;1929;48
+WI;Crandon;WI;1203;48
+WI;Milwaukee;WI;3368;48
+WI;Black River Falls;WI;549;48
+WI;Milwaukee;WI;3366;48
+WI;Milwaukee;WI;3367;48
+WI;Neenah;WI;3546;48
+WI;La Crosse;WI;2626;48
+WI;Geneva;WI;1876;48
+WI;Two Rivers;WI;5373;48
+WI;Madison;WI;3133;48
+WI;Lake Hallie;WI;2666;48
+WI;Mount Hope;WI;3481;48
+WI;Hawkins;WI;2091;48
+WI;Manitowoc;WI;3161;48
+WI;Corning;WI;1176;48
+WI;Geneva;WI;1877;48
+WI;Monroe;WI;3423;48
+WI;Ashwaubenon;WI;226;48
+WI;York;WI;5733;48
+WI;Beloit;WI;487;48
+WI;Madison;WI;3130;48
+WI;Beaver Dam;WI;463;48
+WI;Fairchild;WI;1611;48
+WI;Crandon;WI;1202;48
+WI;Odanah;WI;3730;48
+WI;West Allis;WI;5572;48
+WI;Jackson;WI;2410;48
+WI;Suring;WI;5130;48
+WI;Antigo;WI;160;48
+WI;Kaukauna;WI;2546;48
+WI;Madison;WI;3129;48
+WI;Appleton;WI;175;48
+WI;Appleton;WI;176;48
+WI;Loyal;WI;3096;48
+WI;Oshkosh;WI;3865;48
+WI;Milwaukee;WI;3365;48
+WI;Leon;WI;2862;48
+WI;Rib Mountain;WI;4387;48
+WI;Caledonia;WI;742;48
+WI;West Kewaunee;WI;5588;48
+WI;Greenfield;WI;1986;48
+WI;Pine River;WI;4131;48
+WI;Elkhorn;WI;1525;48
+WI;Millston;WI;3353;48
+WI;Waukesha;WI;5538;48
+WI;Waukesha;WI;5537;48
+WI;Watertown;WI;5530;48
+WI;Milwaukee;WI;3362;48
+WI;Milwaukee;WI;3363;48
+WI;Milwaukee;WI;3360;48
+WI;Milwaukee;WI;3361;48
+WI;Wauwatosa;WI;5543;48
+WI;Wausau;WI;5542;48
+WI;Wauwatosa;WI;5544;48
+WI;Appleton;WI;177;48
+WI;Wauwatosa;WI;5545;48
+WI;Waukesha;WI;5539;48
+WI;Waukesha;WI;5540;48
+WI;Wausau;WI;5541;48
+WV;Charleston;WV;856;49
+WV;Cross Lanes;WV;1211;49
+WV;Wood County;WV;5705;49
+WV;Drennen;WV;1414;49
+WV;Petroleum;WV;4003;49
+WV;Pentress;WV;3989;49
+WV;Scarbo;WV;4748;49
+WV;Hensley;WV;2135;49
+WV;Mannington;WV;3166;49
+WV;Nitro;WV;3636;49
+WV;Braxton County;WV;630;49
+WV;Grafton;WV;1935;49
+WV;Brandywine;WV;627;49
+WV;Gerrardstown;WV;1885;49
+WV;Bluefield;WV;565;49
+WV;Elkins;WV;1526;49
+WV;Valley Head;WV;5404;49
+WV;Pocahontas County;WV;4168;49
+WV;Ona;WV;3809;49
+WV;Welch;WV;5562;49
+WV;Nutter Fort;WV;3697;49
+WV;Buckhannon;WV;693;49
+WV;Weirton;WV;5560;49
+WV;Walton;WV;5482;49
+WV;Morgantown;WV;3464;49
+WV;Morgantown;WV;3465;49
+WV;Morgantown;WV;3466;49
+WV;Fairmont;WV;1622;49
+WV;Princeton;WV;4256;49
+WV;Princeton;WV;4257;49
+WV;Morgantown;WV;3463;49
+WV;Beckley;WV;468;49
+WV;Montcalm;WV;3428;49
+WV;Monongalia;WV;3419;49
+WV;Augusta;WV;282;49
+WV;Montgomery;WV;3437;49
+WV;Mount Hope;WV;3482;49
+WV;Roane County;WV;4429;49
+WV;Whitby;WV;5633;49
+WV;Spencer;WV;4934;49
+WV;Frametown;WV;1773;49
+WV;Charleston;WV;860;49
+WV;Charleston;WV;861;49
+WV;Reynoldsville;WV;4383;49
+WV;Follansbee;WV;1692;49
+WV;Meadow Bridge;WV;3218;49
+WV;Sissonville;WV;4860;49
+WV;Hometown;WV;2202;49
+WV;Fort Ashby;WV;1707;49
+WV;Clarksburg;WV;1010;49
+WV;Clendenin;WV;1031;49
+WV;Hurricane;WV;2328;49
+WV;Huntington;WV;2310;49
+WV;West Milford;WV;5595;49
+WV;Charleston;WV;855;49
+WV;Inwood;WV;2381;49
+WV;Charleston;WV;858;49
+WY;Rawlins;WY;4333;50
+WY;Riverton;WY;4425;50
+WY;Casper;WY;806;50
+WY;Gillette;WY;1894;50
+WY;Casper;WY;805;50
+WY;Casper;WY;807;50
+WY;Laramie;WY;2737;50
+WY;Cheyenne;WY;909;50
+WY;Douglas;WY;1402;50
+WY;Cheyenne;WY;908;50
+WY;Casper;WY;809;50
+WY;Casper;WY;808;50
+WY;Laramie;WY;2736;50
+WY;Douglas;WY;1401;50
